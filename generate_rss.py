@@ -39,7 +39,7 @@ class RSSGenerator:
         self.fg.podcast.itunes_author('RTVE')
         self.fg.podcast.itunes_category('Music')
         self.fg.podcast.itunes_explicit('no')
-        self.fg.podcast.itunes_owner(name='RTVE', email='')
+        self.fg.podcast.itunes_owner(name='RTVE', email='info@rtve.es')
         self.fg.podcast.itunes_summary(
             'De Nit és el programa nocturn de RNE 4. '
             'Feed RSS no oficial generat automàticament.'
