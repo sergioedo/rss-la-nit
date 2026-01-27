@@ -9,6 +9,7 @@ from feedgen.feed import FeedGenerator
 from dateutil import parser as date_parser
 import re
 from typing import List, Dict
+from urllib.parse import urlparse, urlunparse
 
 
 class RSSGenerator:
@@ -112,17 +113,24 @@ class RSSGenerator:
             return ''
         
         # Remove query parameters
-        from urllib.parse import urlparse, urlunparse
         parsed = urlparse(image_url)
         # Reconstruct URL without query string and fragment
         clean_url = urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))
         
         # Check if URL ends with valid extension (.jpg or .png only)
-        # feedgen is strict and only accepts these two extensions
-        if clean_url.endswith('.jpg') or clean_url.endswith('.png'):
-            return clean_url
+        # feedgen is strict and only accepts these two extensions in lowercase
+        # Use regex to match case-insensitive and normalize to lowercase
+        jpg_match = re.search(r'\.jpe?g$', clean_url, re.IGNORECASE)
+        png_match = re.search(r'\.png$', clean_url, re.IGNORECASE)
+        
+        if jpg_match:
+            # Normalize to .jpg (lowercase)
+            return clean_url[:jpg_match.start()] + '.jpg'
+        elif png_match:
+            # Normalize to .png (lowercase)
+            return clean_url[:png_match.start()] + '.png'
         else:
-            # Invalid extension (.jpeg, .webp, etc.), return empty string to skip
+            # Invalid extension (.webp, etc.), return empty string to skip
             # The episode will still be added, just without the image
             return ''
     
