@@ -9,6 +9,7 @@ from feedgen.feed import FeedGenerator
 from dateutil import parser as date_parser
 import re
 from typing import List, Dict
+from urllib.parse import urlparse, urlunparse
 
 
 class RSSGenerator:
@@ -97,6 +98,41 @@ class RSSGenerator:
         except Exception:
             return datetime.now(timezone.utc)
     
+    def _sanitize_image_url(self, image_url: str) -> str:
+        """
+        Sanitiza la URL de imagen para cumplir con los requisitos de feedgen/iTunes.
+        La librería feedgen requiere que las URLs terminen en .jpg o .png (minúsculas).
+        
+        Args:
+            image_url: URL de la imagen original
+            
+        Returns:
+            URL sanitizada o cadena vacía si no es válida
+        """
+        if not image_url:
+            return ''
+        
+        # Remove query parameters
+        parsed = urlparse(image_url)
+        # Reconstruct URL without query string and fragment
+        clean_url = urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))
+        
+        # Normalize extension to lowercase .jpg or .png (feedgen requirement)
+        # Accept .jpg, .jpeg (same format), and .png (case-insensitive)
+        jpg_match = re.search(r'\.jpe?g$', clean_url, re.IGNORECASE)
+        png_match = re.search(r'\.png$', clean_url, re.IGNORECASE)
+        
+        if jpg_match:
+            # Normalize to .jpg (lowercase)
+            return clean_url[:jpg_match.start()] + '.jpg'
+        elif png_match:
+            # Normalize to .png (lowercase)
+            return clean_url[:png_match.start()] + '.png'
+        else:
+            # Invalid extension (.webp, etc.), return empty string to skip
+            # The episode will still be added, just without the image
+            return ''
+    
     def add_episode(self, episode_data: Dict):
         """
         Añade un episodio al feed RSS.
@@ -148,7 +184,10 @@ class RSSGenerator:
         # Imagen del episodio
         image_url = episode_data.get('image_url')
         if image_url:
-            fe.podcast.itunes_image(image_url)
+            # Sanitize image URL: remove query params, normalize extension to .jpg/.png
+            sanitized_url = self._sanitize_image_url(image_url)
+            if sanitized_url:
+                fe.podcast.itunes_image(sanitized_url)
         
         # Autor
         fe.author({'name': 'RTVE'})
