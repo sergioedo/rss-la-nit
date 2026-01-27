@@ -97,6 +97,35 @@ class RSSGenerator:
         except Exception:
             return datetime.now(timezone.utc)
     
+    def _sanitize_image_url(self, image_url: str) -> str:
+        """
+        Sanitiza la URL de imagen para cumplir con los requisitos de feedgen.
+        iTunes requiere que las URLs terminen en .jpg o .png.
+        
+        Args:
+            image_url: URL de la imagen original
+            
+        Returns:
+            URL sanitizada o cadena vacía si no es válida
+        """
+        if not image_url:
+            return ''
+        
+        # Remove query parameters
+        from urllib.parse import urlparse, urlunparse
+        parsed = urlparse(image_url)
+        # Reconstruct URL without query string and fragment
+        clean_url = urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))
+        
+        # Check if URL ends with valid extension (.jpg or .png only)
+        # feedgen is strict and only accepts these two extensions
+        if clean_url.endswith('.jpg') or clean_url.endswith('.png'):
+            return clean_url
+        else:
+            # Invalid extension (.jpeg, .webp, etc.), return empty string to skip
+            # The episode will still be added, just without the image
+            return ''
+    
     def add_episode(self, episode_data: Dict):
         """
         Añade un episodio al feed RSS.
@@ -148,7 +177,11 @@ class RSSGenerator:
         # Imagen del episodio
         image_url = episode_data.get('image_url')
         if image_url:
-            fe.podcast.itunes_image(image_url)
+            # Sanitize image URL to meet feedgen requirements
+            # Remove query parameters and validate extension
+            sanitized_url = self._sanitize_image_url(image_url)
+            if sanitized_url:
+                fe.podcast.itunes_image(sanitized_url)
         
         # Autor
         fe.author({'name': 'RTVE'})
