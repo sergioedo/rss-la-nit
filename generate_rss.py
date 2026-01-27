@@ -100,8 +100,8 @@ class RSSGenerator:
     
     def _sanitize_image_url(self, image_url: str) -> str:
         """
-        Sanitiza la URL de imagen para cumplir con los requisitos de feedgen.
-        iTunes requiere que las URLs terminen en .jpg o .png.
+        Sanitiza la URL de imagen para cumplir con los requisitos de feedgen/iTunes.
+        La librería feedgen requiere que las URLs terminen en .jpg o .png (minúsculas).
         
         Args:
             image_url: URL de la imagen original
@@ -117,9 +117,8 @@ class RSSGenerator:
         # Reconstruct URL without query string and fragment
         clean_url = urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))
         
-        # Check if URL ends with valid extension (.jpg or .png only)
-        # feedgen is strict and only accepts these two extensions in lowercase
-        # Use regex to match case-insensitive and normalize to lowercase
+        # Normalize extension to lowercase .jpg or .png (feedgen requirement)
+        # Accept .jpg, .jpeg (same format), and .png (case-insensitive)
         jpg_match = re.search(r'\.jpe?g$', clean_url, re.IGNORECASE)
         png_match = re.search(r'\.png$', clean_url, re.IGNORECASE)
         
@@ -185,8 +184,7 @@ class RSSGenerator:
         # Imagen del episodio
         image_url = episode_data.get('image_url')
         if image_url:
-            # Sanitize image URL to meet feedgen requirements
-            # Remove query parameters and validate extension
+            # Sanitize image URL: remove query params, normalize extension to .jpg/.png
             sanitized_url = self._sanitize_image_url(image_url)
             if sanitized_url:
                 fe.podcast.itunes_image(sanitized_url)
