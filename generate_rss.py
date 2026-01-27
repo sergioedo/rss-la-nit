@@ -187,10 +187,10 @@ def main():
         with open(args.input, 'r', encoding='utf-8') as f:
             episodes = json.load(f)
     except FileNotFoundError:
-        print(f"Error: No se encontró el archivo {args.input}")
+        print(f"Error: No se encontró el archivo {args.input}. Ejecuta primero el scraper para generar los datos de episodios.")
         return
     except json.JSONDecodeError:
-        print(f"Error: El archivo {args.input} no es un JSON válido")
+        print(f"Error: El archivo {args.input} no contiene JSON válido. Verifica que el archivo fue generado correctamente por el scraper.")
         return
     
     if not episodes:

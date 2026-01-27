@@ -29,7 +29,7 @@ class DeNitScraper:
         self.delay = delay
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (compatible; RSSFeedBot/1.0; +https://github.com/sergioedo/rss-la-nit)'
         })
     
     def _extract_json_data(self, soup: BeautifulSoup) -> Optional[Dict]:
@@ -83,7 +83,7 @@ class DeNitScraper:
                         if 'audioUrl' in item:
                             return item['audioUrl']
         except Exception as e:
-            print(f"Error al obtener audio desde API: {e}")
+            print(f"Error al obtener audio desde API para episodio {episode_id}: {e}")
         
         return None
     
@@ -156,7 +156,7 @@ class DeNitScraper:
             audio_url = self._extract_audio_url(soup, episode_id)
             
             if not title:
-                print(f"No se pudo extraer el título de {episode_url}")
+                print(f"Error: No se pudo extraer el título del episodio desde {episode_url}. El episodio será omitido.")
                 return None
             
             episode_data = {
@@ -173,7 +173,7 @@ class DeNitScraper:
             return episode_data
             
         except Exception as e:
-            print(f"Error al procesar {episode_url}: {e}")
+            print(f"Error al procesar episodio {episode_url}: {e}. Saltando al siguiente episodio.")
             return None
     
     def get_episodes_list(self, max_episodes: int = 50) -> List[Dict]:
