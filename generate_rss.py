@@ -4,7 +4,7 @@ Generador de feed RSS para el podcast "De Nit" de RTVE.
 """
 
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 from dateutil import parser as date_parser
 import re
@@ -83,15 +83,19 @@ class RSSGenerator:
             date_str: Fecha como string
             
         Returns:
-            Objeto datetime
+            Objeto datetime con timezone (UTC)
         """
         if not date_str:
-            return datetime.now()
+            return datetime.now(timezone.utc)
         
         try:
-            return date_parser.parse(date_str)
+            dt = date_parser.parse(date_str)
+            # Si el datetime no tiene timezone, asignar UTC
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
         except Exception:
-            return datetime.now()
+            return datetime.now(timezone.utc)
     
     def add_episode(self, episode_data: Dict):
         """
