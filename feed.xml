@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>De Nit - RNE 4</title>
+    <link>https://raw.githubusercontent.com/sergioedo/rss-la-nit/main/feed.xml</link>
+    <description>De Nit és el programa nocturn de RNE 4 (Catalunya Ràdio). Música, tertúlies i molt més durant la nit.</description>
+    <atom:link href="https://raw.githubusercontent.com/sergioedo/rss-la-nit/main/feed.xml" rel="self"/>
+    <copyright>© RTVE</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg</url>
+      <title>De Nit</title>
+      <link>https://www.rtve.es/play/audios/de-nit/</link>
+    </image>
+    <language>ca</language>
+    <lastBuildDate>Tue, 27 Jan 2026 18:45:18 +0000</lastBuildDate>
+    <itunes:author>RTVE</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>RTVE</itunes:name>
+      <itunes:email>info@rtve.es</itunes:email>
+    </itunes:owner>
+    <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
+    <item>
+      <title>Equips d&amp;#39;emergència per atendre els afectats i familiars de les víctimes a Adamuz</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-equips-demergencia-per-atendre-els-afectats-familiars-les-victimes-adamuz/16901151/</link>
+      <description>Creu Roja ha activat els seus equips d'emergència, a petició de Protecció Civil, per atendre les persones afectades i els familiars de les víctimes de l'accident d'Adamuz. En parlem amb Daniel Losada, tècnic de la Unitat d'Emergències de la Creu Roja Espanya.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-equips-demergencia-per-atendre-els-afectats-familiars-les-victimes-adamuz/16901151/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/equips-demergencia-per-atendre-els-afectats-i-familiars-de-les-victimes-a-adamuz/16901151/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 22:50:00 +0000</pubDate>
+      <itunes:duration>00:14:00</itunes:duration>
+    </item>
+    <item>
+      <title>El cas de la nena supervivent de l&amp;#39;accident d&amp;#39;Adamuz i com afrontar el dol infantil</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-cas-nena-supervivent-laccident-dadamuz-com-afrontar-dol-infantil/16901167/</link>
+      <description>Una de les supervivents de la tragèdia d'Ademuz ha estat una nena de 6 anys. L'única que ha quedat amb vida de tota la seva família. Una situació gens fàcil d'afrontar i molt menys sent tan petita. Patricia Díaz Seoane, psicòloga especialitzada en dol a nens i adolescents, ens explica com els infants poden afrontar situacions emocionalment tan complexes.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cas-nena-supervivent-laccident-dadamuz-com-afrontar-dol-infantil/16901167/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-cas-de-la-nena-supervivent-de-laccident-dadamuz-i-com-afrontar-el-dol-infantil/16901167/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 23:03:00 +0000</pubDate>
+      <itunes:duration>00:04:00</itunes:duration>
+    </item>
+    <item>
+      <title>Rècord històric de la riquesa entre els milmilionaris</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-record-historic-riquesa-entre-els-milmilionaris/16901180/</link>
+      <description>L'informe 'Contra l'imperi dels més rics. Defensant la democràcia davant el poder dels milmilionaris', publicat per Oxfam Intermon, alerta que l'any passat la riquesa conjunta dels milmilionaris de tot el món va assolir un màxim històric: 18,3 bilions de dòlars. Una concentració de riquesa que, segons ha observat l'organització, no implica únicament un gran poder econòmic sino també polític. I aixo, alerten, posa en risc les democràcies. Ens acompanya Franc Cortada, director general d'Oxfam Intermón.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-record-historic-riquesa-entre-els-milmilionaris/16901180/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/record-historic-de-la-riquesa-entre-els-milmilionaris/16901180/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 23:05:00 +0000</pubDate>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>70ª edició dels Premis Sant Jordi de Cinematografia</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-70a-edicio-dels-premis-sant-jordi-cinematografia/16901172/</link>
+      <description>'Los Domingos' d'Alauda Ruiz de Azúa ha estat escollida millor pel·lícula en la 70ena edició dels Premis Sant Jordi de Cinematografia. 'Sorda' ha estat considerada la millor òpera prima. De la seva banda, Nora Navas recollirà el premi a millor actriu espanyola i Álvaro Cervantes, millor actor. Descobrim el veredicte del jurat amb la seva presidenta, la companya Conxita Casanovas.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-70a-edicio-dels-premis-sant-jordi-cinematografia/16901172/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/70-edicio-dels-premis-sant-jordi-de-cinematografia/16901172/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 23:26:00 +0000</pubDate>
+      <itunes:duration>00:04:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;De vulnerables a poderosos&amp;#39;, del Doctor Jordi Varela</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-vulnerables-poderosos-del-doctor-jordi-varela/16901187/</link>
+      <description>Conversem amb el prestigiós metge i gestor sanitari Dr. Jordi Varela sobre el seu llibre De vulnerables a poderosos. La apasionante lucha de la humanidad por la salud y la vida. Una obra que des d'una mirada universal i una perspectiva humanista, narra de forma àmplia i accessible, la història de la salut humana i les fites que han permès a la humanitat superar amenaces que, van posar en risc la vida de generacions sencera.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-vulnerables-poderosos-del-doctor-jordi-varela/16901187/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/de-vulnerables-a-poderosos-del-doctor-jordi-varela/16901187/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 23:32:00 +0000</pubDate>
+      <itunes:duration>00:31:00</itunes:duration>
+    </item>
+    <item>
+      <title>Una llei contra els &amp;#39;deepfakes&amp;#39;, el delicte de les imatges creades amb IA</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-llei-contra-els-deepfakes-delicte-les-imatges-creades-amb-ia/16904700/</link>
+      <description>El Govern ha aprovat al Consell de Ministres l’avantprojecte de reforma de la llei del dret a l’honor, la intimitat i la pròpia imatge, per incloure l’ús i difusió d’imatges o veus manipulades amb IA sense consentiment com a delicte. La norma, que tindrà rang de llei orgànica, considera il·legítima la difusió de continguts creats o manipulats digitalment amb aparença realista. Un dels punts clau és que els menors de 16 anys no poden donar consentiment per a l’ús de la seva imatge, i es preveuen penes de fins a dos anys de presó per deepfakes de contingut sexual o greument vexatori. En paral·lel, els eurodiputats pressionen a la Comissió Europea perquè actuï contra els deepfakes sexuals a les xarxes. Ens aprofundeix en la qüestió Eloi Font, advocat especialitzat en dret digital i tecnològic i soci de Digital Law de Grant Thornton Font.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-llei-contra-els-deepfakes-delicte-les-imatges-creades-amb-ia/16904700/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/una-llei-contra-els-deepfakes-el-delicte-de-les-imatges-creades-amb-ia/16904700/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 22:37:00 +0000</pubDate>
+      <itunes:duration>00:23:00</itunes:duration>
+    </item>
+    <item>
+      <title>Rodalies recuperarà progressivament el servei dijous al matí</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-rodalies-recuperara-progressivament-servei-dijous-mati/16904688/</link>
+      <description>Jornada de caos a la mobilitat a Catalunya: s’ha aturat totalment el servei de Rodalies, per a inspeccionar totes les línies i garantir que no presenten riscos com el d’anit, quan un mur de contenció va caure sobre les vies, entre Gelida i Sant Sadurní de Noia, i hi va xocar un tren de la Línia R4. El servei es recuperarà progressivament dijous al matí. Analitzem les noves informacions sobre aquest cas i el d'Adamuz amb Joan Carles Salmeron, director de Terminus, Centre d'Estudis del Transport i expert en ferrocarrils.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-rodalies-recuperara-progressivament-servei-dijous-mati/16904688/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/rodalies-recuperara-progressivament-el-servei-dijous-al-mati/16904688/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 22:40:00 +0000</pubDate>
+      <itunes:duration>00:16:00</itunes:duration>
+    </item>
+    <item>
+      <title>L’actualitat del món animal, amb Paula Calvo</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-actualitat-del-mon-animal-amb-paula-calvo/16904707/</link>
+      <description>Amb Paula Calvo, la nostra antrozoòloga i etòloga de confiança, conversem sobre les últimes notícies del món animal. La cerca del gos Boro, desaparegut en l'accident de tren a Adamuz, la cultura dels ‘bebès peluts’ o la denúncia de l'abandonament d'una colònia felina en uns terrenys privats a Sant Cugat.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-actualitat-del-mon-animal-amb-paula-calvo/16904707/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/l’actualitat-del-mon-animal-amb-paula-calvo/16904707/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 23:01:00 +0000</pubDate>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>Concentracions contra l&amp;#39;augment d&amp;#39;agressions als treballadors i treballadores de presons</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-concentracions-contra-laugment-dagressions-als-treballadors-treballadores-presons/16904676/</link>
+      <description>CSIF Presons ha convocat concentracions aquest migdia per denunciar l'augment d'agressions a treballadors i treballadores de presons i la manca de resposta de l'Administració. Tot arran l'agressió sexual a una funcionària, divendres passat. En parlem amb Alberto Gómez, responsable de presons de CSIF a Catalunya.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-concentracions-contra-laugment-dagressions-als-treballadors-treballadores-presons/16904676/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/concentracions-contra-laugment-dagressions-als-treballadors-i-treballadores-de-presons/16904676/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 23:30:00 +0000</pubDate>
+      <itunes:duration>00:11:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;Cuando ellos se van&amp;#39; de Julia Navarro</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-cuando-ellos-se-van-julia-navarro/16904687/</link>
+      <description>Conversem amb Julia Navarro, autora del llibre Cuando ellos se van. Una obra on l’escriptora fa un homenatge al seu gos mort, Argos, explorant el profund vincle entre humans i animals a través de la literatura, l'art i la història, i reflexiona sobre el dol, la lleialtat canina i la problemàtica de l'abandonament animal.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cuando-ellos-se-van-julia-navarro/16904687/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/cuando-ellos-se-van-de-julia-navarro/16904687/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:24:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nova jornada complicada a Rodalies</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-nova-jornada-complicada-rodalies/16906406/</link>
+      <description>El portaveu de Renfe, Antonio Carmona, ha anunciat que aquesta nit tornarà a funcionar la línia R2 Nord i que es treballa amb la previsió de restablir aquest divendres el servei de Rodalies amb 'la major normalitat possible'. Això després d'una nova jornada de caos, sense trens. Segons ha explicat el Govern, només s’han presentat a treballar 6 dels 140 maquinistes previstos i això ha impossibilitat la represa del servei. El sindicat majoritari de maquinistes, SEMAF, exigia més garanties de seguretat abans de tornar a la feina. Finalment, després d’una reunió de prop de 6 hores entre maquinistes, Renfe, Adif i Generalitat, s’ha arribat a l’acord de fer una nova revisió conjunta de la xarxa amb maquinistes del sindicat. Els usuaris reclamen un servei de Rodalies digne. En parlem amb Anna Gómez, portaveu de la plataforma Dignitat a les vies.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-nova-jornada-complicada-rodalies/16906406/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/nova-jornada-complicada-a-rodalies/16906406/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 22:40:00 +0000</pubDate>
+      <itunes:duration>00:22:00</itunes:duration>
+    </item>
+    <item>
+      <title>Envelliment i sexualitat, qüestions a analitzar en la quotidianitat</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-envelliment-sexualitat-queestions-analitzar-quotidianitat/16906421/</link>
+      <description>Amb la nostra sexòloga i psicòloga de confiança, Elena Crespi, explorem com Espanya afronta el major nivell d'envelliment de la seva història el 2025, i com això impacta la sexualitat, incloent la creixent decisió de moltes dones de no tenir relacions sexuals. També parlem, entre altres qüestions, del cas de Julio Iglesias, que rebutja les denúncies d'abús sexual investigades per la justícia, un tema que obre un debat sobre poder i sexe.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-envelliment-sexualitat-queestions-analitzar-quotidianitat/16906421/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/envelliment-i-sexualitat-questions-a-analitzar-en-la-quotidianitat/16906421/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 22:43:00 +0000</pubDate>
+      <itunes:duration>00:18:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nominacions als Oscars</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-nominacions-als-oscars/16906270/</link>
+      <description>Descobrim la llista de pel·lícules nominades als Premis Oscar 2026 amb Conxita Casanovas, que ens parla també de Hamnet, film que s'estrena aquest divendres.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-nominacions-als-oscars/16906270/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/nominacions-als-oscars/16906270/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 23:25:00 +0000</pubDate>
+      <itunes:duration>00:19:00</itunes:duration>
+    </item>
+    <item>
+      <title>100 anys del naixement de Patricia Neal</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-100-anys-del-naixement-patricia-neal/16907522/</link>
+      <description>Recentment, s’han complert 100 anys del naixement de Patricia Neal, actriu guanyadora d'un premi Oscar l'any 1963 pel seu paper en la pel·lícula Hud al costat de Paul Newman. Amb el professor Dani Agudo, aprofitem el centenari per fer un repàs de la seva figura i trajectòria professional.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-100-anys-del-naixement-patricia-neal/16907522/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/100-anys-del-naixement-de-patricia-neal/16907522/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 23:30:00 +0000</pubDate>
+      <itunes:duration>00:19:00</itunes:duration>
+    </item>
+    <item>
+      <title>‘Pelayo. Más allá del límite’</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-pelayo-mas-alla-del-limite/16906416/</link>
+      <description>Pelayo Gayol, membre de la Policia Nacional i instructor del Grup Especial d'Operacions és protagonista de la nova sèrie documental del narcotràfic Pelayo. Más allá del límite. Conversem amb ell perquè ens expliqui sobre la producció i sobre els reptes que suposa la seva feina.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-pelayo-mas-alla-del-limite/16906416/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/‘pelayo-mas-alla-del-limite’/16906416/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dimissions pel desgavell a Rodalies</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dimissions-pel-desgavell-rodalies/16911067/</link>
+      <description>Primeres conseqüències del desgavell ferroviari: el director operatiu de Rodalies, Josep Enric Garcia Alemany, i el responsable de manteniment d'ADIF, Raúl Míguez Bailo, han estat cessats aquesta tarda. Això en un dia que havia de ser el dia de la recuperació del servei de Rodalies, però res més lluny de la realitat. Ha estat una nova jornada de caos. Els usuaris, farts, han anunciat una manifestació unitària el 7 de febrer. En parlem amb Anna Gómez, portaveu de la Plataforma Dignitat a les vies.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dimissions-pel-desgavell-rodalies/16911067/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dimissions-pel-desgavell-a-rodalies/16911067/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 22:20:00 +0000</pubDate>
+      <itunes:duration>00:18:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dol i protestes a Minneapolis per la mort de dues persones a mans dels agents antiimmigració</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dol-protestes-minneapolis-per-mort-dues-persones-mans-dels-agents-antiimmigracio/16911076/</link>
+      <description>Minneapolis, que fa setmanes que viu enmig de fortes tensions per l'arribada massiva d'agents federals que fan batudes contra migrants en situació irregular, ha viscut una nova jornada de protestes després de la mort d'una segona persona, aquest dissabte, a mans de l'ICE, els agents antiimmigració dels Estats Units. El president nord-americà, Donald Trump, ha assegurat que s'està investigant el cas i ha evitat pronunciar-se sobre si l'ICE va actuar correctament. Ens porta tota l'actualitat Maria Carou, corresponsal de RNE als Estats Units.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dol-protestes-minneapolis-per-mort-dues-persones-mans-dels-agents-antiimmigracio/16911076/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dol-i-protestes-a-minneapolis-per-la-mort-de-dues-persones-a-mans-dels-agents-antiimmigracio/16911076/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 22:45:00 +0000</pubDate>
+      <itunes:duration>00:09:00</itunes:duration>
+    </item>
+    <item>
+      <title>Xarampió a Espanya</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-espanya-colpejada-per-onada-global-xarampio/16911083/</link>
+      <description>Segons dades de l’Organització Mundial de la Salut, els casos de xarampió han augmentat de manera significativa a Europa, als Estats Units i en diverses regions del món, impulsats sobretot per la baixada de les cobertures vacunals després de la pandèmia i pel creixement dels moviments antivacunes. A Espanya, tot i que el país continua lliure de circulació endèmica del virus, sí que és cert que els diagnòstics gairebé s’han duplicat en un any: el 2025 es van registrar prop de 400 casos, la majoria vinculats a contagis importats i a brots entre persones no vacunades. Conversem amb el Doctor Fernando Moraga-Llop, Expresident de la Societat Catalana de Pediatria i Portaveu de l’Associació Espanyola de Vacunologia, perquè ens expliqui la realitat de la situació.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-espanya-colpejada-per-onada-global-xarampio/16911083/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/xarampio-a-espanya/16911083/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 22:45:00 +0000</pubDate>
+      <itunes:duration>00:13:00</itunes:duration>
+    </item>
+    <item>
+      <title>Teràpia de parella, gestació subrogada, cansament crònic i Melania Trump</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-terapia-parella-gestacio-subrogada-cansament-cronic-melania-trump/16911109/</link>
+      <description>Amb Elena Crespi, sexòloga i psicòloga, comentem diversos temes d’actualitat vinculats a la salut emocional i els debats socials. Parlem de la teràpia de parella de Michelle i Barack Obama, de la polèmica al voltant de la gestació subrogada arran del cas de Meghan Trainor, i del cansament crònic que hem normalitzat, tal com descriu Ana Morales el seu llibre Estado civil: cansada. També sobre la figura de Melania Trump i el seu documental, que retrata els dies previs a la segona investidura de Donald Trump des de la seva pròpia mirada.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-terapia-parella-gestacio-subrogada-cansament-cronic-melania-trump/16911109/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/terapia-de-parella-gestacio-subrogada-cansament-cronic-i-melania-trump/16911109/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 23:30:00 +0000</pubDate>
+      <itunes:duration>00:26:00</itunes:duration>
+    </item>
+    <item>
+      <title>Santiago Tarín</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-26-01-santiago-tarin/16910535/</link>
+      <description>Santiago Tarín ha rebut aquest dilluns el premi ICAB a la Trajectòria en el Periodisme del Sector Legal. Acabem la jornada amb ell.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-26-01-santiago-tarin/16910535/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/santiago-tarin/16910535/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:31:00</itunes:duration>
+    </item>
+    <item>
+      <title>La bretxa digital en majors de 60 anys, el menjar per emportar i el llibre ‘El cielo que olvida sus estrellas’</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-bretxa-digital-majors-60-anys-menjar-per-emportar-llibre-cielo-olvida-estrellas/16851535/</link>
+      <description>Un estudi de la Fundació Ferrer i Guàrdia revela que la bretxa digital afecta el 67% de les persones majors de 60 anys, i que aquesta exclusió té més a veure amb desigualtats socials i amb dissenys digitals poc inclusius que no pas amb l’edat. Entrevistem Sandra Gómez, coordinadora de projectes de la Fundació Ferrer i Guàrdia, perquè ens doni més detallsTot seguit parlem de gastronomia i és que el menjar per emportar ja representa el 30% de la despesa en restauració a Espanya. Amb la Directora General de Marcas de Restauración, Andrea Bonnezzi, analitzem aquest creixement i l'impacte de les noves generacions en aquest canvi d'hàbits. Pel que fa a aquest sector, la Boqueria també viu un moment clau. El mercat afronta una gran reforma a partir del 2026 i aplicarà un nou reglament que limitarà la venda de productes elaborats per recuperar l’essència tradicional i reconnectar amb el veïnat. Davant d’aquest punt d’inflexió, entrevistem Jordi Mas, president de la Boqueria, per entendre com afronten aquest canvi i quin futur imaginen per al mercat.A continuació, la nostra psicòloga i sexòloga de confiança, Elena Crespi, ens explica quins són els factors que avui dia provoquen divorcis en les parelles. Precisament ara que s’apropen les festes de Nadal, i molts han de conviure durant dies seguits.Acabem el programa conversant amb el neuropsicòleg Saúl Martínez-Horta, autor de El cielo que olvida sus estrellas, un llibre de divulgació científica que explora els misteris del cervell humà i les malalties que el poden afectar. L’obra combina ciència de primer nivell amb una narrativa propera i poètica, oferint una travessia intel·lectual i emocional per entendre millor el funcionament i els límits del cervell.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-bretxa-digital-majors-60-anys-menjar-per-emportar-llibre-cielo-olvida-estrellas/16851535/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-bretxa-digital-en-majors-de-60-anys-el-menjar-per-emportar-i-el-llibre-‘el-cielo-que-olvida-sus-estrellas’/16851535/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:120:00</itunes:duration>
+    </item>
+    <item>
+      <title>Emergència per pesta porcina africana a Catalunya i vaga de metges</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-emergencia-per-pesta-porcina-africana-catalunya-vaga-metges/16852929/</link>
+      <description>Decretada l'emergència per Pesta Porcina Africana a Catalunya per contenir, prevenir i pal·liar els efectes del brot de pesta porcina africana. Una actuació que permetrà a la Generalitat respondre de manera més ràpida i urgent a les conseqüències d'aquesta malaltia. El Govern ha aprovat un paquet d'ajudes de 10 milions d'euros, tot i que la quantitat es podria ampliar a 10 més si és necessari, per al sector porcí català, afectat per aquesta crisi. Per als afectats són ajudes insuficients. En parlem amb Rossend Saltiveri, responsable del sector porcí d'Unió de Pagesos.Tot seguit repassem l'actualitat nacional i internacional amb Ernest Pascual, politòleg. Ens fem ressó d'una problemàtica creixent: l'ansietat, ja a aquestes alçades de curs, dels estudiants de segon de batxillerat per la selectivitat. En parlem amb el professor i investigador Juan Fernández i la psicòloga infantil especialitzada en neuropsicologia i psicologia forense Maria Lluisa Ferrerós.Cinema amb el professor Dani Agudo. I acabem el programa conversant amb Xavier Lleonart, Secretari General de Metges de Catalunya. El sindicat ha convocat dues jornades de vaga, aquest dimarts i dimecres, per reclamar un espai de negociació amb el Departament de Salut i condicions dignes de feina. Amb el doctor Lleonart aprofundim en les seves reclamacions i en la situació en la que es troba el sector.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-emergencia-per-pesta-porcina-africana-catalunya-vaga-metges/16852929/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/emergencia-per-pesta-porcina-africana-a-catalunya-i-vaga-de-metges/16852929/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Més de 6.000 persones a Catalunya sense llar, ‘Le Journal d’un prisonnier’ de Sarkozy i el 49è aniversari de Ràdio 4</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-mes-6000-persones-catalunya-sense-llar-journal-prisonnier-sarkozy-49e-aniversari-radio-4-amb-jaume-tribo/16859738/</link>
+      <description>Avui, amb l’objectiu de trobar solucions efectives pel sensellarisme, s’ha celebrat una cimera convocada per la Síndica de Greuges, a la que hi ha assistit la consellera de Drets Socials i Inclusió, Mònica Martínez Bravo, i també alcaldes, alcaldesses i entitats socials. La Síndica ha xifrat en almenys 6.724 les persones que es troben en situació de carrer a Catalunya. En parlem amb la consellera Martínez Bravo.Tot seguit, l'expresident francès Nicolas Sarkozy acaba de publicar un llibre 'Le Journal d’un prisonnier ' (Diari d'un presoner) on relata com van ser els 20 dies que va ser a la presó. El corresponsal de RNE a París, Antonio Delgado, ens explica tots els detalls.També, amb la biògrafa Anna Caballé conversem sobre Cartes a les amigues, el llibre de Víctor Català que s'ha publicat recentment. Aquesta obra recull una selecció de cartes adreçades a 44 corresponsals femenines, que inclouen dones de diferents edats: algunes més grans que ella, altres de la seva mateixa generació i també més joves. A continuació Conxita Casanovas ens porta les estrenes cinematogràfiques més destacades, amb una selecció de films que no ens podem perdre.Acabem el programa celebrant el 49è aniversari de Ràdio 4. Amb Pep Gorgori entrevistem Jaume Tribó, apuntador del Gran Teatre del Liceu i un referent de la música clàssica, que ha estat vinculat durant molt de temps a aquesta casa.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-mes-6000-persones-catalunya-sense-llar-journal-prisonnier-sarkozy-49e-aniversari-radio-4-amb-jaume-tribo/16859738/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/mes-de-6000-persones-a-catalunya-sense-llar-‘le-journal-d’un-prisonnier’-de-sarkozy-i-el-49e-aniversari-de-radio-4/16859738/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Radiografia de la Salut Mental a Catalunya, els “ghost jobs” i el nou disc de Víctor Manuel</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-radiografia-salut-mental-catalunya-els-ghost-jobs-nou-disc-victor-manuel/16861402/</link>
+      <description>Un estudi liderat per l'Hospital Clínic de Barcelona-IDIBAPS, en col·laboració amb l'Agència de Qualitat i Atenció Sanitària sobre Salut Mental, ha analitzat per primera vegada a gran escala com són els patrons de diagnòstic, tractament i ús dels serveis sanitaris en salut mental a Catalunya. Descobrim quines han estat les conclusions amb un dels líders de l'estudi, el doctor Michele De Prisco.D’altra banda, estem commoguts per la mort del director nord-americà Rob Reiner, que va ser trobat mort amb la seva dona diumenge a casa seva a Los Angeles. Dani Agudo, ens parla del que va significar la seva figura.A continuació, parlem dels 'ghost jobs', una pràctica cada vegada més habitual les plataformes d’ocupació gratuïtes com LinkedIn, on les empreses poden publicar anuncis de feina que semblen legítimes, però que no tenen com a objectiu contractar ningú de manera immediata. En molts casos, les utilitzen per crear bases de dades de candidats, analitzar l’estat del mercat laboral o projectar una imatge de creixement. Conversem amb Beatriz Gómez, experta en recursos humans, ocupabilitat i marca personal, perquè ens doni més detalls de com identificar aquestes ofertes.També, amb Elena Crespi, psicòloga i sexòloga, reflexionem sobre els casos d’agressions sexuals, abusos de poder i orientacions sexuals. Parlem de la coerció sexual i l’explotació laboral en l’àmbit acadèmic, així com de la tràgica dada que sis nenes menors de 13 anys són agredides sexualment cada dia a Espanya.Acabem el programa conversant amb Víctor Manuel, que ha publicat nou àlbum: Solo a solas conmigo. Amb la gira arribarà a Barcelona el 16 de juny, al Palau de la Música. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-radiografia-salut-mental-catalunya-els-ghost-jobs-nou-disc-victor-manuel/16861402/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/radiografia-de-la-salut-mental-a-catalunya-els-“ghost-jobs”-i-el-nou-disc-de-victor-manuel/16861402/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>La Comissió Europea pren mesures per aconseguir un habitatge més assequible, 100 anys de l’actor Dick Van Dyke i l&amp;#39;experiència de Mònica Bernabé a l&amp;#39;Afganistan</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-comissio-europea-pren-mesures-per-aconseguir-habitatge-mes-assequible-100-anys-actor-dick-van-dyke-lexperiencia-monica-bernabe-lafganistan/16863300/</link>
+      <description>Protecció Civil ha activat l’alerta del Pla INUNCAT per pluges intenses. Sergio Delgado, sotsdirector de Protecció Civil, ens porta l'última hora de la situació.D’altra banda, la Comissió Europea ha presentat una nova estratègia per agilitzar els processos de llicències d'habitatge, amb l'objectiu de posar al mercat fins a 650.000 pisos més cada any. Aquesta mesura s'afegirà a la regulació dels lloguers turístics, amb l'objectiu de fer més accessible el mercat d'habitatge. En parlem amb Pablo Feu, advocat especialitzat en habitatge, qui ens explica les repercussions d’aquesta estratègia. Conxita Casanovas ens porta les novetats pel que fa a les nominacions dels premis Gaudí, la gran celebració del cinema català que se celebrarà al Gran Teatre Liceu de Barcelona el 8 de febrer. Així mateix, l'actor Dick Van Dyke compleix 100 anys. Per aquesta raó, amb el professor Dani Agudo, li retem homenatge.Acabem el programa amb el plaer de conversar amb la periodista Mònica Bernabé, corresponsal durant 8 anys a l'Afganistan. En aquell temps va veure i viure l'horror d'un país en guerra. Vivències extremes que van passar-li factura. Amb ella conversem detingudament sobre la situació actual de l'Afganistan, com van ser els seus anys allà i totes les dificultats amb les quals s'ha trobat al llarg del camí.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-comissio-europea-pren-mesures-per-aconseguir-habitatge-mes-assequible-100-anys-actor-dick-van-dyke-lexperiencia-monica-bernabe-lafganistan/16863300/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-comissio-europea-pren-mesures-per-aconseguir-un-habitatge-mes-assequible-100-anys-de-l’actor-dick-van-dyke-i-lexperiencia-de-monica-bernabe-a-lafganistan/16863300/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Desallotjat l&amp;#39;antic institut B9 de Badalona, l’informe FOESSA 2025 dibuixa un escenari social fràgil i l&amp;#39;estrena de &amp;#39;Pla seqüència&amp;#39; amb Jordi Basté</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-desallotjat-lantic-institut-b9-badalona-informe-foessa-2025-dibuixa-escenari-social-fragil-lestrena-pla-sequeencia-amb-jordi-baste/16865405/</link>
+      <description>Avui s’ha desallotjat l'antic institut B9 de Badalona on hi havien arribat a malviure 400 persones. La majoria no sap on passarà la nit ni on podrà resguardar-se a partir d'ara. En parlem amb Ferran Moreno, membre de la plataforma Badalona Acull.A continuació posem el focus en les conclusions de l’informe FOESSA de 2025 de la diòcesi de Barcelona que dibuixa un escenari social fràgil, marcat per la incertesa i la vulnerabilitat creixent. Alerta d'un model de societat “a la corda fluixa”, on augmenta el nombre de persones que poden caure en exclusió davant qualsevol crisi o contratemps. Càritas ha volgut recalcar que les dificultats per accedir a un habitatge digne i assequible són el principal factor de desigualtat social. En parlem amb Guillermo Oteros, coordinador d’anàlisi social de Càritas Barcelona.Tot seguit, amb el politòleg expert en política internacional, Ernesto Pascual, conversem sobre la figura de Trump a poques hores de donar el discurs a la nació. Hem sabut també que el tenista Carlos Alcaraz i el seu entrenador Juan Carlos Ferrero separen els seus camins després de set anys. A molts ens ha agafat desprevinguts. Amb el psicòleg Javier Elcarte, analitzem com afrontar aquests moments en què les trajectòries professionals se separen, i així aprendre a encarar-ho amb èxit i confiança. Amb Paula Calvo, la nostra antrozoòloga i etòloga de confiança, conversem sobre el món animal i concretament sobre el seu llibre Amor de gato.Acabem el programa conversant amb el periodista Jordi Basté amb motiu de l’estrena de Pla seqüència al canal 2Cat. El programa va debutar amb gran èxit amb una entrevista a Iñaki Urdangarin, que, després de mil dies i mil nits a la presó, va concedir en aquest espai la seva primera entrevista televisiva. En el segon capítol del programa, el convidat és Joan Laporta. Des de l’Spotify Camp Nou, Jordi Basté conversa amb el president del FC Barcelona en una entrevista sense talls ni muntatge, on es revelen aspectes i reflexions que fins ara no havia explicat mai.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-desallotjat-lantic-institut-b9-badalona-informe-foessa-2025-dibuixa-escenari-social-fragil-lestrena-pla-sequeencia-amb-jordi-baste/16865405/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/desallotjat-lantic-institut-b9-de-badalona-l’informe-foessa-2025-dibuixa-un-escenari-social-fragil-i-lestrena-de-pla-sequencia-amb-jordi-baste/16865405/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Catalunya posa límits als lloguers de temporada, Dia Internacional de les Persones Migrants, i les dificultats del dia a dia i de l’amor amb Bob Pop</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dia-internacional-les-persones-migrants-catalunya-posa-limits-als-lloguers-temporada-les-dificultats-del-dia-dia-amor-amb-bob-pop/16870556/</link>
+      <description>El Parlament de Catalunya ha aprovat una nova llei que regula, per primera vegada, els lloguers de temporada i els lloguers d’habitacions, sotmetent-los als límits de preu que estableix la Llei estatal d’Habitatge. L’objectiu és frenar l’ús dels contractes temporals com a via per esquivar els topalls del lloguer en zones de mercat tensionat. Ens ho explica amb més detall Enric Aragonès, portaveu del Sindicat de Llogateres.D'altra banda, amb motiu del Dia Internacional de les Persones Migrants, Oxfam Intermón reclama al Govern que explori vies per tirar endavant la regularització extraordinària de més de mig milió de persones i que es garanteixi el dret a l’empadronament a tots els municipis. En parlem amb Ernesto García, coordinador d’investigació en desigualtats d’Oxfam Intermón.En l’àmbit cultural, Imprescindibles estrena un documental biogràfic sobre la periodista Maruja Torres, una producció pròpia de RTVE dirigida per Núria Barreiro i Blanca Flaquer, que s’emetrà a La 2 aquest diumenge 21 de desembre a les 21 h. En descobrim alguns detalls amb una de les seves directores, Blanca Flaquer.Tot seguit, Conxita Casanovas ens porta les estrenes cinematogràfiques més destacades, amb una selecció de films que no ens podem perdre, com El extranjero, de François Ozon, o el thriller de la directora francesa Rebecca Zlotowski, titulat Vida privada.També parlem de Més enlla d'el 47. Un llibre que aporta context sociopolític a la pel·lícula i que posa en valor el paper fonamental que, juntament amb Manuel Vital, van tenir les organitzacions i col·lectius en la lluita pels drets dels veïns. N’aprofundim  més amb Adela d’Alòs-Moner.I acabem el programa amb Bob Pop, amb qui conversarem sobre allò que més ens preocupa com a ciutadans: les dificultats del dia a dia, però també sobre l’amor. Una conversa diversa, honesta i plena.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dia-internacional-les-persones-migrants-catalunya-posa-limits-als-lloguers-temporada-les-dificultats-del-dia-dia-amor-amb-bob-pop/16870556/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/catalunya-posa-limits-als-lloguers-de-temporada-dia-internacional-de-les-persones-migrants-i-les-dificultats-del-dia-a-dia-i-de-l’amor-amb-bob-pop/16870556/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Tensió pel desallotjament del B9 a Badalona, i una nova teràpia redueix a la meitat les recaigudes en càncer de mama de mal pronòstic</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-tensio-pel-desallotjament-assentament-b9-badalona-nova-terapia-redueix-meitat-les-recaigudes-cancer-mama-mal-pronostic-novel-camino-no-elegimos-ana-merino/16872325/</link>
+      <description>A Badalona, la tensió creix pel desallotjament de l'assentament més gran d'immigrants de Catalunya, situat al B9, amb prop de 400 persones afectades. Dues manifestacions de signe contrari van coincidir al carrer, desencadenant un enfrontament a la localitat. Per entendre millor la situació, parlem amb Marina Parés, Portaveu del Sindicat d’Habitatge Socialista de Catalunya.Aquest conflicte a Badalona està generant un gran debat social i polític. Un grup de veïns del barri de Sant Crist es va manifestar després que Càritas i altres entitats religioses anunciessin un pla d'acolliment per a les persones afectades pel desallotjament. El pla preveia allotjar quinze persones vulnerables a la parròquia de la Mare de Déu de Montserrat. Conversem amb Eduard Sala, director de Càritas Diocesana de Barcelona, per conèixer les tasques d'acollida i reallotjament que estan duent a terme per afrontar aquesta situació d'emergència.D'altra banda, en l'àmbit de la salut, un nou tractament ha demostrat una gran eficàcia en la reducció del risc de recaiguda en un tipus de càncer de mama especialment agressiu. Ens en dona més detalls Maria Vidal Losada, Cap de la Unitat de Càncer de mama, ICAMS, Hospital Clinic. Com cada dilluns, ens visita la nostra sexòloga i psicòloga de confiança, Elena Crespi.I acabem amb Ana Merino, autora de la novel·la El camino que no elegimos, una obra que explora els camins que la vida ens fa seguir quan no podem triar el nostre destí. Una història d’emoció i resiliència que no us deixarà indiferents.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-tensio-pel-desallotjament-assentament-b9-badalona-nova-terapia-redueix-meitat-les-recaigudes-cancer-mama-mal-pronostic-novel-camino-no-elegimos-ana-merino/16872325/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/tensio-pel-desallotjament-del-b9-a-badalona-i-una-nova-terapia-redueix-a-la-meitat-les-recaigudes-en-cancer-de-mama-de-mal-pronostic/16872325/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novetats a Badalona, tota l&amp;#39;actualitat nacional i internacional i Javier Urra</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-novetats-badalona-tota-lactualitat-nacional-internacional-javier-urra/16876861/</link>
+      <description>Actualitzem la situació a Badalona, on entitats socials i la Generalitat han acordat reubicar els migrants desallotjats de l'antit institut B9 de Badalona. Amb Ernesto Pascual analitzem tota l'actualitat nacional i internacional del moment. Tot seguit, amb Pere Vall entrevistem Azahara Moyano, una actriu menorquina amb molta empenta i talent que acaba de produir la comèdir 'El padre de todos nosotros'. Dani Agudo ens parla aquesta nit de la pel·lícula Nuremberg. I tanquem el programa amb Javier Urra, intentant respondre la gran pregunta que apareix al seu darrer llibre: Com som realment?</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-novetats-badalona-tota-lactualitat-nacional-internacional-javier-urra/16876861/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/novetats-a-badalona-tota-lactualitat-nacional-i-internacional-i-javier-urra/16876861/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Dec 2025 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Trump i Veneçuela, dues persones sense llar mortes en plena onada de fred, i Francesc Torralba</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-07-01-26-trump-venecuela-dues-persones-sense-llar-mortes-plena-onada-fred-francesc-torralba/16887151/</link>
+      <description>Trump continua amb els seus moviments després de la captura de Nicolás Maduro, dissabte passat. Analitzem les darreres notícies amb Ernest Pascual, politòleg expert en política internacional. També ens fixem en Mineàpolis, on ha mort una dona tirotejada en les darreres hores. Jornada marcada per la mort d'un segon sense sostre a casa nostra, en plena onada de fred. En aquest cas a la Barceloneta. Se suma a l'home que va perdre la vida dimarts a Badalona, a les portes d'un pàrquing. Conversem amb Bea Fernández, directora de la Fundació Arrels. Les temperatures extremes suposen un perill sobretot per als més vulnerables, com aquells que viuen al carrer, i també per a aquells persones que no poden permetre's mantenir l'habitatge a una temperatura adequada. Persones víctimes de la pobresa energètica, que afecta cada vegada més persones. Conversem amb Irene González, portaveu de l'Aliança contra la Pobresa Energètica.Tot seguit conversem amb Andrés Pascual, que ens ha vinguta presentar el seu darrer llibre: El poder del entusiasmo.I tancarem el programa amb Francesc Torralba, que acaba de guanyar el premi Josep Pla amb l'assaig 'Anatomia de l'esperança', que veurà la llum el 4 de febrer.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-07-01-26-trump-venecuela-dues-persones-sense-llar-mortes-plena-onada-fred-francesc-torralba/16887151/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/trump-i-venecuela-dues-persones-sense-llar-mortes-en-plena-onada-de-fred-i-francesc-torralba/16887151/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Acord històric per les víctimes d’abusos a l’Església, situació crítica de persones sense llar a Badalona i el premi World Press Photo a Samuel Nacar</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-acord-historic-per-les-victimes-abusos-esglesia-situacio-critica-persones-sense-llar-badalona-premi-world-press-photo-samuel-nacar/16888953/</link>
+      <description>El Govern, la Conferència Episcopal Espanyola i la Conferència Espanyola de Religiosos han arribat a un acord històric per reparar i reconèixer les víctimes d’abusos sexuals al si de l’Església catòlica a través del Defensor del Poble, en aquells casos en què la via judicial ja no és possible. A partir d’aquest acord, conversem amb Miguel Hurtado, una de les víctimes que va destapar els abusos a l’abadia de Montserrat, que comparteix el seu testimoni i analitza l’abast real d’aquesta mesura.Tot seguit, el focus es desplaça cap a la situació de les persones sense llar que malviuen sota la C-31 a Badalona. Amb Carles Sagués, portaveu de Badalona Acull, aprofundim en les condicions extremes en què viuen, la vulneració de drets que pateixen i el suport imprescindible del voluntariat que els acompanya diàriament.A continuació, i després dels excessos de les festes de Nadal, abordem la salut i l’alimentació. El dietista-nutricionista i portaveu del Col·legi de Dietistes-Nutricionistes de Catalunya, Robert Duran, alerta dels perills de les anomenades “dietes miracles” i ofereix pautes i consells per recuperar hàbits alimentaris saludables de manera segura.En l’àmbit cultural, tornem al cinema amb Conxita Casanovas, que ens porta recomanacions i estrenes destacades que no ens podem perdre. Entre elles, Song Sung Blue, el musical dirigit per Craig Brewer que s’estrena aquest divendres.Finalment, entrevistem el fotògraf i cineasta documental Samuel Nacar, recentment guardonat amb el World Press Photo 2025 pel projecte The Shadows Already Have Names, un treball que dona veu als supervivents de les presons de Síria i denuncia les tortures patides durant el règim de Bashar al-Assad.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-acord-historic-per-les-victimes-abusos-esglesia-situacio-critica-persones-sense-llar-badalona-premi-world-press-photo-samuel-nacar/16888953/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/acord-historic-per-les-victimes-d’abusos-a-l’esglesia-situacio-critica-de-persones-sense-llar-a-badalona-i-el-premi-world-press-photo-a-samuel-nacar/16888953/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Habitatge, ciberatac a Endesa i Globus d&amp;#39;Or</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-habitatge-ciberatac-endesa-globus-dor/16892945/</link>
+      <description>El president del Govern, Pedro Sánchez, ha anunciat bonificacions del 100% als propietaris que no apugin el lloguer i també limitacions als contractes de temporada i d'habitacions. Analitzem la mesura anunciada amb Pablo Feu, advocat especialitzat en habitatge, amb qui també abordem la situació del veïnat afectat pel desnonament al carrer del Tigre, al Raval, on la propietat al·lega risc d'esfondrament. Contactem amb Mireia Crespo, una de les veïnes que ha pogut quedar-s'hi. Tot seguit contactem amb Bruno Pérez Juncà, pèrit informàtic forense, per saber què poden i han de fer els afectats pel ciberatac a Endesa. Un error de seguretat ha permès l'accés no autoritzat i il·legítim a la seva plataforma comercial, tenint accés a dades personals dels clients. Amb Guillem F. Marí repassem la gala dels Globus d'Or i les novetats més destacades de sèries. Acabem el programa amb la nostra psicòloga i sexòloga de confiança, Elena Crespi. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-habitatge-ciberatac-endesa-globus-dor/16892945/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/habitatge-ciberatac-a-endesa-i-globus-dor/16892945/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Trump insta els manifestants a “prendre les institucions” de l’Iran, el Dia Mundial de la Lluita contra la Depressió i ‘Oxígeno’</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-trump-insta-els-manifestants-prendre-les-institucions-iran-dia-mundial-lluita-contra-depressio-oxigeno/16894351/</link>
+      <description>El president dels Estats Units, Donald Trump, ha dit als iranians que “ja arriba l’ajuda” i ha instat els manifestants a “prendre les institucions” del país. És la primera de les notícies que marquen l'actualitat i que analitzem amb Ernesto Pascual, politòleg expert en política internacional. Amb el doctor Eduard Vieta, cap de psiquiatria de l’hospital Clínic, aprofundim en el que és la depressió, avui que és el Dia Mundial de la Lluita contra aquesta malaltia.Aquest dimarts hem sabut la llista de nominacions als Premis Goya. 'Los Domingos' i 'Sirat' lideren la llista que descobrim amb Conxita Casanovas. Amb el professor Agudo fem un repàs d'Agatha Christie, ara que s'acaben de complir 50 anys de la seva mort. I tanquem el programa amb 'Oxígeno', la darrera obra de Marta Jiménez Serrano.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-trump-insta-els-manifestants-prendre-les-institucions-iran-dia-mundial-lluita-contra-depressio-oxigeno/16894351/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/trump-insta-els-manifestants-a-“prendre-les-institucions”-de-l’iran-el-dia-mundial-de-la-lluita-contra-la-depressio-i-‘oxigeno’/16894351/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>El canvi climàtic continua accelerant, la Fiscalia investiga l&amp;#39;error en la dosi de quimioteràpia a Burgos i la visió d&amp;#39;Atchadé per a les ciutats del futur</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-canvi-climatic-continua-accelerant-fiscalia-investiga-lerror-dosi-quimioterapia-burgos-visio-datchade-per-les-ciutats-del-futur/16896501/</link>
+      <description>Comencem analitzant les dades del canvi climàtic amb Pedro Zorrilla, responsable de la campanya de canvi climàtic a Greenpeace, qui explica que el 2025 serà el tercer any més càlid des que es tenen registres, amb una temperatura mitjana global propera als 15 graus. A més, la mitjana global entre el 2023 i el 2025 supera per primera vegada el límit del grau i mig sobre els nivells preindustrials establerts en els acords de París.A continuació, parlem de la investigació oberta per la Fiscalia sobre la mort de dos pacients oncològics a l'Hospital Universitari de Burgos, que van rebre una dosi excessiva de quimioteràpia per un error humà. Carmen Flores, presidenta de l'Associació Defensor del Paciente, ens ofereix més detalls sobre aquest cas, que ha afectat altres pacients.Després, analitzem un estudi del Sindicat de Treballadores i Treballadors de l’Ensenyament (STEs) amb Iolanda Segura, portaveu de la Unió Sindical de Treballadores i Treballadors d’Educació de Catalunya (USTEC·STEs). L'enquesta revela el malestar creixent entre el professorat, amb un augment de les agressions verbals i un clima complicat a les aules, especialment a Catalunya, on el 87% dels docents perceben aquesta problemàtica.En un altre àmbit, Francesc Miralles ens explica les raons psicològiques darrere del desig de privacitat digital. Per què algunes persones prefereixen desactivar el 'vist' o el 'en línia' a les aplicacions de xat mentre que d’altres opten per mantenir-los activats? Un tema que, tot i semblar menor, amaga dinàmiques importants relacionades amb l'estrès i els límits personals.Acabem el programa conversant amb Parfait Atchadé, doctor en computació quàntica i expert en modelització basada en agents humanitzada (h-ABM). Atchadé ens parla de la seva recerca pionera per transformar les ciutats en laboratoris vius capaços de predir i optimitzar les dinàmiques humanes. La seva trajectòria, marcada per la superació personal i professional, ens ofereix una visió innovadora sobre el futur de les ciutats intel·ligents i resilients.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-canvi-climatic-continua-accelerant-fiscalia-investiga-lerror-dosi-quimioterapia-burgos-visio-datchade-per-les-ciutats-del-futur/16896501/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-canvi-climatic-continua-accelerant-la-fiscalia-investiga-lerror-en-la-dosi-de-quimioterapia-a-burgos-i-la-visio-datchade-per-a-les-ciutats-del-futur/16896501/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Desigualtat de gènere en el diagnòstic de malalties minoritàries, la poca formació en comunicació oral i el llibre &amp;#39;Un país en la pantalla&amp;#39;</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-desigualtat-genere-diagnostic-malalties-minoritaries-poca-formacio-comunicacio-oral-llibre-pais-pantalla/16898030/</link>
+      <description>La Federació Catalana de Malalties Minoritàries (FECAMM) ha presentat el programa FECAMM Dona 2026, una iniciativa que vol visibilitzar la realitat de les dones amb malalties minoritàries i impulsar canvis institucionals que incorporin la perspectiva de gènere en les polítiques de salut i de cures. Concretament, les dones amb malalties minoritàries triguen prop d’un 46% més de temps que els homes a rebre un diagnòstic. Ens donen més detalls Francesc Cayuela, President de la FECAMM, i Mònica Morros, membre del grup motor de FECAMM Dona i experta en polítiques d'igualtat.D’altra banda, a Espanya la comunicació i l’expressió oral davant un públic sembla ser una de les grans carències en l’àmbit de l’educació. Segons una investigació recent de l'Observatori Social de la Fundació La Caixa, 8 de cada 10 estudiants universitaris no han rebut formació en comunicació oral ni en el col·legi, ni a l’institut ni tampoc a la facultat. Tractem aquesta qüestió en profunditat amb Emma Rodero, catedràtica de psicologia i neurocomunicació.Pel que fa al cinema, Conxita Casanovas ens porta les estrenes cinematogràfiques més destacades del cap de setmana, amb una selecció de films que no ens podem perdre.Així mateix, La Rambla Film Festival celebra la seva primera edició del 16 al 23 de gener i tindrà com a principal escenari l’entorn de La Rambla de Barcelona. Conversem amb Santiago Lapeira, director de La Rambla Film Festival, perquè ens expliqui més coses sobre el festival.Tanquem el programa amb Raquel Piñeiro, que amb el seu llibre Un país en la pantalla, ens fa un recorregut per la història, la cultura i l'ànima d'Espanya explicada a través dels seus paisatges visuals.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-desigualtat-genere-diagnostic-malalties-minoritaries-poca-formacio-comunicacio-oral-llibre-pais-pantalla/16898030/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/desigualtat-de-genere-en-el-diagnostic-de-malalties-minoritaries-la-poca-formacio-en-comunicacio-oral-i-el-llibre-un-pais-en-la-pantalla/16898030/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Tràgic accident de tren a Adamuz i diagnòstic del President Salvador Illa</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-tragic-accident-tren-adamuz-diagnostic-del-president-salvador-illa/16902252/</link>
+      <description>Tràgic accident de tren a Adamuz que ha deixat, fins la darrera actualització, una quarantena de víctimes mortals. Analitzem les possibles causes amb José Trigueros, president de l'Associació d'Enginyers de Camins, Canals i Ports. Daniel Losada, tècnic de la Unitat d'Emergències de la Creu Roja Espanya, ens explica com van ser aquelles hores tan crítiques després de l'accident i com és el dispositiu d'emergència activat a la zona. Ens fixem també en un cas que ha colpit especialment: el d'una nena de 6 anys que ha estat l'única supervivent de la seva família. Com se supera una situació tan tràgica? En parlem amb Patricia Díaz Seoane, psicòloga especialitzada en dol infantil.El President de la Generalitat, Salvador Illa, pateix osteomielitis púbica, una inflamació infecciosa. L'hospital de la Vall d'Hebron ha informat del seu estat de salut i ens en dona tots els detalls la nostra companya dels Serveis Informatius, Lorena Hens.Amb Franc Cortada, director general d'Oxfam Intermon, analitzem les conclusions del darrer informe que ha publicat l'organització: 'Contra l'imperi dels més rics. Defensant la democràcia davant el poder dels milmilionaris', que alerta que l'any passat la riquesa conjunta dels milmilionaris de tot el món va assolir un màxim històric: 18,3 bilions de dòlars. Una concentració de riquesa que no implica únicament un gran poder econòmic sino també polític. Aquest dilluns hem conegut el veredicte del jurat dels Premis Sant Jordi de Cinematografia. El descobrim amb la presidenta del jurat, Conxita Casanovas.I tanquem el programa amb el doctor Jordi Varela.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-tragic-accident-tren-adamuz-diagnostic-del-president-salvador-illa/16902252/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/tragic-accident-de-tren-a-adamuz-i-diagnostic-del-president-salvador-illa/16902252/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nou accident ferroviari amb víctima mortal. En aquest cas, a Gelida.</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-nou-accident-ferroviari-amb-victima-mortal-aquest-cas-gelida/16904398/</link>
+      <description>Una víctima mortal i 5 ferits en estat crític, a banda d’una trentena més de ferits de diversa consideració. És el balanç de l'accident de tren que ha passat aquest dimarts entre Gelida i Sant Sadurní. Com a conseqüència d'aquest accident s’ha suspès la circulació de trens a tota la Línia de Rodalies, per motius de seguretat. Ho seguim tot en directe, fins la 1 de la matinada.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-nou-accident-ferroviari-amb-victima-mortal-aquest-cas-gelida/16904398/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/nou-accident-ferroviari-amb-victima-mortal-en-aquest-cas-a-gelida/16904398/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:173:00</itunes:duration>
+    </item>
+    <item>
+      <title>Jornada sense trens de Rodalies</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-jornada-sense-trens-rodalies/16906090/</link>
+      <description>Jornada de caos a la mobilitat a Catalunya: s’ha aturat totalment el servei de Rodalies, per a inspeccionar totes les línies i garantir que no presenten riscos com el d’anit, quan un mur de contenció va caure sobre les vies, entre Gelida i Sant Sadurní de Noia, i hi va xocar un tren de la Línia R4. El servei es recuperarà progressivament dijous al matí. Analitzem les noves informacions sobre aquest cas i el d'Adamuz amb Joan Carles Salmeron, director de Terminus, Centre d'Estudis del Transport i expert en ferrocarrils.També parlarem dels deepfakes, els arxius de video, imatge, o veu manipulats amb Intel·ligència Artificial, perquè el Govern central els vol incloure en els delictes contra l'honor. Amb Eloi Font, advocat especialitzat en dret digital i tecnològic.El sindicat CSIF ha convocat aquest dimecres concentracions als diferents centres penitenciaris per denunciar un augment de les agressions als treballadors i treballadores de presons i la manca de resposta per part de l'Administració. Tot arran l'agressió sexual a una funcionària, divendres passat. En parlem amb Alberto Gómez, responsable de presons de CSIF a Catalunya.L'actualitat del món animal, com sempre, amb l'antrozoòloga i etòloga Paula Calvo. I tanquem el programa amb Julia Navarro, que acaba de publicar Cuando ellos se van.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-jornada-sense-trens-rodalies/16906090/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/jornada-sense-trens-de-rodalies/16906090/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Situació a Rodalies i nominacions als Oscars</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-restabliment-del-servei-linia-r2-100-anys-del-naixement-patricia-neal-pelayo-mas-alla-del-limite/16908027/</link>
+      <description>Renfe ha anunciat que aquesta nit es reprendrà el servei de la línia R2 Nord i que es treballa amb la previsió de restablir Rodalies amb la major normalitat possible aquest divendres, després d’una nova jornada de caos marcada per l’absència de trens. Segons el Govern, només 6 dels 140 maquinistes previstos es van presentar a treballar. El sindicat SEMAF exigia més garanties de seguretat i finalment, després d’una llarga reunió entre maquinistes, Renfe, Adif i la Generalitat, s’ha acordat una nova revisió conjunta de la xarxa. En parlem amb Anna Gómez, portaveu de la plataforma Dignitat a les vies.D’altra banda, amb la sexòloga i psicòloga Elena Crespi, analitzem com Espanya fa front al major envelliment de la seva història el 2025 i com aquest fenomen impacta en la sexualitat, incloent la decisió creixent de moltes dones de no tenir relacions sexuals. També abordem el debat sobre poder i sexe arran el cas de Julio Iglesias.Pel que fa al cinema, hem conegut les nominacions als Preis Oscar i les descobrim amb Conxita Casanovas.A més, coincidint amb el centenari del naixement de Patricia Neal, fem un recorregut per la vida i la trajectòria professional de l’actriu guanyadora d’un Oscar amb el professor Dani Agudo.Tanquem el programa amb Pelayo Gayol, membre de la Policia Nacional i instructor del GEO, protagonista de la nova sèrie documental Pelayo. Más allá del límite, amb qui conversem sobre la producció i els reptes de la seva feina en la lluita contra el narcotràfic.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-restabliment-del-servei-linia-r2-100-anys-del-naixement-patricia-neal-pelayo-mas-alla-del-limite/16908027/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/situacio-a-rodalies-i-nominacions-als-oscars/16908027/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dimissions pels problemes a Rodalies, Minneapolis i Santiago Tarín</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dimissions-pels-problemes-rodalies-minneapolis-santiago-tarin/16912480/</link>
+      <description>Primeres conseqüències del desgavell ferroviari: el director operatiu de Rodalies, Josep Enric Garcia Alemany, i el responsable de manteniment d'ADIF, Raúl Míguez Bailo, han estat cessats. Això en un dia que havia de ser el dia de la recuperació del servei de Rodalies, però res més lluny de la realitat: ha estat una nova jornada de caos. Els usuaris, farts, han anunciat una manifestació unitària el 7 de febrer. En parlem amb Anna Gómez, portaveu de la Plataforma Dignitat a les vies.Ens situem també a Minneapolis, on s'ha viscut una nova jornada de protestes després de la mort d'una segona persona, aquest dissabte, a mans de l'ICE, els agents antiimmigració dels Estats Units. Tots els detalls amb Maria Carou, corresponsal de RNE als Estats Units.Ens interessem també per la situació del xarampió al nostre país, amb el doctor Fernando Moraga-Llop, portaveu de l’Associació Espanyola de Vacunologia.Com cada dilluns, sexologia amb Elena Crespi. I acabem el programa amb Santiago Tarín, que ha rebut el premi ICAB a la Trajectòria en el Periodisme del Sector Legal. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dimissions-pels-problemes-rodalies-minneapolis-santiago-tarin/16912480/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dimissions-pels-problemes-a-rodalies-minneapolis-i-santiago-tarin/16912480/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
+      <title>Browser not supported</title>
+      <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
+      <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
+      <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
+      <pubDate>Tue, 27 Jan 2026 18:45:18 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
