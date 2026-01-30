@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:16:03 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -124,6 +124,15 @@
       <itunes:duration>00:31:00</itunes:duration>
     </item>
     <item>
+      <title>El Congrés vota en contra del decret Òmnibus</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-congres-vota-contra-del-decret-omnibus/16912902/</link>
+      <description>El Partit Popular, VOX i Junts han fet caure el decret Òmnibus que incloïa la pujada de les pensions i la paralització dels desnonaments, entre altres qüestions. El decret ha caigut amb un total de 178 vots en contra i 171 vots a favor. Conversem amb Carme Arcarazo, Portaveu del Sindicat de Llogateres, perquè ens expliqui quines conseqüències tindrà per als llogaters la caiguda d'aquest decret.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-congres-vota-contra-del-decret-omnibus/16912902/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-congres-vota-en-contra-del-decret-omnibus/16912902/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 22:20:00 +0000</pubDate>
+      <itunes:duration>00:13:00</itunes:duration>
+    </item>
+    <item>
       <title>El Govern aprova la regularització de persones migrants</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-govern-aprova-regularitzacio-persones-migrants/16912835/</link>
       <description>El Govern ha aprovat avui en Consell de Ministres un Reial Decret per regularitzar de forma extraordinària la situació de les persones migrants que viuen a Espanya. Es calcula que la mesura pactada entre el Govern i Podemos podria beneficiar mig milió de persones migrades sense papers que viuen a l’Estat. L’origen de l’acord aprovat avui pel Consell de Ministres és una Iniciativa Legislativa Popular, “Regularització. Ja”, que va aconseguir més de 700.000 signatures a favor d’aquesta regularització extraordinària d’immigrants. En parlem amb Vicky Columba, portaveu de 'Regularització. Ja'.</description>
@@ -194,15 +203,6 @@
       <enclosure url="https://www.rtve.es/play/audios/de-nit/el-cerebro-enamorado-de-miguel-pita/16912914/" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 23:59:00 +0000</pubDate>
       <itunes:duration>00:35:00</itunes:duration>
-    </item>
-    <item>
-      <title>Emergència per pesta porcina africana a Catalunya i vaga de metges</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-emergencia-per-pesta-porcina-africana-catalunya-vaga-metges/16852929/</link>
-      <description>Decretada l'emergència per Pesta Porcina Africana a Catalunya per contenir, prevenir i pal·liar els efectes del brot de pesta porcina africana. Una actuació que permetrà a la Generalitat respondre de manera més ràpida i urgent a les conseqüències d'aquesta malaltia. El Govern ha aprovat un paquet d'ajudes de 10 milions d'euros, tot i que la quantitat es podria ampliar a 10 més si és necessari, per al sector porcí català, afectat per aquesta crisi. Per als afectats són ajudes insuficients. En parlem amb Rossend Saltiveri, responsable del sector porcí d'Unió de Pagesos.Tot seguit repassem l'actualitat nacional i internacional amb Ernest Pascual, politòleg. Ens fem ressó d'una problemàtica creixent: l'ansietat, ja a aquestes alçades de curs, dels estudiants de segon de batxillerat per la selectivitat. En parlem amb el professor i investigador Juan Fernández i la psicòloga infantil especialitzada en neuropsicologia i psicologia forense Maria Lluisa Ferrerós.Cinema amb el professor Dani Agudo. I acabem el programa conversant amb Xavier Lleonart, Secretari General de Metges de Catalunya. El sindicat ha convocat dues jornades de vaga, aquest dimarts i dimecres, per reclamar un espai de negociació amb el Departament de Salut i condicions dignes de feina. Amb el doctor Lleonart aprofundim en les seves reclamacions i en la situació en la que es troba el sector.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-emergencia-per-pesta-porcina-africana-catalunya-vaga-metges/16852929/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/emergencia-per-pesta-porcina-africana-a-catalunya-i-vaga-de-metges/16852929/" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Dec 2025 22:05:00 +0000</pubDate>
-      <itunes:duration>00:113:00</itunes:duration>
     </item>
     <item>
       <title>Més de 6.000 persones a Catalunya sense llar, ‘Le Journal d’un prisonnier’ de Sarkozy i el 49è aniversari de Ràdio 4</title>
@@ -372,15 +372,24 @@
       <description>El ple del Congrés ha rebutjat el decret del govern espanyol que contenia la revalorització de les pensions i altres mesures com una moratòria de desnonaments a famílies vulnerables.  En un comunicat, les entitats de defensa de l’habitatge han acusat els partits que han tombat la iniciativa (PP, Vox i Junts) d’avalar “el desnonament de 60.000 famílies”. En parlem amb Carme Arcarazo, portaveu del Sindicat de Llogateres.L'altra notícia del dia: el Govern ha aprovat en Consell de Ministres un Reial Decret per regularitzar de forma extraordinària la situació de les persones migrants que viuen a Espanya. Es calcula que la mesura pactada entre el Govern i Podemos podria beneficiar mig milió de persones migrades sense papers que viuen a l’Estat. L’origen de l’acord aprovat avui pel Consell de Ministres és una Iniciativa Legislativa Popular, “Regularització. Ja”, que va aconseguir més de 700.000 signatures a favor d’aquesta regularització extraordinària d’immigrants. Ho valorem amb Vicky Columba, portaveu de 'Regularització. Ja'.Aquest dimarts, l'OMS ha notificat a Espanya que s'ha restablert la transmissió endèmica del xarampió a Espanya. El doctor Fernando Moraga-Llop és portaveu de l’Associació Espanyola de Vacunologia i ha explicat què implica.També ens ha visitat Pere Vall, amb Pere Reguant, director i dramaturg.I tanquem el programa amb Isabel Coixet i Francesco Carril, a pocs dies d'estrenar-se 'Tres adioses'.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cau-decret-omnibus-regularitzacio-migrants-isabel-coixet/16914032/</guid>
       <enclosure url="https://www.rtve.es/play/audios/de-nit/cau-el-decret-omnibus-regularitzacio-de-migrants-i-isabel-coixet/16914032/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Jan 2026 22:05:00 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 22:05:00 +0000</pubDate>
       <itunes:duration>00:112:00</itunes:duration>
+    </item>
+    <item>
+      <title>La crisi de Rodalies al Parlament, tallada l&amp;#39;AP-7 en sentit sud i el BCN Film Fest</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-crisi-rodalies-parlament-tallada-lap-7-sentit-sud-bcn-film-fest/16915515/</link>
+      <description>La crisi de Rodalies ha marcat el ple d'aquest dimecres al Parlament. El conseller Albert Dalmau, en funcions de president per la baixa de Salvador Illa, ha proposat al Parlament un pacte de país per impulsar la refundació del sistema de Rodalies. Ha defensat l'actuació del govern, davant les peticions de dimissió de la consellera Paneque. Ho ha seguit tot plegat la Lorena Hens, companya dels Serveis Informatius de Ràdio 4. Aquesta tarda, el Servei Català de Trànsit ha decidit tornar a tallar l'AP-7 en sentit sud, entre Martorell i passat Gelida. Expliquem els detalls de per què s'ha pres aquesta decisió i fins quan durarà el tall. Hem estat també a la concentració que s'ha fet aquesta tarda, davant el passatge on hi ha la seu de Junts a Barcelona, després del vot en contra de la formació al Congrés dels Diputats  del decret que incloïa la moratòria de desnonaments de persones vulnerables. Amb el psicòleg Javier Elcarte, habitual col·laborador d'aquest programa, hem volgut saber com afecta psicològicament totes les famílies vulnerables que ara es poden trobar a les portes de poder perdre la llar. Una jornada en la que hem sabut els detalls de la desena edició del BCN Film Fest, dirigit per la nostra companya Conxita Casanovas, que ens explica tots els detalls. Amb Xavi Martinez escalfem motors pel Concert-Manifest per Palestina que es fa dijous al Palau Sant Jordi i que podreu seguir en directe a Ràdio 4. Acabarem el programa amb Miguel Pita, autor de 'El cerebro enamorado: Viaje biológico del sexo al divorcio'.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-crisi-rodalies-parlament-tallada-lap-7-sentit-sud-bcn-film-fest/16915515/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-crisi-de-rodalies-al-parlament-tallada-lap-7-en-sentit-sud-i-el-bcn-film-fest/16915515/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
     </item>
     <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Thu, 29 Jan 2026 06:16:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 06:16:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
