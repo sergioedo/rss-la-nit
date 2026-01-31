@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 30 Jan 2026 06:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 06:11:27 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,15 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>&amp;#39;Cuando ellos se van&amp;#39; de Julia Navarro</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-cuando-ellos-se-van-julia-navarro/16904687/</link>
-      <description>Conversem amb Julia Navarro, autora del llibre Cuando ellos se van. Una obra on l’escriptora fa un homenatge al seu gos mort, Argos, explorant el profund vincle entre humans i animals a través de la literatura, l'art i la història, i reflexiona sobre el dol, la lleialtat canina i la problemàtica de l'abandonament animal.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cuando-ellos-se-van-julia-navarro/16904687/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/cuando-ellos-se-van-de-julia-navarro/16904687/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Jan 2026 23:59:00 +0000</pubDate>
-      <itunes:duration>00:24:00</itunes:duration>
-    </item>
     <item>
       <title>Nova jornada complicada a Rodalies</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-nova-jornada-complicada-rodalies/16906406/</link>
@@ -203,6 +194,15 @@
       <enclosure url="https://www.rtve.es/play/audios/de-nit/el-cerebro-enamorado-de-miguel-pita/16912914/" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 23:59:00 +0000</pubDate>
       <itunes:duration>00:35:00</itunes:duration>
+    </item>
+    <item>
+      <title>Música i solidaritat als anys vuitanta, amb Dani Agudo</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-musica-solidaritat-als-anys-vuitanta-amb-dani-agudo/16917864/</link>
+      <description>En el dia de la celebració del concert Manifest X Palestina, revisitem la música i les seves històries compromeses de principis de la dècada dels vuitanta, a través d’una mirada retrospectiva, de la mà del professor Dani Agudo.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-musica-solidaritat-als-anys-vuitanta-amb-dani-agudo/16917864/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/musica-i-solidaritat-als-anys-vuitanta-amb-dani-agudo/16917864/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 23:45:00 +0000</pubDate>
+      <itunes:duration>00:14:00</itunes:duration>
     </item>
     <item>
       <title>Més de 6.000 persones a Catalunya sense llar, ‘Le Journal d’un prisonnier’ de Sarkozy i el 49è aniversari de Ràdio 4</title>
@@ -389,7 +389,7 @@
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Fri, 30 Jan 2026 06:16:03 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 06:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
