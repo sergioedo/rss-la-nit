@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 06 Feb 2026 06:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 06:14:23 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -176,6 +176,33 @@
       <enclosure url="https://www.rtve.es/play/audios/de-nit/el-dinosaurio-daugusto-monterroso/16925839/" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 05 Feb 2026 22:32:00 +0000</pubDate>
       <itunes:duration>00:17:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;Tres adioses&amp;#39; i totes les estrenes cinematogràfiques del cap de setmana</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-tres-adioses-totes-les-estrenes-cinematografiques-del-cap-setmana/16925567/</link>
+      <description>Amb la nostra companya Conxita Casanovas repassem les estrenes cinematogràfiques d'aquesta setmana. Especial atenció en aquest diumenge: Premis Gaudí.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-tres-adioses-totes-les-estrenes-cinematografiques-del-cap-setmana/16925567/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/tres-adioses-i-totes-les-estrenes-cinematografiques-del-cap-de-setmana/16925567/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Feb 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>00:21:00</itunes:duration>
+    </item>
+    <item>
+      <title>85 anys de Nick Nolte</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-85-anys-nick-nolte/16925562/</link>
+      <description>Nick Nolte fa 85 anys el 8 de febrer. Amb el professor Dani Agudo fem un repàs per tres dels seus treballs imprescindibles.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-85-anys-nick-nolte/16925562/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/85-anys-de-nick-nolte/16925562/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Feb 2026 23:30:00 +0000</pubDate>
+      <itunes:duration>00:24:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;El festín de la palabra&amp;#39;, de Rosa Navarro Durán</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-festin-palabra-rosa-navarro-duran/16925732/</link>
+      <description>Rosa Navarro Durán, catedràtica i filòloga, ens ofereix 20 lliçons i reflexions d'obres clàssiques de la literatura en la seva darrera obra: 'El festín de la palabra'.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-festin-palabra-rosa-navarro-duran/16925732/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-festin-de-la-palabra-de-rosa-navarro-duran/16925732/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Feb 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:29:00</itunes:duration>
     </item>
     <item>
       <title>Catalunya posa límits als lloguers de temporada, Dia Internacional de les Persones Migrants, i les dificultats del dia a dia i de l’amor amb Bob Pop</title>
@@ -349,11 +376,20 @@
       <itunes:duration>00:114:00</itunes:duration>
     </item>
     <item>
+      <title>Augmenta el risc de pobresa o exclusió social a Catalunya, cinema i Rosa Navarro Durán</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-augmenta-risc-pobresa-exclusio-social-catalunya-cinema-rosa-navarro-duran/16925838/</link>
+      <description>El risc de pobresa o exclusió social afecta gairebé una quarta part de la població catalana: un 24,8% al 2025, vuit dècimes més que l'any anterior. En parlem amb Xavier Trabado, president de la Taula del Tercer Sector.Aquest dijous ens ha visitat la Teresa Reyes. Amb la nostra companya Conxita Casanovas repassem les estrenes cinematogràfiques d'aquesta setmana. El profesor Dani Agudo ens porta un repàs per la trajectòria de Nick Nolte, que fa 85 anys el 8 de febrer.  I tanquem el programa amb Rosa Navarro Durán, catedràtica i filòloga, que ens ofereix 20 lliçons i reflexions d'obres clàssiques de la literatura en el seu darrer llibre: ‘El festín de la palabra’.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-augmenta-risc-pobresa-exclusio-social-catalunya-cinema-rosa-navarro-duran/16925838/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/augmenta-el-risc-de-pobresa-o-exclusio-social-a-catalunya-cinema-i-rosa-navarro-duran/16925838/" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:112:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Fri, 06 Feb 2026 06:19:17 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 06:14:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
