@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 12 Feb 2026 06:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 06:22:43 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,33 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>&amp;#39;El dinosaurio&amp;#39; d&amp;#39;Augusto Monterroso</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-dinosaurio-daugusto-monterroso/16925839/</link>
-      <description>Amb Teresa Reyes conversem sobre el conte El dinosaurio, un microrelat escrit per l'escriptor guatemalenc d'Hondures Augusto Monterroso. </description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dinosaurio-daugusto-monterroso/16925839/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-dinosaurio-daugusto-monterroso/16925839/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 22:32:00 +0000</pubDate>
-      <itunes:duration>00:17:00</itunes:duration>
-    </item>
-    <item>
-      <title>&amp;#39;Tres adioses&amp;#39; i totes les estrenes cinematogràfiques del cap de setmana</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-tres-adioses-totes-les-estrenes-cinematografiques-del-cap-setmana/16925567/</link>
-      <description>Amb la nostra companya Conxita Casanovas repassem les estrenes cinematogràfiques d'aquesta setmana. Especial atenció en aquest diumenge: Premis Gaudí.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-tres-adioses-totes-les-estrenes-cinematografiques-del-cap-setmana/16925567/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/tres-adioses-i-totes-les-estrenes-cinematografiques-del-cap-de-setmana/16925567/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 23:10:00 +0000</pubDate>
-      <itunes:duration>00:21:00</itunes:duration>
-    </item>
-    <item>
-      <title>85 anys de Nick Nolte</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-85-anys-nick-nolte/16925562/</link>
-      <description>Nick Nolte fa 85 anys el 8 de febrer. Amb el professor Dani Agudo fem un repàs per tres dels seus treballs imprescindibles.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-85-anys-nick-nolte/16925562/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/85-anys-de-nick-nolte/16925562/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 23:30:00 +0000</pubDate>
-      <itunes:duration>00:24:00</itunes:duration>
-    </item>
     <item>
       <title>&amp;#39;El festín de la palabra&amp;#39;, de Rosa Navarro Durán</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-festin-palabra-rosa-navarro-duran/16925732/</link>
@@ -160,6 +133,15 @@
       <itunes:duration>00:32:00</itunes:duration>
     </item>
     <item>
+      <title>Revisió ocular a menors vulnerables</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-revisio-ocular-menors-vulnerables/16934412/</link>
+      <description>Un equip de professionals de la Fundació Barraquer ha revisat la salut visual de 50 infants i joves en situació de vulnerabilitat. Una jornada que ha tingut lloc a la seu de l'ONCE a Barcelona, que neix fruit del conveni amb la Fundació ONCE i la Fundación ONCE Baja Visión, i que ha donat el tret de sortida al programa 'Cada mirada merece un futuro claro', que fins el mes de juny continuarà el seu recorregut per Madrid, la Comunitat Valenciana, Múrcia, Andalusia i les Canàries amb l'objectiu de garantir l’accés a revisions visuals gratuïtes a prop de 300 infants en situació de vulnerabilitat. N'hem parlat amb Francesc Ballbé, director de la Fundació Barraquer.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-revisio-ocular-menors-vulnerables/16934412/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/revisio-ocular-a-menors-vulnerables/16934412/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Feb 2026 22:45:00 +0000</pubDate>
+      <itunes:duration>00:08:00</itunes:duration>
+    </item>
+    <item>
       <title>Propostes de sèries, amb Guillem F. Marí</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-propostes-series-amb-guillem-mari/16934594/</link>
       <description>Amb el nostre expert en sèries, Guillem F. Marí, repassem recomanacions de sèries que s'estrenen pròximament.</description>
@@ -178,13 +160,40 @@
       <itunes:duration>00:18:00</itunes:duration>
     </item>
     <item>
-      <title>Novetats a Badalona, tota l&amp;#39;actualitat nacional i internacional i Javier Urra</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-novetats-badalona-tota-lactualitat-nacional-internacional-javier-urra/16876861/</link>
-      <description>Actualitzem la situació a Badalona, on entitats socials i la Generalitat han acordat reubicar els migrants desallotjats de l'antit institut B9 de Badalona. Amb Ernesto Pascual analitzem tota l'actualitat nacional i internacional del moment. Tot seguit, amb Pere Vall entrevistem Azahara Moyano, una actriu menorquina amb molta empenta i talent que acaba de produir la comèdir 'El padre de todos nosotros'. Dani Agudo ens parla aquesta nit de la pel·lícula Nuremberg. I tanquem el programa amb Javier Urra, intentant respondre la gran pregunta que apareix al seu darrer llibre: Com som realment?</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-novetats-badalona-tota-lactualitat-nacional-internacional-javier-urra/16876861/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/novetats-a-badalona-tota-lactualitat-nacional-i-internacional-i-javier-urra/16876861/" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Dec 2025 22:05:00 +0000</pubDate>
-      <itunes:duration>00:114:00</itunes:duration>
+      <title>Jornada de vaga i mobilitzacions al sector de l&amp;#39;educació</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-jornada-vaga-mobilitzacions-sector-leducacio/16934515/</link>
+      <description>El sector educatiu s'ha mobilitzat arreu del territori per reclamar un augment salarial i de la plantilla, la reducció de la burocràcia i de les ràtios, entre d'altres. Analitzem la situació amb Iolanda Segura, portaveu del sindicat USTEC·STEs.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-jornada-vaga-mobilitzacions-sector-leducacio/16934515/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/jornada-de-vaga-i-mobilitzacions-al-sector-de-leducacio/16934515/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Feb 2026 23:33:00 +0000</pubDate>
+      <itunes:duration>00:13:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dia de la Dona i la Nena en la Ciència</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dia-dona-nena-ciencia/16934510/</link>
+      <description>Coincidint amb el dia de la Dona i la Nena en la Ciència, al 'De Nit' conversem amb una dona científica: Cristina Solé, investigadora del grup de Reumatologia del Vall d'Hebron Institut de Recerca. Amb ella desobrim en què consisteix la seva feina i conversem sobre les dificultats amb les que es troben les dones científiques que, tot i ser clau, no estan encara prou reconegudes.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dia-dona-nena-ciencia/16934510/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dia-de-la-dona-i-la-nena-en-la-ciencia/16934510/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Feb 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dia Mundial de la Ràdio, amb Josep Cuní</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-radio-amb-josep-cuni/16936323/</link>
+      <description>Celebrem el Dia Mundial de la Ràdio, una ocasió per recordar el poder de la comunicació. Josep Cuní, sinònim de credibilitat i experiència, ha estat una veu essencial en l'explicació del país durant més de mig segle, destacant per la seva vocació de servei públic.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-radio-amb-josep-cuni/16936323/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dia-mundial-de-la-radio-amb-josep-cuni/16936323/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 22:43:00 +0000</pubDate>
+      <itunes:duration>00:14:00</itunes:duration>
+    </item>
+    <item>
+      <title>Estrenes cinematogràfiques amb Conxita Casanovas</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16936315/</link>
+      <description>La nostra col·laboradora, Conxita Casanovas, ens acosta les estrenes al cinema d'aquest divendres.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16936315/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/estrenes-cinematografiques-amb-conxita-casanovas/16936315/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 23:23:00 +0000</pubDate>
+      <itunes:duration>00:13:00</itunes:duration>
     </item>
     <item>
       <title>Trump i Veneçuela, dues persones sense llar mortes en plena onada de fred, i Francesc Torralba</title>
@@ -358,11 +367,20 @@
       <itunes:duration>00:114:00</itunes:duration>
     </item>
     <item>
+      <title>Jornada de vaga al sector educatiu, revisió ocular a menors vulnerables i el Dia de la Dona i la Nena en la Ciència</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-jornada-vaga-sector-educatiu-revisio-ocular-menors-vulnerables-dia-dona-nena-ciencia/16936141/</link>
+      <description>Comencem el programa amb Iolanda Segura, portaveu del sindicat USTEC·STEs, analitzant les mobilitzacions del sector educatiu, que reclamen un augment salarial, més plantilla, una reducció de la burocràcia i una menor ràtio d’alumnes per docent.Amb Francesc Ballbé, director de la Fundació Barraquer, parlem de la revisió de la salut visual de 50 infants en situació de vulnerabilitat a la seu de l'ONCE a Barcelona. Aquesta jornada dóna inici al programa 'Cada mirada merece un futuro claro', que continuarà a diverses ciutats fins al juny per garantir revisions visuals gratuïtes a més de 300 nens i nenes.També, el nostre expert en sèries, Guillem F. Marí, ens recomana algunes de les estrenes més destacades que arriben a les pantalles pròximament.Amb Elena Crespi, psicòloga i sexòloga, abordem temes d'actualitat com les crítiques a l’estilisme de Lady Gaga, el penediment públic d’un medallista olímpic per la seva infidelitat, i la polèmica sobre la negativa de l’alcalde de Madrid, José Luis Martínez-Almeida, a penjar la bandera LGTBI a l’Ajuntament durant l'Orgull. També reflexionem sobre les grans diferències d’edat entre alguns pares i els seus fills.Acabem el programa amb Cristina Solé, investigadora del grup de Reumatologia del Vall d'Hebron Institut de Recerca, qui ens parla de la seva feina i de les dificultats que encara afronten les dones científiques, malgrat la seva contribució essencial.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-jornada-vaga-sector-educatiu-revisio-ocular-menors-vulnerables-dia-dona-nena-ciencia/16936141/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/jornada-de-vaga-al-sector-educatiu-revisio-ocular-a-menors-vulnerables-i-el-dia-de-la-dona-i-la-nena-en-la-ciencia/16936141/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Feb 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Thu, 12 Feb 2026 06:26:06 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 06:22:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
