@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 13 Feb 2026 06:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 06:14:46 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,24 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>&amp;#39;El festín de la palabra&amp;#39;, de Rosa Navarro Durán</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-festin-palabra-rosa-navarro-duran/16925732/</link>
-      <description>Rosa Navarro Durán, catedràtica i filòloga, ens ofereix 20 lliçons i reflexions d'obres clàssiques de la literatura en la seva darrera obra: 'El festín de la palabra'.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-festin-palabra-rosa-navarro-duran/16925732/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-festin-de-la-palabra-de-rosa-navarro-duran/16925732/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 23:59:00 +0000</pubDate>
-      <itunes:duration>00:29:00</itunes:duration>
-    </item>
-    <item>
-      <title>Desconvocada la vaga de maquinistes</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-desconvocada-vaga-maquinistes/16931013/</link>
-      <description>La vaga havia de durar fins dimecres, però l'acord assolit aquesta tarda entre els sindicats de maquinistes (Semaf, UGT i CCOO) i el Ministeri de Transports ha permès desconvocar-la. La reunió entre les parts ha durat unes 4 hores i ha permès tancar un acord que respon a les principals exigències del sector: més manteniment, seguretat, més personal i més inversió. 1800 milions d'inversió en manteniment i es crearan 3.650 llocs de feina per millorar la infraestructura. Descobrim els detalls d'aquest pacte amb Francisco Cárdenas, responsable d'UGT a Renfe Catalunya.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-desconvocada-vaga-maquinistes/16931013/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/desconvocada-la-vaga-de-maquinistes/16931013/" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Feb 2026 22:35:00 +0000</pubDate>
-      <itunes:duration>00:17:00</itunes:duration>
-    </item>
     <item>
       <title>Primera multa per &amp;#39;racisme immobiliari&amp;#39; a una agència de Mataró</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-primera-multa-per-racisme-immobiliari-immobiliaria-mataro/16931062/</link>
@@ -178,6 +160,15 @@
       <itunes:duration>00:28:00</itunes:duration>
     </item>
     <item>
+      <title>Estat d’ànim condicionat pels fenòmens climatològics</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-estat-anim-condicionat-pels-fenomens-climatologics/16937796/</link>
+      <description>Fenòmens climatològics com el temporal de vent d'aquests dies a Catalunya poden agreujar trastorns de com la depressió o l'ansietat. Conversem amb Antonio Bulbena, Catedràtic de Psiquiatria de la Universitat Autònoma de Barcelona i fundador de l'Institut de Neuropsiquiatria i Addiccions, perquè ens expliqui com aquests fenòmens poden afectar a la nostra salut mental i estat d'ànim.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-estat-anim-condicionat-pels-fenomens-climatologics/16937796/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/estat-d’anim-condicionat-pels-fenomens-climatologics/16937796/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 22:25:00 +0000</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
+    </item>
+    <item>
       <title>Dia Mundial de la Ràdio, amb Josep Cuní</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-radio-amb-josep-cuni/16936323/</link>
       <description>Celebrem el Dia Mundial de la Ràdio, una ocasió per recordar el poder de la comunicació. Josep Cuní, sinònim de credibilitat i experiència, ha estat una veu essencial en l'explicació del país durant més de mig segle, destacant per la seva vocació de servei públic.</description>
@@ -185,6 +176,15 @@
       <enclosure url="https://www.rtve.es/play/audios/de-nit/dia-mundial-de-la-radio-amb-josep-cuni/16936323/" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 Feb 2026 22:43:00 +0000</pubDate>
       <itunes:duration>00:14:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;La reina lloba&amp;#39; al Teatre Nacional de Catalunya</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-reina-lloba-teatre-nacional-catalunya/16937764/</link>
+      <description>Conversem amb Pau Carrió, director de La reina lloba, una tragèdia sobre Margarita d'Anjou, una figura central en diverses obres de Shakespeare. En el seu nou muntatge al TNC de Barcelona, Carrió explora la història d’aquesta reina vilipendiada, aportant una nova visió sobre el seu llegat.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-reina-lloba-teatre-nacional-catalunya/16937764/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-reina-lloba-al-teatre-nacional-de-catalunya/16937764/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 23:00:00 +0000</pubDate>
+      <itunes:duration>00:21:00</itunes:duration>
     </item>
     <item>
       <title>Estrenes cinematogràfiques amb Conxita Casanovas</title>
@@ -196,13 +196,13 @@
       <itunes:duration>00:13:00</itunes:duration>
     </item>
     <item>
-      <title>Trump i Veneçuela, dues persones sense llar mortes en plena onada de fred, i Francesc Torralba</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-07-01-26-trump-venecuela-dues-persones-sense-llar-mortes-plena-onada-fred-francesc-torralba/16887151/</link>
-      <description>Trump continua amb els seus moviments després de la captura de Nicolás Maduro, dissabte passat. Analitzem les darreres notícies amb Ernest Pascual, politòleg expert en política internacional. També ens fixem en Mineàpolis, on ha mort una dona tirotejada en les darreres hores. Jornada marcada per la mort d'un segon sense sostre a casa nostra, en plena onada de fred. En aquest cas a la Barceloneta. Se suma a l'home que va perdre la vida dimarts a Badalona, a les portes d'un pàrquing. Conversem amb Bea Fernández, directora de la Fundació Arrels. Les temperatures extremes suposen un perill sobretot per als més vulnerables, com aquells que viuen al carrer, i també per a aquells persones que no poden permetre's mantenir l'habitatge a una temperatura adequada. Persones víctimes de la pobresa energètica, que afecta cada vegada més persones. Conversem amb Irene González, portaveu de l'Aliança contra la Pobresa Energètica.Tot seguit conversem amb Andrés Pascual, que ens ha vinguta presentar el seu darrer llibre: El poder del entusiasmo.I tancarem el programa amb Francesc Torralba, que acaba de guanyar el premi Josep Pla amb l'assaig 'Anatomia de l'esperança', que veurà la llum el 4 de febrer.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-07-01-26-trump-venecuela-dues-persones-sense-llar-mortes-plena-onada-fred-francesc-torralba/16887151/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/trump-i-venecuela-dues-persones-sense-llar-mortes-en-plena-onada-de-fred-i-francesc-torralba/16887151/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Jan 2026 22:05:00 +0000</pubDate>
-      <itunes:duration>00:114:00</itunes:duration>
+      <title>El Doctor Joaquim Bellmunt, Catedràtic a Harvard i expert en càncer genitourinari</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-doctor-joaquim-bellmunt-catedratic-harvard-expert-cancer-genitourinari/16937891/</link>
+      <description>Conversem amb el Dr. Joaquim Bellmunt, oncòleg especialista en càncer genitourinari, qui ha estat recentment nomenat catedràtic a la Universitat de Harvard, un reconeixement que subratlla la seva trajectòria i lideratge en el camp de l'oncologia.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-doctor-joaquim-bellmunt-catedratic-harvard-expert-cancer-genitourinari/16937891/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-doctor-joaquim-bellmunt-catedratic-a-harvard-i-expert-en-cancer-genitourinari/16937891/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 23:40:00 +0000</pubDate>
+      <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
       <title>Acord històric per les víctimes d’abusos a l’Església, situació crítica de persones sense llar a Badalona i el premi World Press Photo a Samuel Nacar</title>
@@ -376,11 +376,20 @@
       <itunes:duration>00:113:00</itunes:duration>
     </item>
     <item>
+      <title>Fenòmens meteorològics i benestar emocional, Dia Mundial de la Ràdio i Joaquim Bellmunt</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-fenomens-meteorologics-benestar-emocional-dia-mundial-radio-joaquim-bellmunt/16937902/</link>
+      <description>Obrim el programa posant el focus en l’impacte que poden tenir els fenòmens meteorològics extrems en el nostre benestar emocional. El temporal de vent que afecta aquests dies Catalunya ens serveix de punt de partida per parlar de salut mental amb Antonio Bulbena, catedràtic de Psiquiatria a la Universitat Autònoma de Barcelona i fundador de l’Institut de Neuropsiquiatria i Addiccions, amb qui analitzem com aquests episodis poden intensificar símptomes d’ansietat o depressió.Tot seguit, en la prèvia del Dia Mundial de la Ràdio, reivindiquem la força d’aquest mitjà que continua sent un referent informatiu i de companyia per a milions de persones. Ho fem recordant la trajectòria de Josep Cuní, una de les veus més reconegudes del periodisme del país, amb més de cinquanta anys de professió marcats pel rigor i el compromís amb el servei públic.A continuació, conversem amb Pau Carrió, que presenta al Teatre Nacional de Catalunya La reina lloba, una revisió escènica de la figura de Margarida d’Anjou. El muntatge rescata aquesta reina, sovint jutjada amb severitat per la història, i en proposa una lectura contemporània que dialoga amb l’univers shakespearià.També, La nostra experta en cinema, Conxita Casanovas, repassa les novetats més destacades que arriben aquesta setmana a la cartellera.Tanquem el programa conversant amb el doctor Joaquim Bellmunt, referent internacional en càncer genitourinari, que recentment ha sigut nomenat catedràtic a la Universitat de Harvard, una distinció que reconeix la seva contribució científica i la seva trajectòria en l’àmbit de l’oncologia.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-fenomens-meteorologics-benestar-emocional-dia-mundial-radio-joaquim-bellmunt/16937902/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/fenomens-meteorologics-i-benestar-emocional-dia-mundial-de-la-radio-i-joaquim-bellmunt/16937902/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Fri, 13 Feb 2026 06:22:43 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 06:14:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
