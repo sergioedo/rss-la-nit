@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Wed, 18 Feb 2026 06:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 06:23:47 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,24 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>Revisió ocular a menors vulnerables</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-revisio-ocular-menors-vulnerables/16934412/</link>
-      <description>Un equip de professionals de la Fundació Barraquer ha revisat la salut visual de 50 infants i joves en situació de vulnerabilitat. Una jornada que ha tingut lloc a la seu de l'ONCE a Barcelona, que neix fruit del conveni amb la Fundació ONCE i la Fundación ONCE Baja Visión, i que ha donat el tret de sortida al programa 'Cada mirada merece un futuro claro', que fins el mes de juny continuarà el seu recorregut per Madrid, la Comunitat Valenciana, Múrcia, Andalusia i les Canàries amb l'objectiu de garantir l’accés a revisions visuals gratuïtes a prop de 300 infants en situació de vulnerabilitat. N'hem parlat amb Francesc Ballbé, director de la Fundació Barraquer.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-revisio-ocular-menors-vulnerables/16934412/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/revisio-ocular-a-menors-vulnerables/16934412/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 22:45:00 +0000</pubDate>
-      <itunes:duration>00:08:00</itunes:duration>
-    </item>
-    <item>
-      <title>Propostes de sèries, amb Guillem F. Marí</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-propostes-series-amb-guillem-mari/16934594/</link>
-      <description>Amb el nostre expert en sèries, Guillem F. Marí, repassem recomanacions de sèries que s'estrenen pròximament.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-propostes-series-amb-guillem-mari/16934594/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/propostes-de-series-amb-guillem-f-mari/16934594/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 22:45:00 +0000</pubDate>
-      <itunes:duration>00:28:00</itunes:duration>
-    </item>
     <item>
       <title>Infidelitat i penediment públic i controvèrsia per la diferència d’edat entre els pares</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-infidelitat-penediment-public-controversia-per-diferencia-edat-entre-els-pares/16934588/</link>
@@ -205,13 +187,22 @@
       <itunes:duration>00:32:00</itunes:duration>
     </item>
     <item>
-      <title>Habitatge, ciberatac a Endesa i Globus d&amp;#39;Or</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-habitatge-ciberatac-endesa-globus-dor/16892945/</link>
-      <description>El president del Govern, Pedro Sánchez, ha anunciat bonificacions del 100% als propietaris que no apugin el lloguer i també limitacions als contractes de temporada i d'habitacions. Analitzem la mesura anunciada amb Pablo Feu, advocat especialitzat en habitatge, amb qui també abordem la situació del veïnat afectat pel desnonament al carrer del Tigre, al Raval, on la propietat al·lega risc d'esfondrament. Contactem amb Mireia Crespo, una de les veïnes que ha pogut quedar-s'hi. Tot seguit contactem amb Bruno Pérez Juncà, pèrit informàtic forense, per saber què poden i han de fer els afectats pel ciberatac a Endesa. Un error de seguretat ha permès l'accés no autoritzat i il·legítim a la seva plataforma comercial, tenint accés a dades personals dels clients. Amb Guillem F. Marí repassem la gala dels Globus d'Or i les novetats més destacades de sèries. Acabem el programa amb la nostra psicòloga i sexòloga de confiança, Elena Crespi. </description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-habitatge-ciberatac-endesa-globus-dor/16892945/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/habitatge-ciberatac-a-endesa-i-globus-dor/16892945/" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Jan 2026 22:05:00 +0000</pubDate>
-      <itunes:duration>00:113:00</itunes:duration>
+      <title>Els sindicats docents rebutgen l’augment del 15% del complement docent</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-els-sindicats-docents-rebutgen-augment-del-15-del-complement-docent/16944358/</link>
+      <description>Els sindicats docents rebutgen l'augment del 15% proposat pel Departament d’Educació, considerant-lo 'insuficient'. Denuncien que la mesura només suposa uns 25 euros més al mes i exigeixen una clàusula d'actualització vinculada a l'IPC. Tot i reconèixer que és 'un primer pas', mantenen les mobilitzacions i demanen millores substancials en recursos i condicions laborals. Iolanda Segura, portaveu del sindicat USTEC-STES, ens explica les raons darrere del rebuig i analitza l'impacte d'aquesta proposta sobre el professorat.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-els-sindicats-docents-rebutgen-augment-del-15-del-complement-docent/16944358/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/els-sindicats-docents-rebutgen-l’augment-del-15%-del-complement-docent/16944358/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 22:20:00 +0000</pubDate>
+      <itunes:duration>00:16:00</itunes:duration>
+    </item>
+    <item>
+      <title>‘Un himne a la vida. La meva història’ de Gisèle Pelicot, amb el corresponsal a París Antonio Delgado</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-himne-vida-meva-historia-gisele-pelicot-amb-corresponsal-paris-antonio-delgado/16944364/</link>
+      <description>Conversem amb el corresponsal de RNE a París, Antonio Delgado, perquè ens expliqui com ha estat rebuda l'obra Un himne a la vida. La meva història i ens doni una visió més profunda sobre la figura de Gisèle Pelicot i el seu impacte.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-himne-vida-meva-historia-gisele-pelicot-amb-corresponsal-paris-antonio-delgado/16944364/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/‘un-himne-a-la-vida-la-meva-historia’-de-gisele-pelicot-amb-el-corresponsal-a-paris-antonio-delgado/16944364/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 22:40:00 +0000</pubDate>
+      <itunes:duration>00:19:00</itunes:duration>
     </item>
     <item>
       <title>Trump insta els manifestants a “prendre les institucions” de l’Iran, el Dia Mundial de la Lluita contra la Depressió i ‘Oxígeno’</title>
@@ -385,11 +376,20 @@
       <itunes:duration>00:114:00</itunes:duration>
     </item>
     <item>
+      <title>Trump qualifica Cuba de “nació fallida”, la realitat dels propòsits d’any nou i el llibre ‘Estado civil: CANSADA’</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-trump-qualifica-cuba-nacio-fallida-realitat-dels-proposits-any-nou-llibre-estado-civil-cansada/16944346/</link>
+      <description>Repassem l’actualitat internacional amb el professor Ernest Pascual. Analitzem les paraules de Donald Trump, que ha qualificat Cuba de “nació fallida”, el missatge de Barack Obama després de la mort de Jesse Jackson, i els “principis rectors” que l’Iran assegura haver pactat amb Washington en les converses nuclears.Amb Francesc Miralles parlem dels propòsits d’any nou que s’esvaeixen i de com convertir-los en objectius realistes i sostenibles.L’or s’ha disparat aquest 2025 enmig de la incertesa global. Amb Javier Santacruz analitzem les causes i l’impacte als mercats.També, el Centre de Cultura Contemporània de Barcelona acull Rodoreda: un bosc, dedicada a Mercè Rodoreda. Aprofitant-ho, hem volgut recordar que Francesc Betriu va rodar, l'any 1981, al barri de Gràcia, una adaptació de 'La Plaça del Diamant' produïda per RTVE. Ho descobrim amb el professor Dani Agudo.Tanquem el programa amb Estado civil: CANSADA, escrit per la periodista i la Directora de bellesa de Vogue, Ana Morales, sobre l’autoexigència i l’esgotament femení.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-trump-qualifica-cuba-nacio-fallida-realitat-dels-proposits-any-nou-llibre-estado-civil-cansada/16944346/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/trump-qualifica-cuba-de-“nacio-fallida”-la-realitat-dels-proposits-d’any-nou-i-el-llibre-‘estado-civil-cansada’/16944346/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Feb 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Wed, 18 Feb 2026 06:24:45 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 06:23:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
