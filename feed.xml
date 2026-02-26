@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Wed, 25 Feb 2026 06:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:22:14 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,42 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>Cansades d&amp;#39;estar cansades, amb Ana Morales</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-cansades-destar-cansades-amb-ana-morales/16942565/</link>
-      <description>'Estado civil: CANSADA'. Un llibre de la periodista Ana Morales, que ens parla de l'autoexigència i l'esgotament silenciós que pateixen moltes dones.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cansades-destar-cansades-amb-ana-morales/16942565/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/cansades-destar-cansades-amb-ana-morales/16942565/" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Feb 2026 23:59:00 +0000</pubDate>
-      <itunes:duration>00:32:00</itunes:duration>
-    </item>
-    <item>
-      <title>Els sindicats docents rebutgen l’augment del 15% del complement docent</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-els-sindicats-docents-rebutgen-augment-del-15-del-complement-docent/16944358/</link>
-      <description>Els sindicats docents rebutgen l'augment del 15% proposat pel Departament d’Educació, considerant-lo 'insuficient'. Denuncien que la mesura només suposa uns 25 euros més al mes i exigeixen una clàusula d'actualització vinculada a l'IPC. Tot i reconèixer que és 'un primer pas', mantenen les mobilitzacions i demanen millores substancials en recursos i condicions laborals. Iolanda Segura, portaveu del sindicat USTEC-STES, ens explica les raons darrere del rebuig i analitza l'impacte d'aquesta proposta sobre el professorat.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-els-sindicats-docents-rebutgen-augment-del-15-del-complement-docent/16944358/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/els-sindicats-docents-rebutgen-l’augment-del-15%-del-complement-docent/16944358/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 22:20:00 +0000</pubDate>
-      <itunes:duration>00:16:00</itunes:duration>
-    </item>
-    <item>
-      <title>‘Un himne a la vida. La meva història’ de Gisèle Pelicot, amb el corresponsal a París Antonio Delgado</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-himne-vida-meva-historia-gisele-pelicot-amb-corresponsal-paris-antonio-delgado/16944364/</link>
-      <description>Conversem amb el corresponsal de RNE a París, Antonio Delgado, perquè ens expliqui com ha estat rebuda l'obra Un himne a la vida. La meva història i ens doni una visió més profunda sobre la figura de Gisèle Pelicot i el seu impacte.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-himne-vida-meva-historia-gisele-pelicot-amb-corresponsal-paris-antonio-delgado/16944364/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/‘un-himne-a-la-vida-la-meva-historia’-de-gisele-pelicot-amb-el-corresponsal-a-paris-antonio-delgado/16944364/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 22:40:00 +0000</pubDate>
-      <itunes:duration>00:19:00</itunes:duration>
-    </item>
-    <item>
-      <title>Els gossos als avions i el retorn dels bisons a Espanya</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-els-gossos-als-avions-retorn-dels-bisons-espanya/16945569/</link>
-      <description>Amb Paula Calvo, la nostra antrozoòloga i etòloga de confiança, repassem les últimes notícies sobre l’actualitat animal. Per exemple, la falta de sensibilitat animal de les aerolínies o la tornada dels bisons a Espanya i dels llops a Catalunya.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-els-gossos-als-avions-retorn-dels-bisons-espanya/16945569/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/els-gossos-als-avions-i-el-retorn-dels-bisons-a-espanya/16945569/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 22:58:00 +0000</pubDate>
-      <itunes:duration>00:14:00</itunes:duration>
-    </item>
     <item>
       <title>Llits separats, dones solteres i amor als cossos</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-llits-separats-dones-solteres-amor-als-cossos/16945551/</link>
@@ -160,13 +124,85 @@
       <itunes:duration>00:36:00</itunes:duration>
     </item>
     <item>
-      <title>Nou accident ferroviari amb víctima mortal. En aquest cas, a Gelida.</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-nou-accident-ferroviari-amb-victima-mortal-aquest-cas-gelida/16904398/</link>
-      <description>Una víctima mortal i 5 ferits en estat crític, a banda d’una trentena més de ferits de diversa consideració. És el balanç de l'accident de tren que ha passat aquest dimarts entre Gelida i Sant Sadurní. Com a conseqüència d'aquest accident s’ha suspès la circulació de trens a tota la Línia de Rodalies, per motius de seguretat. Ho seguim tot en directe, fins la 1 de la matinada.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-nou-accident-ferroviari-amb-victima-mortal-aquest-cas-gelida/16904398/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/nou-accident-ferroviari-amb-victima-mortal-en-aquest-cas-a-gelida/16904398/" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Jan 2026 22:05:00 +0000</pubDate>
-      <itunes:duration>00:173:00</itunes:duration>
+      <title>4 anys de guerra a Ucraïna</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-4-anys-guerra-ucraina/16952448/</link>
+      <description>Es compleixen 4 anys de l'inici de la invasió russa a Ucraïna. No hi avenços significatius sobre el terreny ni tampoc pel que fa a les negociacons per un alto al foc. Analitzem tot plegat amb Ernest Pascual, politòleg expert en política internacional.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-4-anys-guerra-ucraina/16952448/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/4-anys-de-guerra-a-ucraina/16952448/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 22:40:00 +0000</pubDate>
+      <itunes:duration>00:17:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dimiteix la presidenta del Louvre</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dimiteix-presidenta-del-louvre/16952432/</link>
+      <description>La presidenta del Museu del Louvre de París, Laurence des Cars, ha presentat la seva dimissió al president de França, Emmanuel Macron, que, aquesta vegada sí, l'ha acceptada. La decisió arriba més de quatre mesos després que un grup de lladres van endur-se diverses joies del museu. Ens porta tots els detalls des de París el corresponsal de RNE, Antonio Delgado.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dimiteix-presidenta-del-louvre/16952432/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dimiteix-la-presidenta-del-louvre/16952432/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 22:50:00 +0000</pubDate>
+      <itunes:duration>00:03:00</itunes:duration>
+    </item>
+    <item>
+      <title>Habitatge a Catalunya, menys inversors i preus per sobre de la bombolla immobiliària</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-habitatge-catalunya-menys-inversors-preus-per-sobre-bombolla-immobiliaria/16952549/</link>
+      <description>Amb Pablo Feu, advocat especialitzat en habitatge, analitzem les últimes notícies relacionades amb el sector immobiliari arran de l’acord per limitar la compra especulativa d’habitatge. Dades recents apunten que els inversors s’estan retirant del mercat residencial a Catalunya, segons els notaris, així com el fet que el preu d’un pis a Barcelona ja ha superat els nivells registrats durant la bombolla immobiliària.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-habitatge-catalunya-menys-inversors-preus-per-sobre-bombolla-immobiliaria/16952549/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/habitatge-a-catalunya-menys-inversors-i-preus-per-sobre-de-la-bombolla-immobiliaria/16952549/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 23:15:00 +0000</pubDate>
+      <itunes:duration>00:25:00</itunes:duration>
+    </item>
+    <item>
+      <title>Només 4 de cada 10 joves es declaren feministes</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-nomes-4-cada-10-joves-declaren-feministes/16952465/</link>
+      <description>Segons el Baròmetre de Juventut i Gènere 2025, que ha enquestat joves d'entre 15 i 29 anys residents a Espanya, només un 38,4% dels enquestats es posicions dins del moviment feminista.  El percentatge de dones que es consideren feministes duplica el dels homes. En el cas d'ells, el 45,3% considera que el feminisme és una eina de manipulació política. Xifres que ens preocupen i que fan reflexionar molt. Nosaltres ho fem amb la psicòloga Elena Crespi, amb qui ens fem ressó d'altres notícies destacades del dia, com la demanda de Julio Iglesias a la vicepresidenta segona del Govern, Yolanda Díaz per injúries i calúmnies.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-nomes-4-cada-10-joves-declaren-feministes/16952465/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/nomes-4-de-cada-10-joves-es-declaren-feministes/16952465/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 23:30:00 +0000</pubDate>
+      <itunes:duration>00:23:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;Redimir y adoctrinar&amp;#39;, de Carmen Guillén</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-redimir-adoctrinar-carmen-guillen/16952217/</link>
+      <description>Un dels capítols més foscos de la història d'Espanya i del que se n'ha parlat ben poc: el Patronato de Protección a la Mujer, una institució franquista (que es va allargar fins ben entrada la democràcia, al 1985) encarregada de la repressió i l'adoctrinament moral de noies i dones que consideraven 'esgarriades'. Carmen Guillén posa llum sobre aquestes històriesen el seu llibre 'Redimir y adoctrinar: El Patronato de Protección a la Mujer (1941-1985)'.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-redimir-adoctrinar-carmen-guillen/16952217/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/redimir-y-adoctrinar-de-carmen-guillen/16952217/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:32:00</itunes:duration>
+    </item>
+    <item>
+      <title>‘Volar sin miedo’, de Perico Duran</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-volar-sin-miedo-perico-duran/16954956/</link>
+      <description>Per la por a volar hi ha qui deixa de viatjar, qui ajorna plans importants o qui vola, però amb una ansietat tan gran que no pot gaudir del trajecte. Perico Duran, comandant d'Airbus A320 a Ibèria, ha publicat Volar sin miedo,  un manual de superació que ajuda la gent a transformar l'angoixa de volar en una gran experiència de plaer i llibertat.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-volar-sin-miedo-perico-duran/16954956/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/‘volar-sin-miedo’-de-perico-duran/16954956/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Feb 2026 20:56:19 +0000</pubDate>
+      <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;Les cures que volem&amp;#39;. Rosa Martínez, secretària d&amp;#39;Estat de Drets Socials</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-les-cures-volem-rosa-martinez-secretaria-destat-drets-socials/16955021/</link>
+      <description>En marxa a Barcelona el Congrés ‘Les cures que volem’ sobre serveis socials, cures i comunitat. Un espai de trobada i reflexió que busca definir les passes que calen per modernitzar i consolidar un model d'atenció centrat en la persona. Aprofundim amb la qüestió amb Rosa Martínez, Secretària d'Estat de Drets Socials.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-les-cures-volem-rosa-martinez-secretaria-destat-drets-socials/16955021/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/les-cures-que-volem-rosa-martinez-secretaria-destat-de-drets-socials/16955021/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Feb 2026 22:40:00 +0000</pubDate>
+      <itunes:duration>00:24:00</itunes:duration>
+    </item>
+    <item>
+      <title>Orfeó Català i el Cor de Cambra del Palau de la Música a Los Angeles</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-orfeo-catala-cor-cambra-del-palau-musica-angeles/16955030/</link>
+      <description>El nostre especialista en música clàssica, Pep Gorgori, ens porta més detalls sobre els concerts que aquest cap de setmana han fet l’Orfeó Català i el Cor de Cambra del Palau de la Música a Los Angeles, on han viscut una experiència única i històrica: tres concerts al Walt Disney Concert Hall, interpretant la Missa solemnis de Beethoven sota la batuta de Gustavo Dudamel. Una obra monumental, plena de simbolisme i de reptes tècnics, que l’Orfeó ja va estrenar a Espanya fa gairebé cent anys i que ara ha tornat a brillar, aquesta vegada, en un altre escenari internacional de primer nivell.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-orfeo-catala-cor-cambra-del-palau-musica-angeles/16955030/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/orfeo-catala-i-el-cor-de-cambra-del-palau-de-la-musica-a-los-angeles/16955030/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Feb 2026 23:15:00 +0000</pubDate>
+      <itunes:duration>00:35:00</itunes:duration>
+    </item>
+    <item>
+      <title>Disc Català de l’any 2025</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-disc-catala-any-2025-amb-joan-arenyes/16954936/</link>
+      <description>Des del 9 de febrer fins a l’1 de març, Ràdio 4 ha obert les votacions del Disc Català de l’Any 2025. Un dels premis més emblemàtics de la música en català. Per això, amb Joan Arenyes, director i presentador del programa Catalunya Express, repassem els finalistes d’aquesta edició.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-disc-catala-any-2025-amb-joan-arenyes/16954936/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/disc-catala-de-l’any-2025/16954936/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Feb 2026 23:30:00 +0000</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
     </item>
     <item>
       <title>Jornada sense trens de Rodalies</title>
@@ -340,11 +376,20 @@
       <itunes:duration>00:116:00</itunes:duration>
     </item>
     <item>
+      <title>Mor Antonio Tejero, la importància de les cures, i el Disc Català de l&amp;#39;Any</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-mor-antonio-tejero-importancia-les-cures-disc-catala-lany/16955035/</link>
+      <description>Dia marcat per la desclassificació dels documents relacionats amb el 23-F i per la mort d’Antonio Tejero, el militar protagonista de l’intent de cop d’Estat. Ens fem ressó d’altres notícies, com per exemple el Congrés que hi ha en marxa a Barcelona ‘Les cures que volem’ sobre serveis socials, cures i comunitat. Un espai de trobada i reflexió que busca definir les passes que calen per modernitzar i consolidar un model d'atenció centrat en la persona. En parlem amb Rosa Martínez, Secretària d'Estat de Drets Socials.Moment per a la música clàssica, amb Pep Gorgori. I de música clàssica a la més actual: amb els finalistes del Disc Català de l’Any, que podeu votar fins diumenge al web de Ràdio 4. Descobrim la llista amb Joan Arenyes, membre del jurat. Tancarem el programa amb Perico Durán, pilot que acaba de publicar ‘Volar sin miedo’.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-mor-antonio-tejero-importancia-les-cures-disc-catala-lany/16955035/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/mor-antonio-tejero-la-importancia-de-les-cures-i-el-disc-catala-de-lany/16955035/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Feb 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:116:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Wed, 25 Feb 2026 06:25:37 +0000</pubDate>
+      <pubDate>Thu, 26 Feb 2026 06:22:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
