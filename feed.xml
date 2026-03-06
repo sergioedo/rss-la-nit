@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:15:31 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,24 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>Disc Català de l’any 2025</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-disc-catala-any-2025-amb-joan-arenyes/16954936/</link>
-      <description>Des del 9 de febrer fins a l’1 de març, Ràdio 4 ha obert les votacions del Disc Català de l’Any 2025. Un dels premis més emblemàtics de la música en català. Per això, amb Joan Arenyes, director i presentador del programa Catalunya Express, repassem els finalistes d’aquesta edició.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-disc-catala-any-2025-amb-joan-arenyes/16954936/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/disc-catala-de-l’any-2025/16954936/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Feb 2026 23:30:00 +0000</pubDate>
-      <itunes:duration>00:10:00</itunes:duration>
-    </item>
-    <item>
-      <title>Torna a caure el decret de l&amp;#39;escut social</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-torna-caure-decret-lescut-social/16956734/</link>
-      <description>Cau el decret de l'escut social per la negativa de PP, Vox i Junts. Entre les mesures hi havia la pròrroga, fins a finals d'any, dels desnonaments a famílies vulnerables o ajuts per pagar els subministraments a aquells més desfavorits. Una situació que deixa famílies en perill. En parlem amb Sonia Lacalle, responsable de l'Assessoria Jurídica Social de Càritas Barcelona, tot just l'endemà de publicar-se l'informe FOESSA 2025.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-torna-caure-decret-lescut-social/16956734/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/torna-a-caure-el-decret-de-lescut-social/16956734/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Feb 2026 22:40:00 +0000</pubDate>
-      <itunes:duration>00:19:00</itunes:duration>
-    </item>
     <item>
       <title>El fàrmac ‘Sumial’ i el perill d&amp;#39;automedicar-se</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-farmac-sumial-perill-dautomedicar-se/16956856/</link>
@@ -160,6 +142,60 @@
       <itunes:duration>00:25:00</itunes:duration>
     </item>
     <item>
+      <title>Dia Mundial de l&amp;#39;Obesitat</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-lobesitat-infantil/16965624/</link>
+      <description>És el Dia Mundial de l'Obesitat, una jornada en què l’objectiu és conscienciar la població sobre els efectes perjudicials que el sobrepès i l’obesitat tenen en la salut, així com difondre recomanacions per prevenir-los. Des del programa posem el focus en l'obesitat infantil que ha augmentat d'un 8% en les últimes dues dècades, amb el doctor Eduard Mogas, responsable de la Unitat de Tractament de l'Obesitat Infantil de l’Hospital Vall d’Hebron.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-lobesitat-infantil/16965624/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dia-mundial-de-lobesitat/16965624/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 22:40:00 +0000</pubDate>
+      <itunes:duration>00:17:00</itunes:duration>
+    </item>
+    <item>
+      <title>L&amp;#39;Associació MIR ha demanat una auditoria de l’examen del 2026</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-lassociacio-mir-demanat-auditoria-examen-del-2026/16965494/</link>
+      <description>L’Associació MIR Espanya ha demanat al Ministeri de Sanitat una auditoria per investigar el que considera una falta de mesures de seguretat durant l'examen del 2026. Segons queixes d’aspirants, va ser un 'caos complet', ja que faltaven vocals, no hi havia inhibidors de freqüència i es van poder utilitzar mòbils i internet. Inclús s'hauria constatat algun cas d'ús d'ulleres d'intel·ligència artificial. Aprofundim en la qüestió amb Héctor Requena, representant de l'Associació MIR a Catalunya.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-lassociacio-mir-demanat-auditoria-examen-del-2026/16965494/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/lassociacio-mir-ha-demanat-una-auditoria-de-l’examen-del-2026/16965494/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 22:55:00 +0000</pubDate>
+      <itunes:duration>00:21:00</itunes:duration>
+    </item>
+    <item>
+      <title>Les entitats socials reclamen una resposta urgent i coordinada per lluitar contra el sensellarisme</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-les-entitats-socials-reclamen-resposta-urgent-coordinada-per-lluitar-contra-sensellarisme/16965621/</link>
+      <description>Un home sense sostre ha mort, en les darreres hores, a Badalona. És la tercera persona sense llar que perd la vida al carrer des de principis d’any. Justament aquest dimarts, les entitats socials han reclamat una resposta urgent i coordinada, que s'aprovi la proposició de llei contra el sensellarisme, i que s'inverteixin, aquest any, 100 milions d'euros per poder donar resposta a aquesta emergència social. L'objectiu hauria de ser, diuen, arribar als 400 milions en quatre anys. Ho analitzem tot plegat amb Bea Fernández, directora de la Fundació Arrels i membre de la Junta directiva d’ECAS (Entitats Catalanes d’Acció Social).</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-les-entitats-socials-reclamen-resposta-urgent-coordinada-per-lluitar-contra-sensellarisme/16965621/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/les-entitats-socials-reclamen-una-resposta-urgent-i-coordinada-per-lluitar-contra-el-sensellarisme/16965621/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 23:15:00 +0000</pubDate>
+      <itunes:duration>00:17:00</itunes:duration>
+    </item>
+    <item>
+      <title>L’actualitat del món animal, amb Paula Calvo</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-actualitat-del-mon-animal-amb-paula-calvo/16965565/</link>
+      <description>Amb Paula Calvo, la nostra antrozoòloga i etòloga de confiança, conversem sobre les últimes notícies del món animal.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-actualitat-del-mon-animal-amb-paula-calvo/16965565/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/l’actualitat-del-mon-animal-amb-paula-calvo/16965565/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 23:25:00 +0000</pubDate>
+      <itunes:duration>00:22:00</itunes:duration>
+    </item>
+    <item>
+      <title>&amp;#39;El Boiximà&amp;#39;, de Francesc Miralles</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-boixima-francesc-miralles/16965627/</link>
+      <description>Descobrim la darrera obra de Francesc Miralles: 'El Boiximà'.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-boixima-francesc-miralles/16965627/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-boixima-de-francesc-miralles/16965627/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:21:00</itunes:duration>
+    </item>
+    <item>
+      <title>Conversem amb Gisèle Pelicot</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-himne-vida-les-memories-gisele-pelicot/16967454/</link>
+      <description>Al 'De Nit' hem tingut l’honor de conversar amb Gisèle Pelicot, autora d'Un himne a la vida. Durant anys, el seu marit la va drogar i, juntament amb una cinquantena d’homes, van agredir sexualment d'ella. Malgrat la duresa d’aquesta història, Pelicot s’ha convertit en un símbol de valentia i dignitat. Amb la seva decisió de fer públic el cas i d’alçar la veu, ha contribuït a obrir un debat profund sobre la violència sexual, el consentiment i la responsabilitat col·lectiva davant d’aquests crims. En aquesta conversa ens ha compartit el seu testimoni i ha reflexionat sobre el camí que ha recorregut: des del moment en què va descobrir la veritat fins a la seva lluita perquè històries com la seva no quedin en silenci. Una dona que ha decidit transformar el dolor en coratge i en una crida a la consciència social.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-himne-vida-les-memories-gisele-pelicot/16967454/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/conversem-amb-gisele-pelicot/16967454/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 21:33:09 +0000</pubDate>
+      <itunes:duration>00:13:00</itunes:duration>
+    </item>
+    <item>
       <title>La crisi de Rodalies al Parlament, tallada l&amp;#39;AP-7 en sentit sud i el BCN Film Fest</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-crisi-rodalies-parlament-tallada-lap-7-sentit-sud-bcn-film-fest/16915515/</link>
       <description>La crisi de Rodalies ha marcat el ple d'aquest dimecres al Parlament. El conseller Albert Dalmau, en funcions de president per la baixa de Salvador Illa, ha proposat al Parlament un pacte de país per impulsar la refundació del sistema de Rodalies. Ha defensat l'actuació del govern, davant les peticions de dimissió de la consellera Paneque. Ho ha seguit tot plegat la Lorena Hens, companya dels Serveis Informatius de Ràdio 4. Aquesta tarda, el Servei Català de Trànsit ha decidit tornar a tallar l'AP-7 en sentit sud, entre Martorell i passat Gelida. Expliquem els detalls de per què s'ha pres aquesta decisió i fins quan durarà el tall. Hem estat també a la concentració que s'ha fet aquesta tarda, davant el passatge on hi ha la seu de Junts a Barcelona, després del vot en contra de la formació al Congrés dels Diputats  del decret que incloïa la moratòria de desnonaments de persones vulnerables. Amb el psicòleg Javier Elcarte, habitual col·laborador d'aquest programa, hem volgut saber com afecta psicològicament totes les famílies vulnerables que ara es poden trobar a les portes de poder perdre la llar. Una jornada en la que hem sabut els detalls de la desena edició del BCN Film Fest, dirigit per la nostra companya Conxita Casanovas, que ens explica tots els detalls. Amb Xavi Martinez escalfem motors pel Concert-Manifest per Palestina que es fa dijous al Palau Sant Jordi i que podreu seguir en directe a Ràdio 4. Acabarem el programa amb Miguel Pita, autor de 'El cerebro enamorado: Viaje biológico del sexo al divorcio'.</description>
@@ -261,7 +297,7 @@
     <item>
       <title>Desacord amb la proposta d&amp;#39;Educació per als docents, l’obra de Gisèle Pelicot i el Dia Mundial de l&amp;#39;Asperger</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-desacord-amb-proposta-deducacio-per-als-docents-obra-gisele-pelicot-dia-mundial-lasperger/16945654/</link>
-      <description>Els sindicats d’ensenyament han expressat el seu desacord amb la proposta d’increment del 15% plantejada pel Departament d’Educació, ja que consideren que l’impacte real a la nòmina és clarament insuficient. Tot i valorar el gest com un possible punt de partida, insisteixen que cal una revisió més ambiciosa, vinculada a l’IPC, i reclamen millores estructurals en recursos i condicions laborals. En aquesta línia, la portaveu d’USTEC-STES, Iolanda Segura, argumenta els motius del desacord i detalla com afecta la mesura al professorat.Paral·lelament, des de París, amb el corresponsal de RNE Antonio Delgado, analitzem l’acollida de l’obra Un himne a la vida. La meva història de Gisèle Pelicot, així com la repercussió social que ha generat el seu testimoni.En l’àmbit de l’actualitat animal, Paula Calvo posa sobre la taula qüestions com la manca de sensibilitat d’algunes companyies aèries envers els animals de companyia i comenta també el retorn dels bisons a Espanya i dels llops a Catalunya, tot reflexionant sobre els reptes de convivència i protecció.Amb Elena Crespi obrim un espai de debat sobre noves formes de relació i autoestima: l’augment de dones que opten per la solteria, les parelles que decideixen dormir en llits separats per reforçar el vincle i l’impacte del body shaming en la salut emocional. Tanquem el programa conmemorant el Dia Mundial de la Síndrome d’Asperger, Pilar Pérez, presidenta de l’Associació Espectre Autista - Asperger de Catalunya, comparteix la seva experiència i reivindica més visibilitat i recursos per al col·lectiu.</description>
+      <description>Els sindicats d’ensenyament han expressat el seu desacord amb la proposta d’increment del 15% plantejada pel Departament d’Educació, ja que consideren que l’impacte real a la nòmina és clarament insuficient. Tot i valorar el gest com un possible punt de partida, insisteixen que cal una revisió més ambiciosa, vinculada a l’IPC, i reclamen millores estructurals en recursos i condicions laborals. En aquesta línia, la portaveu d’USTEC-STES, Iolanda Segura, argumenta els motius del desacord i detalla com afecta la mesura al professorat.Paral·lelament, des de París, amb el corresponsal de RNE Antonio Delgado, analitzem l’acollida de l’obra Un himne a la vida. La meva història de Gisèle Pelicot, així com la repercussió social que ha generat el seu testimoni.En l’àmbit de l’actualitat animal, Paula Calvo posa sobre la taula qüestions com la manca de sensibilitat d’algunes companyies aèries envers els animals de companyia i comenta també el retorn dels bisons a Espanya i dels llops a Catalunya, tot reflexionant sobre els reptes de convivència i protecció.Amb Elena Crespi obrim un espai de debat sobre noves formes de relació i autoestima: l’augment de dones que opten per la solteria, les parelles que decideixen dormir en llits separats per reforçar el vincle i l’impacte del body shaming en la salut emocional. Tanquem el programa conmemorant el Dia Mundial de la Síndrome d’Asperger, Pilar Pérez, presidenta de l’Associaci�� Espectre Autista - Asperger de Catalunya, comparteix la seva experiència i reivindica més visibilitat i recursos per al col·lectiu.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-desacord-amb-proposta-deducacio-per-als-docents-obra-gisele-pelicot-dia-mundial-lasperger/16945654/</guid>
       <enclosure url="https://www.rtve.es/play/audios/de-nit/desacord-amb-la-proposta-deducacio-per-als-docents-l’obra-de-gisele-pelicot-i-el-dia-mundial-de-lasperger/16945654/" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 18 Feb 2026 22:05:00 +0000</pubDate>
@@ -331,11 +367,20 @@
       <itunes:duration>00:111:00</itunes:duration>
     </item>
     <item>
+      <title>Dia Mundial de la Obesitat, i un altre persona sense sostre morta a Catalunya</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-obesitat-altre-persona-sense-sostre-morta-catalunya/16965649/</link>
+      <description>El 4 de març és el Dia Mundial de la Obesitat, una jornada que vol conscienciar la població dels efectes perjudicials que el sobrepès i l'obesitat produeixen en la salut. Al De Nit ens fixem en l'obesitat infantil, ja que molts menors també la pateixen. A l'hospital de la Vall d'Hebron de Barcelona fa dos anys que existeix la Unitat de Tractament de l'Obesitat Infantil i fan seguiment ja de més de 380 infants i adolescents. En parlem amb profunditat amb el doctor Eduard Mogas, responsable de la Unitat.Sense deixar de banda l'àmbit mèdic, us expliquem que l'Associació MIR Espanya ha demanat una auditoria de l'examen del 2026 per investigar possibles mancances de seguretat durant les proves. Ens en dona tots els detalls Héctor Requena, responsable de l'Associació Mir Espanya a Catalunya. Un dimecres en què hem sabut que un home sense sostre ha mort a Badalona. Les entitats socials han reclamat una resposta urgent i coordinada, que s'aprovi la proposició de llei contra el sensellarisme, i que s'inverteixin, aquest any, 100 milions d'euros per poder donar resposta a aquesta emergència social. Ho analitzem tot plegat amb Bea Fernández, directora de la Fundació Arrels i membre de la Junta directiva d’ECAS (Entitats Catalanes d’Acció Social).Ens ha visitat Paula Calvo, per analitzar totes les notícies que tenen a veure amb el món animal.I tancarem el programa amb Francesc Miralles, que acaba de publicar 'El Boiximà'.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dia-mundial-obesitat-altre-persona-sense-sostre-morta-catalunya/16965649/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/dia-mundial-de-la-obesitat-i-un-altre-persona-sense-sostre-morta-a-catalunya/16965649/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:116:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Thu, 05 Mar 2026 06:16:59 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 06:15:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
