@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 06 Mar 2026 06:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 06:10:20 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,24 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>El fàrmac ‘Sumial’ i el perill d&amp;#39;automedicar-se</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-farmac-sumial-perill-dautomedicar-se/16956856/</link>
-      <description>Per fer font als símptomes de l’ansietat, en els darrers mesos ha augmentat l’interès pel Sumial. Es tracta d’un fàrmac beta bloquejant utilitzat principalment per tractar la hipertensió, arrítmies i altres patologies cardiovasculars. Més enllà de l’ús mèdic habitual, aquest tipus de medicament es fa servir cada vegada més per controlar símptomes físics d’ansietat anticipatòria. No obstant això, els professionals insisteixen que el seu ús ha d’estar indicat i supervisat mèdicament, ja que si no anem amb compte, podem patir efectes secundaris perjudicials per a la salut. Amèlia Garcia-Miranda, vocal del Col·legi de Farmacèutics de Barcelona (COFB), ens ho explica amb més detall.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-farmac-sumial-perill-dautomedicar-se/16956856/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-farmac-‘sumial’-i-el-perill-dautomedicar-se/16956856/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Feb 2026 22:50:00 +0000</pubDate>
-      <itunes:duration>00:11:00</itunes:duration>
-    </item>
-    <item>
-      <title>40ª edició dels Goya</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-40a-edicio-dels-goya/16956714/</link>
-      <description>Queden pocs dies per a que Barcelona aculli la 40ena edició dels Premis Goya. Amb Conxita Casanovas repassem les pel·lícules nominades. </description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-40a-edicio-dels-goya/16956714/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/40-edicio-dels-goya/16956714/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Feb 2026 23:10:00 +0000</pubDate>
-      <itunes:duration>00:25:00</itunes:duration>
-    </item>
     <item>
       <title>La importància de l&amp;#39;autoescriptura, amb Teresa Reyes</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-importancia-lautoescriptura-amb-teresa-reyes/16956727/</link>
@@ -196,13 +178,31 @@
       <itunes:duration>00:13:00</itunes:duration>
     </item>
     <item>
-      <title>La crisi de Rodalies al Parlament, tallada l&amp;#39;AP-7 en sentit sud i el BCN Film Fest</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-crisi-rodalies-parlament-tallada-lap-7-sentit-sud-bcn-film-fest/16915515/</link>
-      <description>La crisi de Rodalies ha marcat el ple d'aquest dimecres al Parlament. El conseller Albert Dalmau, en funcions de president per la baixa de Salvador Illa, ha proposat al Parlament un pacte de país per impulsar la refundació del sistema de Rodalies. Ha defensat l'actuació del govern, davant les peticions de dimissió de la consellera Paneque. Ho ha seguit tot plegat la Lorena Hens, companya dels Serveis Informatius de Ràdio 4. Aquesta tarda, el Servei Català de Trànsit ha decidit tornar a tallar l'AP-7 en sentit sud, entre Martorell i passat Gelida. Expliquem els detalls de per què s'ha pres aquesta decisió i fins quan durarà el tall. Hem estat també a la concentració que s'ha fet aquesta tarda, davant el passatge on hi ha la seu de Junts a Barcelona, després del vot en contra de la formació al Congrés dels Diputats  del decret que incloïa la moratòria de desnonaments de persones vulnerables. Amb el psicòleg Javier Elcarte, habitual col·laborador d'aquest programa, hem volgut saber com afecta psicològicament totes les famílies vulnerables que ara es poden trobar a les portes de poder perdre la llar. Una jornada en la que hem sabut els detalls de la desena edició del BCN Film Fest, dirigit per la nostra companya Conxita Casanovas, que ens explica tots els detalls. Amb Xavi Martinez escalfem motors pel Concert-Manifest per Palestina que es fa dijous al Palau Sant Jordi i que podreu seguir en directe a Ràdio 4. Acabarem el programa amb Miguel Pita, autor de 'El cerebro enamorado: Viaje biológico del sexo al divorcio'.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-crisi-rodalies-parlament-tallada-lap-7-sentit-sud-bcn-film-fest/16915515/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-crisi-de-rodalies-al-parlament-tallada-lap-7-en-sentit-sud-i-el-bcn-film-fest/16915515/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Jan 2026 22:05:00 +0000</pubDate>
-      <itunes:duration>00:114:00</itunes:duration>
+      <title>La guerra a l&amp;#39;Iran, amb el Dr. Mariano Aguirre</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-guerra-liran-amb-dr-mariano-aguirre/16968250/</link>
+      <description>Amb el Dr. Mariano Aguirre, Investigador no resident del CIDOB i assessor del Centre de Seguretat Nacional de la fundació alemanya Friedrich Ebert, analitzem en profunditat el panorama internacional, posant el focus en la situació de guerra a l’Iran.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-guerra-liran-amb-dr-mariano-aguirre/16968250/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-guerra-a-liran-amb-el-dr-mariano-aguirre/16968250/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 22:45:00 +0000</pubDate>
+      <itunes:duration>00:32:00</itunes:duration>
+    </item>
+    <item>
+      <title>Estrenes cinematogràfiques amb Conxita Casanovas</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16968260/</link>
+      <description>Amb Conxita Casanovas parlem de cinema i de les pròximes estrenes que ens esperen a la gran pantalla.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16968260/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/estrenes-cinematografiques-amb-conxita-casanovas/16968260/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>00:16:00</itunes:duration>
+    </item>
+    <item>
+      <title>El càncer de mama en dones joves creix un 29% en tres dècades</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-cancer-mama-dones-joves-creix-29-tres-decades/16967304/</link>
+      <description>En les últimes tres dècades, els diagnòstics de càncer de mama en dones joves han augmentat un 29% a nivell mundial, segons un estudi publicat a la revista The Lancet Oncology. Tot i que la majoria de casos continuen concentrant-se en dones majors de 55 anys, la incidència en la franja d’edat entre 20 i 54 anys està creixent més ràpidament. Ens ho explica la Dra. Isabel Echavarria, Secretària científica de la Societat Espanyola d’Oncologia Mèdica (SEOM).</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cancer-mama-dones-joves-creix-29-tres-decades/16967304/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-cancer-de-mama-en-dones-joves-creix-un-29%-en-tres-decades/16967304/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 23:45:00 +0000</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
     </item>
     <item>
       <title>Pas de Rafah, l&amp;#39;ICE, i el primer trasplantament de cara del món amb una donant que va rebre l&amp;#39;eutanàsia</title>
@@ -297,7 +297,7 @@
     <item>
       <title>Desacord amb la proposta d&amp;#39;Educació per als docents, l’obra de Gisèle Pelicot i el Dia Mundial de l&amp;#39;Asperger</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-desacord-amb-proposta-deducacio-per-als-docents-obra-gisele-pelicot-dia-mundial-lasperger/16945654/</link>
-      <description>Els sindicats d’ensenyament han expressat el seu desacord amb la proposta d’increment del 15% plantejada pel Departament d’Educació, ja que consideren que l’impacte real a la nòmina és clarament insuficient. Tot i valorar el gest com un possible punt de partida, insisteixen que cal una revisió més ambiciosa, vinculada a l’IPC, i reclamen millores estructurals en recursos i condicions laborals. En aquesta línia, la portaveu d’USTEC-STES, Iolanda Segura, argumenta els motius del desacord i detalla com afecta la mesura al professorat.Paral·lelament, des de París, amb el corresponsal de RNE Antonio Delgado, analitzem l’acollida de l’obra Un himne a la vida. La meva història de Gisèle Pelicot, així com la repercussió social que ha generat el seu testimoni.En l’àmbit de l’actualitat animal, Paula Calvo posa sobre la taula qüestions com la manca de sensibilitat d’algunes companyies aèries envers els animals de companyia i comenta també el retorn dels bisons a Espanya i dels llops a Catalunya, tot reflexionant sobre els reptes de convivència i protecció.Amb Elena Crespi obrim un espai de debat sobre noves formes de relació i autoestima: l’augment de dones que opten per la solteria, les parelles que decideixen dormir en llits separats per reforçar el vincle i l’impacte del body shaming en la salut emocional. Tanquem el programa conmemorant el Dia Mundial de la Síndrome d’Asperger, Pilar Pérez, presidenta de l’Associaci�� Espectre Autista - Asperger de Catalunya, comparteix la seva experiència i reivindica més visibilitat i recursos per al col·lectiu.</description>
+      <description>Els sindicats d’ensenyament han expressat el seu desacord amb la proposta d’increment del 15% plantejada pel Departament d’Educació, ja que consideren que l’impacte real a la nòmina és clarament insuficient. Tot i valorar el gest com un possible punt de partida, insisteixen que cal una revisió més ambiciosa, vinculada a l’IPC, i reclamen millores estructurals en recursos i condicions laborals. En aquesta línia, la portaveu d’USTEC-STES, Iolanda Segura, argumenta els motius del desacord i detalla com afecta la mesura al professorat.Paral·lelament, des de París, amb el corresponsal de RNE Antonio Delgado, analitzem l’acollida de l’obra Un himne a la vida. La meva història de Gisèle Pelicot, així com la repercussió social que ha generat el seu testimoni.En l’àmbit de l’actualitat animal, Paula Calvo posa sobre la taula qüestions com la manca de sensibilitat d’algunes companyies aèries envers els animals de companyia i comenta també el retorn dels bisons a Espanya i dels llops a Catalunya, tot reflexionant sobre els reptes de convivència i protecció.Amb Elena Crespi obrim un espai de debat sobre noves formes de relació i autoestima: l’augment de dones que opten per la solteria, les parelles que decideixen dormir en llits separats per reforçar el vincle i l’impacte del body shaming en la salut emocional. Tanquem el programa conmemorant el Dia Mundial de la Síndrome d’Asperger, Pilar Pérez, presidenta de l’Associació Espectre Autista - Asperger de Catalunya, comparteix la seva experiència i reivindica més visibilitat i recursos per al col·lectiu.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-desacord-amb-proposta-deducacio-per-als-docents-obra-gisele-pelicot-dia-mundial-lasperger/16945654/</guid>
       <enclosure url="https://www.rtve.es/play/audios/de-nit/desacord-amb-la-proposta-deducacio-per-als-docents-l’obra-de-gisele-pelicot-i-el-dia-mundial-de-lasperger/16945654/" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 18 Feb 2026 22:05:00 +0000</pubDate>
@@ -376,11 +376,20 @@
       <itunes:duration>00:116:00</itunes:duration>
     </item>
     <item>
+      <title>Conversem amb Gisèle Pelicot, la guerra a l&amp;#39;Iran i el càncer en dones joves</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-conversem-amb-gisele-pelicot-guerra-liran-cancer-dones-joves/16969258/</link>
+      <description>Al DE NIT hem tingut l'honor de conversar amb Gisèle Pelicot, autora d’Un himne a la vida. Durant anys va ser víctima d’abusos sexuals després que el seu marit la drogués i permetés que altres homes l’agredissin. En fer públic el seu cas, Pelicot s’ha convertit en un símbol de valentia i ha obert un debat sobre la violència sexual i el consentiment.D’altra banda, parlem de salut i és que en les últimes tres dècades els diagnòstics de càncer de mama en dones joves han augmentat un 29% a escala mundial. Ens ho explica la Dra. Isabel Echavarria, secretària científica de la Societat Espanyola d’Oncologia Mèdica (SEOM).A continuació, amb el Dr. Mariano Aguirre, Investigador no resident del CIDOB i assessor del Centre de Seguretat Nacional de la fundació alemanya Friedrich Ebert, analitzem el panorama internacional, amb especial atenció a la situació de guerra a l’Iran.També, Conxita Casanovas ens parla de les pròximes estrenes de cinema.Tanquem el programa recuperant els moments més destacats de la conversa amb Gisèle Pelicot.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-conversem-amb-gisele-pelicot-guerra-liran-cancer-dones-joves/16969258/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/conversem-amb-gisele-pelicot-la-guerra-a-liran-i-el-cancer-en-dones-joves/16969258/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:113:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Fri, 06 Mar 2026 06:15:31 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 06:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
