@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:18:02 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,42 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>L’actualitat del món animal, amb Paula Calvo</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-actualitat-del-mon-animal-amb-paula-calvo/16965565/</link>
-      <description>Amb Paula Calvo, la nostra antrozoòloga i etòloga de confiança, conversem sobre les últimes notícies del món animal.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-actualitat-del-mon-animal-amb-paula-calvo/16965565/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/l’actualitat-del-mon-animal-amb-paula-calvo/16965565/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Mar 2026 23:25:00 +0000</pubDate>
-      <itunes:duration>00:22:00</itunes:duration>
-    </item>
-    <item>
-      <title>&amp;#39;El Boiximà&amp;#39;, de Francesc Miralles</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-boixima-francesc-miralles/16965627/</link>
-      <description>Descobrim la darrera obra de Francesc Miralles: 'El Boiximà'.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-boixima-francesc-miralles/16965627/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-boixima-de-francesc-miralles/16965627/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Mar 2026 23:59:00 +0000</pubDate>
-      <itunes:duration>00:21:00</itunes:duration>
-    </item>
-    <item>
-      <title>Conversem amb Gisèle Pelicot</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-himne-vida-les-memories-gisele-pelicot/16967454/</link>
-      <description>Al 'De Nit' hem tingut l’honor de conversar amb Gisèle Pelicot, autora d'Un himne a la vida. Durant anys, el seu marit la va drogar i, juntament amb una cinquantena d’homes, van agredir sexualment d'ella. Malgrat la duresa d’aquesta història, Pelicot s’ha convertit en un símbol de valentia i dignitat. Amb la seva decisió de fer públic el cas i d’alçar la veu, ha contribuït a obrir un debat profund sobre la violència sexual, el consentiment i la responsabilitat col·lectiva davant d’aquests crims. En aquesta conversa ens ha compartit el seu testimoni i ha reflexionat sobre el camí que ha recorregut: des del moment en què va descobrir la veritat fins a la seva lluita perquè històries com la seva no quedin en silenci. Una dona que ha decidit transformar el dolor en coratge i en una crida a la consciència social.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-himne-vida-les-memories-gisele-pelicot/16967454/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/conversem-amb-gisele-pelicot/16967454/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 21:33:09 +0000</pubDate>
-      <itunes:duration>00:13:00</itunes:duration>
-    </item>
-    <item>
-      <title>La guerra a l&amp;#39;Iran, amb el Dr. Mariano Aguirre</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-guerra-liran-amb-dr-mariano-aguirre/16968250/</link>
-      <description>Amb el Dr. Mariano Aguirre, Investigador no resident del CIDOB i assessor del Centre de Seguretat Nacional de la fundació alemanya Friedrich Ebert, analitzem en profunditat el panorama internacional, posant el focus en la situació de guerra a l’Iran.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-guerra-liran-amb-dr-mariano-aguirre/16968250/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-guerra-a-liran-amb-el-dr-mariano-aguirre/16968250/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 22:45:00 +0000</pubDate>
-      <itunes:duration>00:32:00</itunes:duration>
-    </item>
     <item>
       <title>Estrenes cinematogràfiques amb Conxita Casanovas</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16968260/</link>
@@ -196,22 +160,22 @@
       <itunes:duration>00:24:00</itunes:duration>
     </item>
     <item>
-      <title>Consellera Martínez Bravo, Dia Mundial contra el Càncer i Francesc Torralba</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-consellera-martinez-bravo-dia-mundial-contra-cancer-francesc-torralba/16925351/</link>
-      <description>Els Governs espanyol i català volen impulsar una aliança de país, per tal d’acompanyar les persones migrades en el procés de regularització, i demanen la implicació d’entitats, agents socials i món local. En aquest sentit, proposen la creació d’un Grup de Treball tècnic, per coordinar totes les actuacions . En coneixem tots els detalls amb Mònica Martínez Bravo, consellera de Drets Socials.Avui, 4 de febrer, és el Dia Mundial contra el Càncer. La previsió és que aquest any els casos de càncer augmentin d’un 2% a l’estat espanyol i se superin per primera vegada els 300.000 nous casos. Analitzem tot plegat amb la doctora Isabel Echavarría, secretària científica de la Societat Espanyola d’Oncologia Mèdica.Aquesta nit rebem també la nostra companya Agnès Batlle, autora del llibre ‘Arrels rebels’, on explica la historia de 10 'adolescents que planten cara a l’abandonament del camp'. Amb Paula Calvo tractem un tema preocupant: la crisi de salut mental que hi ha entre els professionals veterinaris. Convidem a la conversa Manel López Béjar, degà de la Facultat de Veterinària de la UAB, ara que s’ha consolidat el Programa de Benestar Emocional per a l’alumnat de veterinària de la Universitat Autònoma de Barcelona. Tancarem el programa amb Francesc Torralba, que acaba de publicar 'Anatomia de l'esperança', novel·la guanyadora del darrer premi Josep Pla 2026.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-consellera-martinez-bravo-dia-mundial-contra-cancer-francesc-torralba/16925351/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/consellera-martinez-bravo-dia-mundial-contra-el-cancer-i-francesc-torralba/16925351/" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Feb 2026 22:05:00 +0000</pubDate>
-      <itunes:duration>00:114:00</itunes:duration>
+      <title>‘Esclavos en la Europa del siglo XX (1914 - 1945)’, de Michael Seidman</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-esclavos-europa-del-siglo-xx-1914-1945-michael-seidman/16976507/</link>
+      <description>Conversem amb l'historiador Michael Seidman. Autor del llibre Esclavos en la Europa del siglo XX (1914 - 1945). Una obra que és fruit d’una llarga investigació de Seidman i on explica com les grans potències europees van reinstaurar l'esclavitud en ple segle XX.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-esclavos-europa-del-siglo-xx-1914-1945-michael-seidman/16976507/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/‘esclavos-en-la-europa-del-siglo-xx-1914-1945’-de-michael-seidman/16976507/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Mar 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:32:00</itunes:duration>
     </item>
     <item>
-      <title>Augmenta el risc de pobresa o exclusió social a Catalunya, cinema i Rosa Navarro Durán</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-augmenta-risc-pobresa-exclusio-social-catalunya-cinema-rosa-navarro-duran/16925838/</link>
-      <description>El risc de pobresa o exclusió social afecta gairebé una quarta part de la població catalana: un 24,8% al 2025, vuit dècimes més que l'any anterior. En parlem amb Xavier Trabado, president de la Taula del Tercer Sector.Aquest dijous ens ha visitat la Teresa Reyes. Amb la nostra companya Conxita Casanovas repassem les estrenes cinematogràfiques d'aquesta setmana. El profesor Dani Agudo ens porta un repàs per la trajectòria de Nick Nolte, que fa 85 anys el 8 de febrer.  I tanquem el programa amb Rosa Navarro Durán, catedràtica i filòloga, que ens ofereix 20 lliçons i reflexions d'obres clàssiques de la literatura en el seu darrer llibre: ‘El festín de la palabra’.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-augmenta-risc-pobresa-exclusio-social-catalunya-cinema-rosa-navarro-duran/16925838/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/augmenta-el-risc-de-pobresa-o-exclusio-social-a-catalunya-cinema-i-rosa-navarro-duran/16925838/" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>00:112:00</itunes:duration>
+      <title>Khamenei manté el tancament de l&amp;#39;estret d&amp;#39;Ormuz i desafia els EEUU</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-khamenei-mante-tancament-lestret-dormuz-desafia-els-eeuu/16978404/</link>
+      <description>El nou líder suprem de l'Iran, Mojtaba Khamenei, ha parlat per primera vegada aquest dijous al poble iranià. Ha assegurat que l'estret d'Ormuz continuarà tancat i ha pronunciat noves amenaces als Estats Units. Quina ha estat la reacció del país nord americà? Ens ho explica Gustau Alegret, des de Washington.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-khamenei-mante-tancament-lestret-dormuz-desafia-els-eeuu/16978404/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/khamenei-mante-el-tancament-de-lestret-dormuz-i-desafia-els-eeuu/16978404/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Mar 2026 22:31:00 +0000</pubDate>
+      <itunes:duration>00:14:00</itunes:duration>
     </item>
     <item>
       <title>Desconvocada la vaga de maquinistes, primera multa per &amp;#39;racisme immobiliari&amp;#39; i el &amp;#39;Diccionario de tristezas sin nombre&amp;#39; de John Koenig</title>
@@ -376,11 +340,29 @@
       <itunes:duration>00:112:00</itunes:duration>
     </item>
     <item>
+      <title>La llei ELA a Catalunya, infants davant la sobreexposició a les pantalles i ‘Esclavos en la Europa del siglo XX’</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-llei-ela-catalunya-infants-davant-sobreexposicio-les-pantalles-esclavos-europa-del-siglo-xx/16977952/</link>
+      <description>Comencem el programa explicant que el Govern aprovarà dimarts vinent el decret que desplegarà la Llei ELA a Catalunya, fet que ha anunciat el president Salvador Illa al Parlament. D’aquesta manera, el país es convertirà en la segona comunitat autònoma a aplicar la norma estatal, després de Castella i Lleó. D’altra banda, un informe d’Aldeas Infantiles SOS alerta dels riscos de la sobreexposició de nens i adolescents a les pantalles. L’estudi assenyala que el 70% dels menors d’entre 10 i 15 anys ja tenen mòbil (una xifra que arriba al 95% als quinze) i recomana evitar l’ús de pantalles abans dels sis anys. En parlem amb la portaveu de l’organització, Arantxa Sanz.També abordem amb el psicòleg Javier Elcarte la coneguda com a “síndrome del tupper”, una sensació cada cop més estesa de viure atrapat entre la feina, el cansament i la manca de temps personal.Tot seguit, amb Guillem F. Marí repassem algunes de les noves sèries que arriben a les plataformes, com St Louis, Empatía, The Danish Woman o Scarpetta.Finalment, conversem amb l’historiador Michael Seidman sobre el seu llibre Esclavos en la Europa del siglo XX (1914-1945), una investigació que analitza com diverses potències europees van reinstaurar formes d’esclavitud en ple segle XX.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-llei-ela-catalunya-infants-davant-sobreexposicio-les-pantalles-esclavos-europa-del-siglo-xx/16977952/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-llei-ela-a-catalunya-infants-davant-la-sobreexposicio-a-les-pantalles-i-‘esclavos-en-la-europa-del-siglo-xx’/16977952/" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Mar 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:111:00</itunes:duration>
+    </item>
+    <item>
+      <title>Mojtaba Khamenei i les seves amenaces als EUA, el dret civil per a les persones grans i el llibre &amp;#39;La muerte no incomoda si sabemos hablar de ella&amp;#39;</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-mojtaba-khamenei-les-seves-amenaces-als-eua-dret-civil-per-les-persones-grans-llibre-muerte-no-incomoda-si-sabemos-hablar-ella/16978442/</link>
+      <description>Hem començat parlant de les noves declaracions de Mojtaba Khamenei, el líder suprem de l'Iran, que ha amenaçat els Estats Units i ha afirmat que l'estret d'Ormuz seguirà tancat. Des de Washington, Gustau Alegret ens ha donat més detalls sobre la reacció dels Estats Units.Després, hem seguit amb el congrés organitzat per la Facultat de Dret de la Universitat de Barcelona, que reflexiona sobre els reptes jurídics que presenta el constant envelliment de la societat. Elena Lauroba, catedràtica de Dret Civil, ens ha explicat més.A pocs dies de la gala dels Oscars, Conxita Casanovas ha repassat les pel·lícules nominades i les favorites.Tanquem el programa conversant amb el doctor Herminio A. González sobre el seu llibre La muerte no incomoda si sabemos hablar de ella, en què proposa una nova manera d’acompanyar les persones al final de la vida.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-mojtaba-khamenei-les-seves-amenaces-als-eua-dret-civil-per-les-persones-grans-llibre-muerte-no-incomoda-si-sabemos-hablar-ella/16978442/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/mojtaba-khamenei-i-les-seves-amenaces-als-eua-el-dret-civil-per-a-les-persones-grans-i-el-llibre-la-muerte-no-incomoda-si-sabemos-hablar-de-ella/16978442/" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Mar 2026 22:05:00 +0000</pubDate>
+      <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
       <title>Browser not supported</title>
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Thu, 12 Mar 2026 06:18:31 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 06:18:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
