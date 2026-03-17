@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Mon, 16 Mar 2026 06:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:24:38 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,42 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>Estrenes cinematogràfiques amb Conxita Casanovas</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16968260/</link>
-      <description>Amb Conxita Casanovas parlem de cinema i de les pròximes estrenes que ens esperen a la gran pantalla.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-estrenes-cinematografiques-amb-conxita-casanovas/16968260/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/estrenes-cinematografiques-amb-conxita-casanovas/16968260/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 23:10:00 +0000</pubDate>
-      <itunes:duration>00:16:00</itunes:duration>
-    </item>
-    <item>
-      <title>El càncer de mama en dones joves creix un 29% en tres dècades</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-cancer-mama-dones-joves-creix-29-tres-decades/16967304/</link>
-      <description>En les últimes tres dècades, els diagnòstics de càncer de mama en dones joves han augmentat un 29% a nivell mundial, segons un estudi publicat a la revista The Lancet Oncology. Tot i que la majoria de casos continuen concentrant-se en dones majors de 55 anys, la incidència en la franja d’edat entre 20 i 54 anys està creixent més ràpidament. Ens ho explica la Dra. Isabel Echavarria, Secretària científica de la Societat Espanyola d’Oncologia Mèdica (SEOM).</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cancer-mama-dones-joves-creix-29-tres-decades/16967304/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/el-cancer-de-mama-en-dones-joves-creix-un-29%-en-tres-decades/16967304/" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 23:45:00 +0000</pubDate>
-      <itunes:duration>00:15:00</itunes:duration>
-    </item>
-    <item>
-      <title>Educació i els sindicats CCOO i UGT arriben a un acord, però USTEC se’n desmarca</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-educacio-els-sindicats-ccoo-ugt-arriben-acord-pero-ustec-se-desmarca/16972756/</link>
-      <description>El Departament d’Educació de la Generalitat i els sindicats CCOO i UGT han arribat a un acord sobre millores laborals per al personal docent, però el sindicat majoritari a la primària, USTEC, no s’hi ha sumat. El sindicat considera que les mesures són insuficients, sobretot pel que fa a l’augment salarial, i denuncia que el professorat ha perdut poder adquisitiu els últims anys. Ens ho explica en detall Iolanda Segura, portaveu del sindicat USTEC-STES.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-educacio-els-sindicats-ccoo-ugt-arriben-acord-pero-ustec-se-desmarca/16972756/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/educacio-i-els-sindicats-ccoo-i-ugt-arriben-a-un-acord-pero-ustec-se’n-desmarca/16972756/" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 22:35:00 +0000</pubDate>
-      <itunes:duration>00:17:00</itunes:duration>
-    </item>
-    <item>
-      <title>La defensa dels drets humans amb perspectiva de gènere, amb Mireia del Pozo</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-defensa-dels-drets-humans-amb-perspectiva-genere-amb-mireia-del-pozo/16972836/</link>
-      <description>Ha començat a Nova York, a la seu de les Nacions Unides, la Comissió de la Condició Jurídica i Social de la Dona. Mireia del Pozo, primera catalana, i espanyola, en ser reconeguda amb el Premi Mundial de la Pau en Igualtat, representa Espanya en aquesta comissió i ens ha explicat com ha anat la primera jornada i què podem esperar d'aquesta trobada.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-defensa-dels-drets-humans-amb-perspectiva-genere-amb-mireia-del-pozo/16972836/</guid>
-      <enclosure url="https://www.rtve.es/play/audios/de-nit/la-defensa-dels-drets-humans-amb-perspectiva-de-genere-amb-mireia-del-pozo/16972836/" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 22:50:00 +0000</pubDate>
-      <itunes:duration>00:10:00</itunes:duration>
-    </item>
     <item>
       <title>Jessie Buckley i la freqüència amb la qual practiquem sexe</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-jessie-buckley-frequeencia-amb-qual-practiquem-sexe/16972843/</link>
@@ -205,6 +169,42 @@
       <itunes:duration>00:33:00</itunes:duration>
     </item>
     <item>
+      <title>Negociacions per un Tractat de Crims contra la Humanitat</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-negociacions-per-tractat-crims-contra-humanitat/16983495/</link>
+      <description>A la seu de les Nacions Unides s'està celebrant, fins dijous, la 70ena Conferència de l'ONU sobre la situació de la Dona. Per primera vegada, s'està treballant per redactar un Tractat de Crims contra la Humanitat i s'està lluitant també perquè inclogui l'Apartheid de gènere. La Silvia Sala, cofundadora i vicepresidenta de People Help, hi ha assistit i ens explica en quin punt es troben les negociacions. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-negociacions-per-tractat-crims-contra-humanitat/16983495/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/negociacions-per-un-tractat-de-crims-contra-la-humanitat/16983495/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 22:35:00 +0000</pubDate>
+      <itunes:duration>00:18:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pel·lícules triomfadores als Oscars</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-pel-licules-triomfadores-als-oscars/16983627/</link>
+      <description>“Una batalla tras otra”, del director Paul Thomas Anderson, s’ha imposat com la gran guanyadora dels Premis Oscar. Repassem la gala, celebrada aquesta matinada, amb el professor Dani Agudo. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-pel-licules-triomfadores-als-oscars/16983627/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/pellicules-triomfadores-als-oscars/16983627/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 23:15:00 +0000</pubDate>
+      <itunes:duration>00:38:00</itunes:duration>
+    </item>
+    <item>
+      <title>Ozempic, menys despesa en menjar i la influència del sexe en el pes?</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-ozempic-menys-despesa-menjar-influencia-del-sexe-pes/16983633/</link>
+      <description>Amb la nostra psicòloga i sexòloga de confiança, Elena Crespi, abordem dos temes d’actualitat relacionats amb els hàbits i la salut. D’una banda, les dades indiquen que les persones usuàries d’Ozempic ja han reduït aproximadament un 3% la seva despesa en alimentació. De l’altra, també parlem de la relació entre vida sexual i pes corporal, ja que alguns estudis suggereixen que la manca de sexe podria associar-se a un augment de pes.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-ozempic-menys-despesa-menjar-influencia-del-sexe-pes/16983633/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/ozempic-menys-despesa-en-menjar-i-la-influencia-del-sexe-en-el-pes/16983633/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 23:20:00 +0000</pubDate>
+      <itunes:duration>00:08:00</itunes:duration>
+    </item>
+    <item>
+      <title>Jordi Segarra, l’agent policial que rescata animals</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-jordi-segarra-agent-policial-rescata-animals/16983506/</link>
+      <description>Jordi Segarra és agent de la Guàrdia Urbana de Barcelona des de l’any 2007 i actualment forma part de l’equip de policia de barri, o policia de proximitat, del Districte de Sant Martí. Al llarg de la seva trajectòria ha gestionat nombrosos casos relacionats amb el rescat d’animals, una tasca tan exigent com necessària en favor del benestar animal. Parlem amb ell perquè ens expliqui què significa personalment dur a terme aquesta feina, així com per conèixer alguns dels casos i situacions amb què s’ha trobat al llarg dels anys.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-jordi-segarra-agent-policial-rescata-animals/16983506/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/jordi-segarra-l’agent-policial-que-rescata-animals/16983506/" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 23:59:00 +0000</pubDate>
+      <itunes:duration>00:34:00</itunes:duration>
+    </item>
+    <item>
       <title>Desconvocada la vaga de maquinistes, primera multa per &amp;#39;racisme immobiliari&amp;#39; i el &amp;#39;Diccionario de tristezas sin nombre&amp;#39; de John Koenig</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-desconvocada-vaga-maquinistes-primera-multa-per-racisme-immobiliari-diccionario-tristezas-sin-nombre-john-koenig/16932394/</link>
       <description>CCOO, UGT i el sindicat de maquinistes Semaf han desconvocat la vaga després d'aconseguir un acord amb el Ministeri de Transports. La reunió entre les parts ha durat unes 4 hores i ha permès tancar un acord que respon a les principals exigències del sector: més manteniment, seguretat, més personal i més inversió. 1800 milions d'inversió en manteniment i es crearan 3.650 llocs de feina per millorar la infraestructura. Descobrim els detalls d'aquest pacte amb Francisco Cárdenas, responsable d'UGT a Renfe Catalunya.D’altra banda, la Generalitat ha sancionat per primera vegada una agència immobiliària de Mataró per discriminar a una família a l'hora de llogar un pis pel seu origen. Coneixem els detalls del cas amb Miguel Ruiz, advocat i tècnic d'Habitatge de l'Observatori DESCA, que ha acompanyat el Hamid, afectat.Després, amb Conxita Casanovas repassem la que va ser la 18a edició dels Premis Gaudí que es va celebrar en el Gran Teatre del Liceu. Una gala on sens dubte Sirat va ser de les grans triomfadores de la nit pujant fins a vuit vegades a l'escenari per recollir el Gaudí.També, aquests darrers dies hi havia molta expectació per l'actuació de Bad Bunny a la Super Bowl, després de les crítiques a l'ICE, la policia antiimmigratòria dels Estats Units, i la tensió amb el president Donald Trump. 13 minuts d'aparició que han estat carregats de missatges polítics. Trump, com era d'esperar, l'ha criticat. Ens ho explica tot plegat la corresponsal de RNE als Estats Units, Maria Carou.Tot seguit, amb el professor Dani Agudo conversem sobre Taxi driver. Un títol que han generat polèmiques, anàlisis, lectures i re-lectures durant la dècada dels 70. Escrita per Paul Schrader i dirigida per Martin Scorsese, la pel·lícula els va consagrar a tots dos com a renovadors i visionaris d'un cinema urbà, nerviós, brut i elegant.Tanquem el programa posant nom a emocions que, de vegades, no sabem ni com expressar. Això és el que fa John Koenig a Diccionario de tristezas sin nombre.</description>
@@ -275,6 +275,15 @@
       <enclosure url="https://www.rtve.es/play/audios/de-nit/acord-per-limitar-les-compres-especulatives-dhabitatge-pares-que-deshereten-els-fills-i-santiago-iniguez-de-la-ie-university/16947846/" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 Feb 2026 22:05:00 +0000</pubDate>
       <itunes:duration>00:114:00</itunes:duration>
+    </item>
+    <item>
+      <title>45 anys del 23-F, l&amp;#39;Orfeó Català fa història, i Susan Sarandon</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-45-anys-del-23-lorfeo-catala-fa-historia-susan-sarandon/16950823/</link>
+      <description>S'han complert 45 anys de l'intent de cop d'Estat del 23-F., i, tot just avui, el Govern ha anunciat que desclassificarà tots els documents relacionats. En parlem amb Alfonso Pinilla, doctor en història i autor del llibre  ‘El laberinto del 23-F: lo posible, lo probable y lo imprevisto en la trama del golpe’. Amb Pep Gorgori coneixem de primera mà com van ser les tres actuacions que va protagonitzar l'Orfeó Català aquest cap de Setmana a Los Angeles, a la 'Missa solemnis', sota la batuta del director Gustavo Dudamel. Ens fixem també en una realitat de la que moltes vegades no se'n parla: la poca relació entre familiars estrets. Quines són les causes i què pot comportar? Ens ho explica Rosana Sánchez, psicòloga i terapeuta familiar.Aquest dilluns ens visita el professor Dani Agudo. Amb ell repassem la trajectòria de Susan Sarandon, Goya Internacional 2026. Tancarem el programa amb Maria del Carme Banús, que acaba de publicar 'Confesiones de una matchmaker: 30 años formando parejas en Barcelona'.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-45-anys-del-23-lorfeo-catala-fa-historia-susan-sarandon/16950823/</guid>
+      <enclosure url="https://www.rtve.es/play/audios/de-nit/45-anys-del-23-f-lorfeo-catala-fa-historia-i-susan-sarandon/16950823/" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:120:00</itunes:duration>
     </item>
     <item>
       <title>4 anys de la invasió d’Ucraïna, inversors es retiren de l&amp;#39;habitatge a Catalunya i el llibre &amp;#39;Redimir o adoctrinar&amp;#39;</title>
@@ -380,7 +389,7 @@
       <link>https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</link>
       <description>Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.</description>
       <guid isPermaLink="true">https://web.whatsapp.com/send?text=https://www.rtve.es/play/audios/de-nit/</guid>
-      <pubDate>Mon, 16 Mar 2026 06:32:59 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 06:24:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
