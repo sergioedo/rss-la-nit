@@ -175,12 +175,13 @@ class DeNitScraper:
             print(f"Error al procesar episodio {episode_url}: {e}. Saltando al siguiente episodio.")
             return None
     
-    def get_episodes_list(self, max_episodes: int = 50) -> List[Dict]:
+    def get_episodes_list(self, max_episodes: int = 50, description_filter: Optional[str] = None) -> List[Dict]:
         """
         Obtiene la lista de episodios del programa.
         
         Args:
             max_episodes: Número máximo de episodios a obtener
+            description_filter: Si se proporciona, solo incluye episodios cuya descripción empiece con este texto
             
         Returns:
             Lista de diccionarios con datos de episodios
@@ -210,11 +211,17 @@ class DeNitScraper:
             
             print(f"Encontrados {len(episode_links)} episodios")
             
+            if description_filter:
+                print(f"Filtro de descripción activo: '{description_filter}'")
+            
             # Obtener detalles de cada episodio
             for i, episode_url in enumerate(episode_links):
                 print(f"Procesando episodio {i+1}/{len(episode_links)}: {episode_url}")
                 episode_data = self.get_episode_details(episode_url)
                 if episode_data:
+                    if description_filter and not episode_data['description'].startswith(description_filter):
+                        print(f"  -> Omitido (descripción no empieza con '{description_filter}')")
+                        continue
                     episodes.append(episode_data)
             
         except Exception as e:
@@ -234,11 +241,13 @@ def main():
                       help='Archivo de salida JSON (default: episodes.json)')
     parser.add_argument('--delay', type=float, default=1.0,
                       help='Delay entre peticiones en segundos (default: 1.0)')
+    parser.add_argument('--description-filter', type=str, default=None,
+                      help='Solo incluir episodios cuya descripción empiece con este texto')
     
     args = parser.parse_args()
     
     scraper = DeNitScraper(delay=args.delay)
-    episodes = scraper.get_episodes_list(max_episodes=args.max_episodes)
+    episodes = scraper.get_episodes_list(max_episodes=args.max_episodes, description_filter=args.description_filter)
     
     # Guardar resultados
     with open(args.output, 'w', encoding='utf-8') as f:

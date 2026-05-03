@@ -9,6 +9,11 @@ on:
     branches:
       - main
 
+env:
+  # Filtrar episodios por el inicio de la descripción (opcional)
+  # Ejemplo: "Amb el professor"
+  DESCRIPTION_FILTER: ""
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -32,7 +37,7 @@ jobs:
       
       - name: Run scraper
         run: |
-          python scraper.py --max-episodes 50 --output episodes.json
+          python scraper.py --max-episodes 50 --output episodes.json ${DESCRIPTION_FILTER:+--description-filter "$DESCRIPTION_FILTER"}
       
       - name: Generate RSS feed
         run: |
