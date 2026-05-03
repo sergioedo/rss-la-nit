@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Sun, 03 May 2026 06:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:29:32 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -27,282 +27,382 @@
     <item>
       <title>El llibre 'Ikigai', amb Francesc Miralles</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-llibre-ikigai-amb-francesc-miralles/17040809/</link>
-      <description>De Nit 23/04/2026</description>
+      <description>Francesc Miralles, que ens presenta el llibre Ikigai, escrit conjuntament amb Héctor García, una obra que explora les claus de la filosofia japonesa per trobar el propòsit vital i viure amb més equilibri. Un llibre que ens convida a reflexionar sobre com cuidar tant el cos com la ment i l’esperit per assolir una vida més plena i duradora.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-llibre-ikigai-amb-francesc-miralles/17040809/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17040809.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 23:30:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-llibre-ikigai-amb-francesc-miralles_17040809.png"/>
+      <itunes:duration>00:26:30</itunes:duration>
     </item>
     <item>
       <title>El Govern aprovarà dimarts la reforma de la llei de prevenció de riscos</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-govern-aprovara-dimarts-reforma-llei-prevencio-riscos/17043931/</link>
-      <description>De Nit 27/04/2026</description>
+      <description>Aquest dimarts el Govern aprova la reforma de la Llei de Prevenció de Riscos Laborals. Reyes Solaz, secretària general d'UGT Catalunya, ens ofereix alguns detalls dels canvias a aquesta norma que portava més de 30 anys sense modificar-se i que visibilitza riscos vinculats a factors psicosocials.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-govern-aprovara-dimarts-reforma-llei-prevencio-riscos/17043931/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17043931.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 22:20:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-govern-aprovara-dimarts-reforma-llei-prevencio-riscos_17043931.png"/>
+      <itunes:duration>00:09:10</itunes:duration>
     </item>
     <item>
       <title>L'intent d'assassinat a Donald Trump</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-lintent-dassassinat-donald-trump/17043938/</link>
-      <description>De Nit 27/04/2026</description>
+      <description>Amb el periodista internacional i analista polític Gustau Alegret, des de Whasington, hem raonat al voltant del tercer intent d'assassinat a Donald Trump, que es va produir aquest dissabte al sopar de corresponsals de la Casa Blanca.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-lintent-dassassinat-donald-trump/17043938/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17043938.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 22:30:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-lintent-dassassinat-donald-trump_17043938.png"/>
+      <itunes:duration>00:15:55</itunes:duration>
     </item>
     <item>
       <title>La societat d'endocrins i nutricionistes proposa eliminar els envasos de plàstic</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-societat-dendocrins-nutricionistes-proposa-eliminar-els-envasos-plastic/17043937/</link>
-      <description>De Nit 27/04/2026</description>
+      <description>Coincidint amb el Dia Mundial de les Hormones, que es va celebrar el passat 24 d’abril, la Societat Espanyola d’Endocrinologia i Nutrició va alertar que més de 2.000 substàncies poden alterar el sistema hormonal i va insistir en la necessitat de reduir l’exposició als anomenats disruptors endocrins. Entre les principals recomanacions, els especialistes proposen evitar els envasos de plàstic i substituir-los per alternatives com el vidre o l’acer inoxidable. Ens ho explica en detall el Dr. Nicolás Olea, Coordinador del grup d'Endocrinologia i Medi Ambient de la Societat Espanyola d'Endocrinologia i Nutrició.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-societat-dendocrins-nutricionistes-proposa-eliminar-els-envasos-plastic/17043937/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17043937.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 22:45:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-societat-dendocrins-nutricionistes-proposa-eliminar-els-envasos-plastic_17043937.png"/>
+      <itunes:duration>00:09:18</itunes:duration>
     </item>
     <item>
       <title>Dolores Vázquez, Britney Spears i els límits del desig a xarxes</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-dolores-vazquez-britney-spears-els-limits-del-desig-xarxes/17045455/</link>
-      <description>De Nit 27/04/2026</description>
+      <description>Amb la nostra psicòloga i sexòloga de confiança, Elena Crespi, hem comentat quatre temes d’actualitat: la situació de Britney Spears i el seu deteriorament públic després d’anys de pressió mediàtica, el fenomen del “dwerking” i la creixent exhibició del cos masculí a les xarxes, la reflexió de Mara Torres sobre el cas de Dolores Vázquez i la responsabilitat dels mitjans; i, finalment, l’impacte de comunitats digitals que normalitzen la violència sexual. Una conversa per entendre com els mitjans i internet influeixen en la percepció del cos, el desig i la justícia.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dolores-vazquez-britney-spears-els-limits-del-desig-xarxes/17045455/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17045455.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 23:00:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-dolores-vazquez-britney-spears-els-limits-del-desig-xarxes_17045455.png"/>
+      <itunes:duration>00:25:28</itunes:duration>
     </item>
     <item>
       <title>'No me llames traidor', de Fernando Rueda</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-no-llames-traidor-fernando-rueda/17043944/</link>
-      <description>De Nit 27/04/2026</description>
+      <description>Conversem amb Fernando Rueda sobre No me llames traidor, una novel·la d’espionatge inspirada en fets reals que ens endinsa en els límits difusos entre la lleialtat i la traïció. La història segueix Beto Romero, un agent del servei secret espanyol acusat de vendre informació a Rússia. Ell ho nega, però el país sencer el considera un traïdor. Entre versions contradictòries, operacions encobertes i secrets d’Estat, el llibre planteja una gran pregunta sobre qui diu realment la veritat.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-no-llames-traidor-fernando-rueda/17043944/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17043944.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 23:59:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-no-llames-traidor-fernando-rueda_17043944.png"/>
+      <itunes:duration>00:37:16</itunes:duration>
     </item>
     <item>
       <title>Entrevista amb  Mònica Martínez Bravo sobre el Pla Cura</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-entrevista-amb-monica-martinez-bravo-sobre-pla-cura/17045759/</link>
-      <description>De Nit 28/04/2026</description>
+      <description>La consellera de Drets Socials i Inclusió, Mònica Martínez Bravo, ens ha donat a conèixer alguns detalls del Pla Cura, una sèrie de mesures per tal de fer el model de dependència més àgil i amb el qual es vol aconseguir la reducció dels temps d'espera.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-entrevista-amb-monica-martinez-bravo-sobre-pla-cura/17045759/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17045759.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 22:20:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-entrevista-amb-monica-martinez-bravo-sobre-pla-cura_17045759.png"/>
+      <itunes:duration>00:08:46</itunes:duration>
     </item>
     <item>
       <title>Un any de la gran apagada elèctrica</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-any-gran-apagada-electrica/17045761/</link>
-      <description>De Nit 28/04/2026</description>
+      <description>Fa un any de la gran apagada que ens va deixar sense electricitat a tot Catalunya, Espanya i Portugal. Conversem amb Mar Aguió Sagristà, presidenta del Grup de Gestors Energètics de Catalunya, per recordar què va passar i entendre’n les causes i les conseqüències.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-any-gran-apagada-electrica/17045761/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17045761.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 22:30:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-any-gran-apagada-electrica_17045761.png"/>
+      <itunes:duration>00:11:25</itunes:duration>
     </item>
     <item>
       <title>50 anys de la mort de Carol Reed</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-50-anys-mort-carol-reed/17045772/</link>
-      <description>De Nit 28/04/2026</description>
+      <description>Amb el professor Dani Agudo recordem els 50 anys de la mort de Carol Reed, un dels grans directors del cinema britànic i responsable d'obres com The Third Man o Odd Man Out.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-50-anys-mort-carol-reed/17045772/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17045772.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 23:05:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-50-anys-mort-carol-reed_17045772.png"/>
+      <itunes:duration>00:22:29</itunes:duration>
     </item>
     <item>
       <title>Carmen Domingo: "Hauríem de fer més per treure les dones de la foscor”</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-carmen-domingo-hauriem-fer-mes-per-treure-les-dones-foscor/17045781/</link>
-      <description>De Nit 28/04/2026</description>
+      <description>Conversem amb Carmen Domingo, autora del llibre La soledad fue el precio. Es tracta de la biografia de Carmen Díez de Rivera, una de les figures clau de la Transició espanyola</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-carmen-domingo-hauriem-fer-mes-per-treure-les-dones-foscor/17045781/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17045781.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 23:59:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-carmen-domingo-hauriem-fer-mes-per-treure-les-dones-foscor_17045781.png"/>
+      <itunes:duration>00:34:19</itunes:duration>
     </item>
     <item>
       <title>El Parlament Europeu aprova una resolució que demana la definició de violació</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-parlament-europeu-aprova-resolucio-demana-definicio-violacio/17047747/</link>
-      <description>De Nit 29/04/2026</description>
+      <description>El Parlament Europeu ha aprovat una resolució que demana la definició de violació a tot el territori de la Unió. Mireia del Pozo, guanyadora del Premi Mundial de la Pau per la Igualtat, ens parla de la importància d'aquest assumpte i del Mes Europeu de la Diversitat que es celebra al maig.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-parlament-europeu-aprova-resolucio-demana-definicio-violacio/17047747/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17047747.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 22:35:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-parlament-europeu-aprova-resolucio-demana-definicio-violacio_17047747.png"/>
+      <itunes:duration>00:12:31</itunes:duration>
     </item>
     <item>
       <title>Anna Maria Solórzano: “Som realment conscients del que és viure al carrer?”</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-anna-maria-solorzano-som-realment-conscients-del-viure-carrer/17047740/</link>
-      <description>De Nit 29/04/2026</description>
+      <description>Anna Maria Solórzana és la coordinadora de l’Hospital de Campanya de Santa Anna, un projecte de voluntariat dedicat a ajudar persones que viuen al carrer o que es troben en situacions de gran dificultat. Aquest espai ofereix suport humà, escolta i acompanyament a persones vulnerables que sovint no tenen ningú més. Més que cobrir necessitats bàsiques, l’objectiu és donar dignitat, esperança i un lloc on sentir-se acollits. La seva tasca és coordinar els voluntaris i assegurar que cada persona rebi atenció, respecte i una oportunitat per sentir-se part de la comunitat.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-anna-maria-solorzano-som-realment-conscients-del-viure-carrer/17047740/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17047740.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 22:45:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-anna-maria-solorzano-som-realment-conscients-del-viure-carrer_17047740.png"/>
+      <itunes:duration>00:24:55</itunes:duration>
     </item>
     <item>
       <title>Ernest Pascual: “Als Estats Units, la violència política és una part incòmoda de la seva història”</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-ernest-pascual-als-estats-units-violencia-politica-part-incomoda-seva-historia/17047733/</link>
-      <description>De Nit 29/04/2026</description>
+      <description>L’intent d’atemptat contra Donald Trump ha tornat a posar el focus en la violència política als Estats Units, mentre el president continua reforçant la seva imatge internacional amb anècdotes com la seva trobada amb el rei Carles III. Paral·lelament, Úrsula Von der Leyen adverteix que Europa patirà durant anys les conseqüències econòmiques de la guerra a l’Orient Mitjà, especialment per l’augment del preu de l’energia. Aquesta crisi també afecta el sector aeri, amb aerolínies que ja retallen vols poc rendibles a Espanya per l’encariment del combustible. Ho tractem tot amb el Doctor Ernest Pascual, expert en política internacional. </description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-ernest-pascual-als-estats-units-violencia-politica-part-incomoda-seva-historia/17047733/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17047733.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 23:16:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-ernest-pascual-als-estats-units-violencia-politica-part-incomoda-seva-historia_17047733.png"/>
+      <itunes:duration>00:14:35</itunes:duration>
     </item>
     <item>
       <title>L'actualitat del món animal, amb Paula Calvo</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-lactualitat-del-mon-animal-amb-paula-calvo/17047749/</link>
-      <description>De Nit 29/04/2026</description>
+      <description>Repassem tota l'actualitat del món animal amb la nostra antrozoòloga i etòloga de confiança, Paula Calvo.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-lactualitat-del-mon-animal-amb-paula-calvo/17047749/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17047749.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 23:30:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-lactualitat-del-mon-animal-amb-paula-calvo_17047749.png"/>
+      <itunes:duration>00:20:04</itunes:duration>
     </item>
     <item>
       <title>El monestir de Poblet protagonista d'un número especial de la revista Historia National Geographic</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-monestir-poblet-protagonista-dun-numero-especial-revista-historia-national-geographic/17047734/</link>
-      <description>De Nit 29/04/2026</description>
+      <description>L’historiador Damià Amorós i Albareda ens ofereix tots els detalls del número especial de la revista Historia National Geographic dedicat al monestir cistercenc de Santa Maria de Poblet. En aquesta publicació de 200 pàgines podem fer un recorregut per un d’un dels conjunts gòtics més imponents d'Europa.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-monestir-poblet-protagonista-dun-numero-especial-revista-historia-national-geographic/17047734/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17047734.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 23:58:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-monestir-poblet-protagonista-dun-numero-especial-revista-historia-national-geographic_17047734.png"/>
+      <itunes:duration>00:25:08</itunes:duration>
     </item>
     <item>
       <title>La Unió Europea demana als Estats adoptar la seva aplicació per a verificar l'edat dels usuaris a internet</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-unio-europea-demana-als-estats-adoptar-seva-aplicacio-per-verificar-ledat-dels-usuaris-internet/17049688/</link>
-      <description>De Nit 30/04/2026</description>
+      <description>Conversem amb Ángel Martín Bautista, cap adjunt del Departament de Tecnologies Disruptives i Integritat de la Informació de l’Agència Estatal d’Administració Digital, sobre la nova aplicació de la Comissió Europea per verificar l’edat a internet i protegir els menors dels riscos en línia.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-unio-europea-demana-als-estats-adoptar-seva-aplicacio-per-verificar-ledat-dels-usuaris-internet/17049688/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17049688.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2026 22:35:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-unio-europea-demana-als-estats-adoptar-seva-aplicacio-per-verificar-ledat-dels-usuaris-internet_17049688.png"/>
+      <itunes:duration>00:12:21</itunes:duration>
     </item>
     <item>
       <title>Gènere i malalties minoritàries. El repte actual.</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-genere-malalties-minoritaries-repte-actual/17049685/</link>
-      <description>De Nit 30/04/2026</description>
+      <description>Les malalties minoritàries són sens dubte un repte per a la nostra societat, especialment per a les dones, ja que tarden un 50% més en ser diagnosticades. Francesc Cayuela, president de FECAMM (Federació Catalana de Malalties Minoritàries) ens parla d'esta qüèstió i de la trobada que aquest dijous ha tingut lloc a un hotel de Barcelona.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-genere-malalties-minoritaries-repte-actual/17049685/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17049685.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2026 22:40:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-genere-malalties-minoritaries-repte-actual_17049685.png"/>
+      <itunes:duration>00:13:05</itunes:duration>
     </item>
     <item>
       <title>Les estres al cinemes, amb Conxita Casanovas</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-les-estrenes-cinematografiques-amb-conxita-casanovas/17049679/</link>
-      <description>De Nit 30/04/2026</description>
+      <description>La nostra col·laboradora especialitzada en el món del sèptim art, Conxita Casanovas, ens acosta les estrenes al cinema d'aquesta setmana.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-les-estrenes-cinematografiques-amb-conxita-casanovas/17049679/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17049679.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2026 23:00:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-les-estrenes-cinematografiques-amb-conxita-casanovas_17049679.png"/>
+      <itunes:duration>00:17:10</itunes:duration>
     </item>
     <item>
       <title>Teresa Martín Taffarel i el seu primer poemari</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-teresa-martin-taffarel-seu-primer-poemari/17049678/</link>
-      <description>De Nit 30/04/2026</description>
+      <description>Teresa Reyes ens porta com a convidada Teresa Martín Taffarel, amb una selecció de poemes del seu primer poemari, editat a Barcelona per l’editorial Meteora l’any 2003. El llibre recull la trajectòria anterior de l’autora i constitueix, en molts casos, el germen dels temes que apareixeran en la seva obra posterior. Hi trobem ja, de manera condensada, les línies mestres que vindran després: aquells grans temes que Teresa afronta amb una combinació de profunditat i quotidianitat que la fa especialment propera.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-teresa-martin-taffarel-seu-primer-poemari/17049678/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17049678.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2026 23:32:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-teresa-martin-taffarel-seu-primer-poemari_17049678.png"/>
+      <itunes:duration>00:21:01</itunes:duration>
     </item>
     <item>
       <title>Antoni Ribas, oncòleg a la Universitat de Califòrnia de Los Angeles</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-antoni-ribas-oncoleg-universitat-california-angeles/17049684/</link>
-      <description>De Nit 30/04/2026</description>
+      <description>Conversem amb l’oncòleg barceloní Antoni Ribas, investigador a la UCLA, recentment premiat per l’Associació Americana per a la Recerca del Càncer (AACR) pel seu lideratge i els seus avenços en la investigació oncològica. Abordem el present i el futur de la recerca contra el càncer, així com el seu recorregut professional i la importància de la innovació científica.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-antoni-ribas-oncoleg-universitat-california-angeles/17049684/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17049684.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2026 23:59:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-antoni-ribas-oncoleg-universitat-california-angeles_17049684.png"/>
+      <itunes:duration>00:29:44</itunes:duration>
     </item>
     <item>
       <title>Lluita contra el sensellarisme, les desaparicions de persones a Espanya i Joan-Carles Mèlich</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-lluita-contra-sensellarisme-les-desaparicions-persones-espanya-joan-carles-melich/16999434/</link>
-      <description>De Nit 25/03/2026</description>
+      <description>A Badalona, diverses entitats socials s’han unit per reclamar més compromís polític i recursos davant l’augment de la pobresa. Exigeixen serveis públics accessibles i de qualitat, recordant que la dignitat humana i els drets socials són prioritaris. Ens ho explica Carles Sagués, portaveu de Badalona Acull.Avui també s’ha celebrat un acte en memòria de les persones desaparegudes, amb especial atenció a les famílies i al seu dolor. L’any passat es van registrar més de 25.000 denúncies, corresponents a unes 16.000 persones, cosa que mostra que la problemàtica segueix sent greu. Analitzem la situació amb Pilar Muniesa, directora del Centre Nacional de Persones Desaparegudes.Amb la Setmana Santa a tocar, Pep Gorgori ens acompanya en un recorregut musical per peces clàssiques relacionades amb aquest període tan simbòlic.Per tancar, conversem amb Joan-Carles Mèlich sobre la seva obra Ética de la compasión, reflexionant sobre què significa actuar de manera ètica i com la compassió pot orientar les nostres decisions quotidianes.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-lluita-contra-sensellarisme-les-desaparicions-persones-espanya-joan-carles-melich/16999434/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/16999434.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 22:05:00 +0100</pubDate>
+      <itunes:duration>01:54:49</itunes:duration>
     </item>
     <item>
       <title>Eutanàsia a Noelia Castillo, Dia Mundial del Clima i Biel Mesquida</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-eutenasia-noelia-castillo-dia-mundial-del-clima-biel-mesquida/17001378/</link>
-      <description>De Nit 27/03/2026</description>
+      <description>Després de dos anys de procés, Noelia Castillo, de només 25 anys, s’ha convertit en la persona més jove del país a rebre la mort assistida mitjançant l’eutanàsia. Es tracta d’un cas complex per les implicacions ètiques i socials que comporta. En parlem en profunditat amb Sandra Burgos, advocada de família especialitzada en violència masclista.Pel que fa a l'actualitat internacional, aquest dissabte tindran lloc als Estats Units i també a Espanya les protestes ‘No Kings’ contra Donald Trump, amb més de 3.000 esdeveniments previstos arreu dels EUA. A Barcelona, la convocatòria serà a les 12 del migdia a la plaça Sant Jaume. Reed Brody, advocat estatunidenc especialitzat en drets humans, ens n’ofereix tots els detalls.A més, juntament amb Gustau Alegret, analitzem la figura de Donald Trump i les seves decisions més recents en relació amb el conflicte, així com l’impacte que poden tenir en l’escenari internacional.Posem també el focus en el medi ambient amb motiu del Dia Mundial del Clima, una jornada instaurada fa 34 anys amb l’objectiu de sensibilitzar sobre el canvi climàtic i el seu impacte al planeta. Amb el doctor Javier Martín-Vide, coordinador del Grup d’Experts en Canvi Climàtic de Catalunya, analitzem la situació climàtica actual i les perspectives de futur.Acabem el programa amb Biel Mesquida, recent guanyador del Premi d’Honor de les Lletres Catalanes. Conversem amb ell sobre el seu nou poemari, Trast.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-eutenasia-noelia-castillo-dia-mundial-del-clima-biel-mesquida/17001378/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17001378.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 22:05:00 +0100</pubDate>
+      <itunes:duration>01:52:55</itunes:duration>
     </item>
     <item>
       <title>Protocol per indemnitzar les víctimes d'abusos a l'Església i l'ordre del TSJC sobre el català a l'escola</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-protocol-per-indemnitzar-les-victimes-dabusos-lesglesia-lordre-del-tsjc-sobre-catala-lescola/17006120/</link>
-      <description>De Nit - 30/03/26</description>
+      <description>El protocol per indemnitzar les víctimes d'abusos sexuals en el si l'Església és una realitat. Per a aquelles que ja no és possible la via judicial, perquè el delicte ha prescrit o bé per la mort de l'agressor. Un acord signat per la Conferència Episcopal Espanyola, el Govern Espanyol i el Defensor del Poble. Un dilluns en què el Tribunal Superior de Justícia de Catalunya ha ordenat executar la sentència que tomba bona part del decret del català a l'escola. En parlem amb Iolanda Segura, portaveu del sindicat USTEC-STES.Descobrim el darrer conte publicat per Carla Vall 'Sança sense secrets', que vol servir per prevenir els abusos sexuals infantils. Amb Elena Crespi parlem de la pressió per l'operació biquini i del 'ghosting', entre altres temes.I tanquem el programa amb Dory Sontheimer, autora del llibre 'Las 7 cajas', on explica com va descobrir la realitat familiar que els seus pares havien mantingut amagada, per por: eren jueus i van haver de fugir dels nazis. </description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-protocol-per-indemnitzar-les-victimes-dabusos-lesglesia-lordre-del-tsjc-sobre-catala-lescola/17006120/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17006120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:52</itunes:duration>
     </item>
     <item>
       <title>La guerra i la pressió sobre els recursos energètics, Dia Mundial contra el Càncer de Còlon i l’activista Silvia Sicore</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-guerra-pressio-sobre-els-recursos-energetics-dia-mundial-contra-cancer-colon-activista-silvia-sicore/17007383/</link>
-      <description>De Nit 31/03/2026</description>
+      <description>Amb el doctor Ernesto Pascual analitzem l’actualitat internacional en un context marcat per l’escalada del conflicte entre els Estats Units, Israel i l’Iran. La tensió ha provocat el bloqueig de prop de 2.000 contenidors amb mercaderies, incloses exportacions agrícoles d’Aragó i Catalunya, i incrementa la pressió sobre els recursos energètics com el petroli. A més, les exigències de Donald Trump afegeixen incertesa sobre el paper d’Europa i la seva dependència energètica.En l’àmbit sanitari, el càncer de còlon continua sent el més freqüent a Espanya, amb uns 600 diagnòstics anuals a Catalunya i un augment del 15,7% en l’última dècada, també entre persones joves. Amb motiu del Dia Mundial contra el Càncer de Còlon, l’Associació Contra el Càncer de Barcelona impulsa la campanya “Juga el teu paper” per fomentar la participació en els cribratges que es fan per detectar la malaltia a temps. En parlem amb Pau Berbel, responsable de relacions institucionals de l'Associació Contra el Càncer de Barcelona.En paral·lel, l’augment de patologies com l’obesitat i la diabetis tipus 2 reobre el debat sobre el paper de la cuina tradicional com a model alimentari més saludable. Ho abordem amb la metgessa i dietista Montse Folch, que ens ajudarà a analitzar hàbits i prevenció.Tot seguit, amb el professor Dani Agudo recuperem la pel·lícula Chariots of Fire, que compleix 45 anys i relata la història de dos atletes britànics als Jocs Olímpics de París de 1924.Finalment, amb motiu del Dia Internacional de la Visibilitat Transgènere, conversem amb l’activista Silvia Sicore per reflexionar sobre la realitat i els reptes del col·lectiu trans.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-guerra-pressio-sobre-els-recursos-energetics-dia-mundial-contra-cancer-colon-activista-silvia-sicore/17007383/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17007383.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:51:59</itunes:duration>
     </item>
     <item>
       <title>Càntics racistes en el futbol, reduir energia en transport i 'Sugarkiller' de Mireia Yévenes</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-cantics-racistes-futbol-reduir-energia-transport-7-cajas-dory-sontheimer/17008747/</link>
-      <description>De Nit 01/04/2026</description>
+      <description>Els Mossos d’Esquadra investiguen els càntics islamòfobs i xenòfobs al camp de l’Espanyol durant el partit entre Espanya i Egipte. Tot i que les xiulades ja es van sentir amb l’himne, els crits es van repetir durant el partit. Per això, veus com la de David Karvala, Portaveu de la Unió Contra el Racisme i el Feixisme, insisteixen en la necessitat de combatre el racisme de manera col·lectiva.D’altra banda, la Comissió Europea alerta de l’impacte econòmic de la guerra a l’Orient Mitjà i del possible bloqueig de l’estret d’Ormuz. En aquest context, es demana als estats mesures per reduir el consum energètic, especialment en el transport. En parlem amb Carmen Miralles-Guasch, Catedràtica en Geografia Urbana, experta en Mobilitat, Territori i Transport.Tot seguit, les dades sobre violència de gènere mostren que només una petita part de denúncies provenen de l’entorn de la víctima, fet que evidencia que encara es percep com un assumpte privat i que queda molt camí per erradicar-la. Ho analitzem amb Sandra Burgos, advocada de família especialitzada en violència masclista.Amb la nostra antrozoologa i etòloga de confiança, Paula Calvo, repassem l’actualitat del món animal, abordant qüestions com el transport aeri de mascotes i els rescats, per entendre millor el seu benestar.Tanquem el programa conversant amb Mireia Yévenes, autora del llibre Sugarkiller. Una obra que tracta d'una estudiant de Belles Arts que porta una doble vida com a estafadora i que és obligada per un policia a infiltrar-se en la mansió d'un milionari sospitós, on aviat descobreix que ell sap més del que aparenta.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-cantics-racistes-futbol-reduir-energia-transport-7-cajas-dory-sontheimer/17008747/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17008747.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:04</itunes:duration>
     </item>
     <item>
       <title>Badalona i sensellarisme, el misticisme de Setmana Santa i el llibre 'He vencido al mundo' de Christian Gálvez</title>
       <link>https://www.rtve.es/play/audios/de-nit/badalona-sensellarisme-llibre-he-vencido-mundo-misticisme-setmana-santa/17008731/</link>
-      <description>De Nit 02/04/2026</description>
+      <description>Obrim el programa posant el focus a Badalona. L’Ajuntament de Badalona defensa la instal·lació de blocs de formigó sota el pont de la C-31 per impedir-hi l’estacionament de vehicles. En aquest espai hi vivien persones sense sostre, moltes d’elles provinents del desallotjament recent de l’antic institut B9. Segons el consistori, les condicions eren insostenibles des del punt de vista sanitari i s’havia d’actuar amb urgència arran de les queixes veïnals. En parlem amb Ferran Moreno, de 'Badalona Acull'.A continuació, mirem breument cap a l’espai per analitzar l’impuls de la missió Artemis II, liderada per la NASA. Es tracta d’un pas decisiu en el retorn de vols tripulats als voltants de la Lluna, una fita que no es produïa des de fa més de cinquanta anys.També parlem de cinema amb Conxita Casanovas, que ens porta algunes estrenes destacades per aquests dies, com La grazia, del director Paolo Sorrentino; Lapönia, de David Serrano; i Calle Málaga, protagonitzada per Carmen Maura. Després, amb Teresa Reyes ens endinsem en el misticisme, entès com una experiència íntima de connexió espiritual. En aquest context, la Setmana Santa pren un significat especial com a temps de recolliment, canvi interior i renovació.Tanquem el programa amb el presentador i escriptor Christian Gálvez, que presenta el seu nou llibre He vencido al mundo. L’obra proposa una mirada personal sobre el cristianisme i aprofundeix en la figura de Jesús i el seu llegat.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/badalona-sensellarisme-llibre-he-vencido-mundo-misticisme-setmana-santa/17008731/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17008731.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Apr 2026 23:59:00 +0200</pubDate>
+      <itunes:duration>01:55:40</itunes:duration>
     </item>
     <item>
       <title>Ultimàtum de Donald Trump, Robin Hood al cinema i pròtesis amb impressores 3D</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-ultimatum-donald-trump-robin-hood-cinema-protesis-amb-impressores-3d/17015023/</link>
-      <description>De Nit 07/04/2026</description>
+      <description>Amb el doctor Ernesto Pascual analitzem l’actualitat del conflicte a l’Orient Mitjà, posant el focus en l’ultimàtum de Donald Trump a l’Iran perquè aixequi el bloqueig de l’Estret d’Ormuz, sota l’amenaça de conseqüències greus. També comentem les repercussions del conflicte, especialment l’encariment dels aliments i el seu impacte a la regió.Amb Elena Crespi abordem diversos temes socials i culturals: el 50è aniversari de Charlie’s Angels i la seva influència en el feminisme, les noves formes de relació sovint marcades per dinàmiques tòxiques i el llegat del moviment MeToo. També tractem qüestions de sexualitat i la polèmica al voltant de Halle Bailey, que ha denunciat insults i comentaris racistes.Amb el professor Dani Agudo repassem les principals adaptacions cinematogràfiques de la història de Robin Hood al llarg dels anys.Finalment, coneixem Guillermo Gauna-Vivas, un enginyer que combina tecnologia i solidaritat viatjant amb una impressora 3D per crear pròtesis gratuïtes per a persones i animals amb amputacions, amb l’objectiu de millorar la seva qualitat de vida.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-ultimatum-donald-trump-robin-hood-cinema-protesis-amb-impressores-3d/17015023/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17015023.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:53:15</itunes:duration>
     </item>
     <item>
       <title>La guerra a l'Orient Mitjà, 'Projecte Home Catalunya' contra les addiccions i Mariane Pearl</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-255-somriures-per-ucraina-dia-internacional-del-poble-gitano-mariane-pearl/17016833/</link>
-      <description>De Nit 08/04/2026</description>
+      <description>Comencem el programa amb l’actualitat internacional, marcada per la fragilitat de la treva entre els Estats Units i l’Iran. A més, una nova onada d’atacs d’Israel al Líban ha deixat més de 200 morts, mentre l’Iran denuncia una greu violació de l’acord. Analitzem aquest escenari amb Sara Alonso, enviada especial de RNE a Washington, i Santiago Echevarría, corresponsal a Jerusalem.Tot seguit, posem el focus en la solidaritat amb el projecte 255 somriures per Ucraïna, impulsat per Sor Lucía Caram des de la Fundació del Convent de Santa Clara. La iniciativa busca oferir una estada temporal a infants ucraïnesos perquè puguin escapar, encara que sigui per uns dies, de l’impacte físic i emocional de la guerra i recuperar part de la seva infància.En clau social, abordem també l’evolució de les addiccions amb Projecte Home Catalunya, que en 30 anys ha atès milers de persones i ha adaptat els seus programes a nous perfils, marcats per l’augment de les addiccions comportamentals i el consum simultani de substàncies. En parlem amb Jordi Feu, Director de l'Àrea de Gestió i Comunicació de Projecte Home Catalunya, i escoltem el testimoni d’Esperanza Hernández, que comparteix el seu procés de superació.D’altra banda, coincidint amb el Dia Internacional del Poble Gitano, el Parlament de Catalunya ha acollit un acte institucional en què s’ha reclamat un compromís ferm per garantir la igualtat d’oportunitats. Ho comentem amb Susana Martínez Heredia, la primera dona gitana diputada al Parlament.En l’àmbit cinematogràfic, el nostre expert Guillem F. Marí ens avança algunes de les estrenes més destacades de sèries, com Para toda la humanidad, la nova temporada de The Boys o Cochinas.Finalment, parlem del reconeixement que rebrà pròximament a Barcelona Mariane Pearl, guardonada amb el premi Giardinetto ‘Per un món nou’ per la seva trajectòria donant veu a dones oprimides i pel seu compromís amb la igualtat.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-255-somriures-per-ucraina-dia-internacional-del-poble-gitano-mariane-pearl/17016833/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17016833.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:51:18</itunes:duration>
     </item>
     <item>
       <title>Acord contra el racisme al futbol, tensió al Pròxim Orient i reivindicacions en la lluita contra l’ELA</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-acord-contra-racisme-futbol-tensio-proxim-orient-reivindicacions-lluita-contra-ela/17018354/</link>
-      <description>De Nit 09/04/2026</description>
+      <description>La Generalitat i la Lliga han signat un acord per combatre el racisme als estadis, després dels càntics contra la comunitat musulmana al camp de l’Espanyol. Una problemàtica persistent al futbol que també ha denunciat Lamine Yamal. En parlem amb la consellera d’Igualtat, Eva Menor.D’altra banda, continua la tensió al Pròxim Orient arran dels atacs d’Israel al Líban, que posen en risc la treva entre els Estats Units i l’Iran. El corresponsal a Jerusalem, Santiago Echevarría ens ho explica des del terreny. També. Des de Washington Gustau Alegret posa el focus en el paper de Donald Trump enmig de tot el conflicte.En clau social, entitats i administracions reclamen agilitzar la Llei ELA i reivindiquen més suport a les cures. Tot això en un acte que ha celebrat la Confederació Nacional d'Entitats d'ELA (ConELA), que també ha servit per homenatjar Juan Carlos Unzué, la cara visible en la lluita d’aquesta malaltia. Conversem amb el president sortint de ConEla, Fernando Martín, perquè ens expliqui en quin punt es troba la llei en qüestió. Pel que fa a educació, la reunió entre Iolanda Segura, portaveu d'USTEC i la consellera Esther Niubó acaba sense avenços, ja que el sindicat considera insuficient l’acord amb CCOO i UGT, mentre el Govern descarta modificar-lo.A més, abordem l’auge de la medicina estètica entre els joves en una societat marcada per la imatge i les xarxes socials, en paral·lel a nous canvis normatius per regular el sector. Un reportatge elaborat per Julia Vicente. Amb Conxita Casanovas celebrem la presència de tres produccions espanyoles a la cursa per la Palma d’Or a Cannes.Finalment, recordem Tots els homes del president amb motiu del seu 50è aniversari, amb el professor Dani Agudo.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-acord-contra-racisme-futbol-tensio-proxim-orient-reivindicacions-lluita-contra-ela/17018354/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17018354.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 23:59:00 +0200</pubDate>
+      <itunes:duration>01:52:48</itunes:duration>
     </item>
     <item>
       <title>Eleccions a Hongria, la guerra, i la importància de les hormones, amb la doctora Gemma Parramon</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-eleccions-hongria-guerra-importancia-les-hormones-amb-doctora-gemma-parramon/17023770/</link>
-      <description>De Nit - 13/04/26</description>
+      <description>El front opositor ha guanyat les eleccions a Hongria i ha posat fi a 16 anys de govern de Viktor Orbán. Què pot suposar per a Europa aquest canvi? Ho analitzem amb Mariano Aguirre, investigador no resident del CIDOB, amb qui també actualitzem la darrera hora del conflicte a l'Orient Mitjà.Pendents de la Global Sumud Flotilla, que és a punt de sortir cap a Gaza per a obrir un corredor humanitari. Amb Ramón Quintano, vicepresident de la Societat Catalana d'Advocats de Família, ens fem ressó del retard que s'està produïnt en els processos per a divorciar-se. Quintano ens explica els motius.Com cada dilluns, ens visita Elena Crespi, psicòloga i sexòloga del programa. I acabem amb la doctora Gemma Parramon, que ens presenta el seu llibre 'Serà per les hormones'.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-eleccions-hongria-guerra-importancia-les-hormones-amb-doctora-gemma-parramon/17023770/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17023770.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:53:06</itunes:duration>
     </item>
     <item>
       <title>Regularització extraordinària de migrants i l'última hora de la guerra a l'Orient Mitjà, amb nous moviments de Trump</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-regularitzacio-extraordinaria-migrants-lultima-hora-guerra-lorient-mitja/17025334/</link>
-      <description>De Nit - 14/04/26</description>
+      <description>En Consell de Ministres ha donat llum verda a la regularització extraordinària de migrants. Victoria Columba, portaveu de Regularización, Ya, ha celebrat la mesura i parla d'aquesta jornada com "el dia més important de la meva vida". Tot seguit analitzem l'actualitat d'arreu del món amb Ernest Pascual, politòleg expert en política internacional.La Generalitat ha anunciat que impulsa una desena de mesures per reforçar la prevenció de situacions de desemparament d’infants i joves tutelats. Ens en dona tots els detalls la Núria Alcalá, companya dels Serveis Informatius de Ràdio 4. La Maria Huguet, companya també dels Serveis Informatius,  ens apropa la nova guia que ha creat l'hospital Clínic de Barcelona per atendre persones trans, que s'ha presentat aquest dimarts. Amb Francesc Miralles parlem de l'esgotament i malestar continuat que molta gent pateix a la feina, el burnout. Ens fem ressó d'una realitat habitual, però amagada: gent que no pot deixar de treballar, tot i tenir l'edat per jubilar-se, perquè no podria subsistir amb la pensió que li queda. I tanquem el programa amb la pianista Laura Farré.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-regularitzacio-extraordinaria-migrants-lultima-hora-guerra-lorient-mitja/17025334/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17025334.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:40</itunes:duration>
     </item>
     <item>
       <title>Salpa la Global Sumud Flotilla, Trump continua criticant el Papa, i el testimoni de Marta Plujà</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-salpa-global-sumud-flotilla-trump-continua-criticant-papa-testimoni-marta-pluja/17027290/</link>
-      <description>De Nit - 15/04/26</description>
+      <description>La Global Sumud Flotilla ja ha salpat rumb a Gaza amb l'objectiu de trencar el bloqueig israelià i portar ajuda humanitària i esperança als palestins. També vol denunciar la inacció dels governs.Mentrestant, la guerra a l'Orient Mitjà continua i també les crítiques de Donald Trump al Papa Lleó XIV. En parlem amb Francesc Torralba, Doctor en filosofia i teologia.Ens fem ressó d'un estudi, publicat recentment a The Lancet Primary Care, sobre l'ús de la intel·ligència artificial entre els metges a Catalunya. La investigació ha realitzat una enquesta als membres de la Societat Catalana de Medicina Familiar i Comunitària (CAMFIC) i mostra com l'ús de la IA és una realitat ja ara i que el Chat GPT és l'eina més utilitzada. N'hem parlat amb el doctor Antoni Sisó, president de la CAMFIC.Amb Paula Calvo repassem les notícies que tenen a veure amb el món animal. I tanquem el programa amb Marta Plujà, que ha publicat Ca la tia justa, on relata els abusos sexuals continuats que va patir de petita per part d’un familiar. </description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-salpa-global-sumud-flotilla-trump-continua-criticant-papa-testimoni-marta-pluja/17027290/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17027290.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:10</itunes:duration>
     </item>
     <item>
       <title>Alto el foc de 10 dies al Líban, decret sobre els menús escolars i ‘El somni de Gaudí’</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-alto-foc-10-dies-liban-decret-sobre-els-menus-escolars-somni-gaudi/17029941/</link>
-      <description>De Nit 16/04/2026</description>
+      <description>Comentem l’actualitat del conflicte a l’Orient Mitjà i el paper de Donald Trump en el context geopolític actual, marcat per la tensió a la regió. En aquest escenari, s’ha anunciat un alto el foc de 10 dies al Líban, pendent de confirmació i amb incerteses sobre la seva aplicació. Ho analitzem amb el catedràtic emèrit en Ciències Polítiques de la UB, Cesáreo Rodríguez-Aguilera.D’altra banda, entra en vigor el nou decret sobre menús escolars, que limita aliments com la carn vermella, els fregits i la pasta, i restringeix els precuinats i la brioixeria industrial per fomentar una alimentació més saludable. En parlem amb el dietista-nutricionista i portaveu del Col·legi de Nutricionistes de Catalunya, Robert Duran.En l’àmbit cultural, conversem amb Conxita Casanovas, directora del BCN Film Fest, sobre la desena edició del festival, amb prop de noranta projeccions a diferents espais de la ciutat.A més, Barcelona acull La Ricarda: melodia d’una casa, una exposició sobre la Casa Gomis, icona del racionalisme català que es pot visitar fins al 25 d’abril a Bulthaup Barcelona. El projecte, impulsat per Bea Sarrias i Morrosko Vila-Sant-Joan, proposa una mirada artística a l’obra d'Antonio Bonet Castellana a través del cinema i la pintura, amb la col·laboració de la família Gomis.Finalment, conversem amb Coia Valls, autora del llibre El somni de Gaudí, que reflexiona sobre el llegat d'Antoni Gaudí i les dones invisibilitzades al seu entorn.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-alto-foc-10-dies-liban-decret-sobre-els-menus-escolars-somni-gaudi/17029941/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17029941.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:53:03</itunes:duration>
     </item>
     <item>
       <title>Regularització extraordinària de migrants i la importància de l'ADN</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-regularitzacio-extraordinaria-migrants-importancia-ladn/17034846/</link>
-      <description>De Nit - 20/04/2026</description>
+      <description>Des d'aquest dilluns, les persones migrants que es troben a Espanya i compleixen tots els requisits necessaris poden sol·licitar, de manera presencial, regularitzar la seva situació al país. A Catalunya, s'ha anunciat la creació d'una Comissió Tècnica per a fer el seguiment d'aquest procés. En parlem de tot plegat amb la consellera de Drets Socials i Inclusió, Mònica Martínez Bravo.Tot seguit, hem posat el focus en l’actualitat internacional amb el terratrèmol de magnitud 7,7 que ha sacsejat el centre del Japó i que ha activat l’alerta per tsunami. Per entendre millor aquest fenomen, hem conversat amb Eulàlia Masana, doctora en Geologia i especialista en terratrèmols, amb qui hem analitzat els possibles riscos futurs arreu del món.Com cada dilluns, ens ha visitat l'Elena Crespi, psicòloga i sexòloga, que ha abordat qüestions diverses però rellevants com: la lluita de les dones afganeses pel dret a l’educació, o el cost, sovint invisibilitzat, de la menopausa.Acabem el programa amb Antonio Alonso, genetista forense i autor del llibre 'La huella invisible'. </description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-regularitzacio-extraordinaria-migrants-importancia-ladn/17034846/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17034846.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:55</itunes:duration>
     </item>
     <item>
       <title>La treva entre els Estats Units i l'Iran, el judici de Diego Armando Maradona i 40 anys de 'Cocodrilo Dundee'</title>
       <link>https://www.rtve.es/play/audios/de-nit/disputa-entre-pedro-sanchez-donald-trump-judici-maradona-40-anys-cocodrilo-dundee/17036509/</link>
-      <description>De Nit 21/04/2026</description>
+      <description>Amb el doctor Ernest Pascual analitzem, d’una banda, la guerra i la treva entre els Estats Units i l’Iran, així com la relació entre Trump i Tim Cook, que evidencia els vincles entre política i grans tecnològiques. També l’enfrontament entre Pedro Sánchez i Donald Trump, que ha situat el president espanyol en el focus mediàtic internacional. Pel que fa a l’àmbit judicial, el cas Maradona continua avançant amb el judici a San Isidro on s'investiga si la seva mort era evitable. En aquesta tercera audiència, una de les filles de Diego Maradona, Gianinna, ha declarat i ha apuntat a una manca de control mèdic i a una possible negligència en la seva atenció domiciliària. En parlem amb Julio Ferrer, periodista i autor del llibre D10S. Miradas sobre el mito Maradona.Tot seguit, descobrim l'ofici de traduir i el món editorial amb Pere Vall i la seva convidada Mar Vidal. Tot plegat just abans de Sant Jordi, reivindicant el paper essencial dels traductors.Després amb el professor Dani Agudo commemorem els 40 anys de Cocodril Dundee, destacant-ne l’impacte i la vigència com a icona del cinema dels anys vuitanta.Finalment, conversem amb Juanra López, autor de Yo, folclórica. Un llibre on s'ofereix 25 retrats de grans estrelles de la cançó espanyola que van marcar època, des de les pioneres fins a les artistes contemporànies. Passant per moments històrics del segle XX i principis del XXI, abordant des de la Guerra Civil fins a la 'Movida Madrileña' i la posterior reivindicació del gènere.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/disputa-entre-pedro-sanchez-donald-trump-judici-maradona-40-anys-cocodrilo-dundee/17036509/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17036509.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:53:35</itunes:duration>
     </item>
     <item>
       <title>Conflicte a l’Orient mitjà i mercat energètic, el Pla Estatal d’habitatge i el doctor Amad Abu-Suboh</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-conflicte-orient-mitja-mercat-energetic-pla-estatal-habitatge-doctor-amad-abu-suboh/17040431/</link>
-      <description>De Nit 22/04/2026</description>
+      <description>Comencem parlant del conflicte a l’Orient Mitjà i del bloqueig de l’estret d’Ormuz que, malgrat l’alto el foc, continua afectant el mercat energètic. Davant d’aquesta situació, la Comissió Europea ha plantejat mesures per reduir la dependència dels combustibles fòssils i accelerar la transició cap a les energies netes. Ho analitzem amb Manel Nicolás, expert en energia i president d’honor del Grup de Gestors Energètics.Tot seguit, posem el focus en l’habitatge, després que el Govern hagi aprovat un Pla Estatal dotat amb 7.000 milions d’euros. L’objectiu és ampliar el parc d’habitatge assequible i protegir especialment els col·lectius més vulnerables, com els joves. En parlem amb Pablo Feu, advocat especialitzat en habitatge.Tot seguit, descobrim tot de la Jornada de Portes Obertes que organitza la Biblioteca de Catalunya pel Dia de Sant Jordi. Margarita Losantos, Cap del Servei d’Accés i Obtenció de Documents, i organitzadora de la Jornada de Portes Obertes, ens dona tots els detalls.També fem una parada en l’àmbit cultural amb Pep Gorgori, que va assistir a l’últim recital del tenor Xabier Anduaga. Escoltarem algunes de les peces més destacades del concert i també les impressions del cantant sobre una trajectòria que continua creixent als grans escenaris internacionals.I acabem conversant amb el doctor Amad Abu-Suboh, cap de l’Àrea de Suport Diagnòstic per la Imatge de la Fundació Hospitalàries Barcelona, sobre el seu llibre Lo que te mata no es lo que crees. Ens explica que no tenir símptomes no sempre és sinònim de bona salut i defensa la importància de la prevenció.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-conflicte-orient-mitja-mercat-energetic-pla-estatal-habitatge-doctor-amad-abu-suboh/17040431/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17040431.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:19</itunes:duration>
     </item>
     <item>
       <title>Jornada de Sant Jordi, BCN Film Fest i el llibre ‘Ikigai’</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-jornada-sant-jordi-bcn-film-fest-llibre-ikigai/17040630/</link>
-      <description>De Nit 23/04/2026</description>
+      <description>Avui, en el dia de Sant Jordi, comencem el programa parlant amb Eric del Arco, president del Gremi de Llibreters de Catalunya, per fer balanç de la jornada.En la mateixa línia, conversem també amb Miguel Iglesias, president de la Confederació Espanyola de Gremis i Associacions de Llibreters, que ens ajuda a contextualitzar una dada sorprenent: la meitat dels títols disponibles pràcticament no es venen.Tot seguit, posem el focus en el sector de la flor, amb una connexió amb Joan Guillén, president del Gremi de Floristes de Catalunya, per conèixer com ha anat la diada. A més, amb el reportatge de Gerard Travé, descobrim què hi ha darrere de la rosa de Sant Jordi: des de la producció i el cultiu fins al seu impacte ambiental.També parlem amb David Gallach, nou director del programa Són 4 dies de Ràdio 4.A continuació, amb Gustau Alegret, comentem la desgarradora història darrere de la imatge guanyadora del World Press Photo 2026, obra de Carol Guzy, que retrata el drama dels migrants als Estats Units.D’altra banda, conversem amb Conxita Casanovas, directora del BCN Film Fest, sobre la seva desena edició.Finalment, tanquem el programa amb Francesc Miralles, que ens presenta el llibre Ikigai, escrit conjuntament amb Héctor García, una obra que ens apropa a les claus de la filosofia japonesa per a una vida llarga i saludable, tant del cos com de la ment i l’esperit.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-jornada-sant-jordi-bcn-film-fest-llibre-ikigai/17040630/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17040630.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:54:41</itunes:duration>
     </item>
     <item>
       <title>Llei de Prevenció de Riscos Laborals, intent d'assassinat a Trump i Fernando Rueda</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-llei-prevencio-riscos-laborals-intent-dassassinat-trump-fernando-rueda/17045446/</link>
-      <description>De Nit 27/04/2026</description>
+      <description>Aquest dimarts, el Govern aprova la reforma de la Llei de Prevenció de Riscos Laborals, una actualització llargament esperada que incorpora, entre d’altres, els riscos psicosocials, tal com explica Reyes Solaz, Secretària General d’UGT Catalunya. D’altra banda, amb el periodista Gustau Alegret, analitzem des de Washington el tercer intent d’assassinat contra Donald Trump i el context polític que l’envolta.A més abordem l’impacte dels disruptors endocrins amb el doctor Nicolás Olea, Coordinador del grup d'Endocrinologia i Medi Ambient de la Societat Espanyola d'Endocrinologia i Nutrició (SEEN), que alerta de la presència de milers de substàncies que poden alterar el sistema hormonal i recomana reduir l’ús de plàstics.En paral·lel, amb la psicòloga i sexòloga Elena Crespi, reflexionem sobre diversos temes d’actualitat. La situació de Britney Spears i el seu deteriorament públic després d’anys de pressió mediàtica, el fenomen del “dwerking”, i la creixent exhibició del cos masculí a les xarxes i la reflexió de Mara Torres sobre el cas de Dolores Vázquez i la responsabilitat dels mitjans.Finalment, conversem amb Fernando Rueda sobre la seva novel·la No me llames traidor, un relat d’espionatge que planteja els límits entre la veritat, la lleialtat i la traïció.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-llei-prevencio-riscos-laborals-intent-dassassinat-trump-fernando-rueda/17045446/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17045446.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:52</itunes:duration>
     </item>
     <item>
       <title>El 'Pla Cura' amb la consellera Mònica Martínez Bravo, un any de l'apagada elèctrica i Carmen Domingo</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-pla-cura-amb-consellera-monica-martinez-bravo-any-lapagada-electrica-carmen-domingo/17047207/</link>
-      <description>De Nit 28/04/2026</description>
+      <description>Comencem el programa amb l’entrevista a la consellera de Drets Socials i Inclusió, Mònica Martínez Bravo, que ha presentat alguns detalls del Pla Cura. Aquest conjunt de mesures pretén agilitzar el model de dependència i reduir significativament els temps d’espera.Tot seguit, hem recordat que fa un any de la gran apagada que va deixar sense electricitat Catalunya, Espanya i Portugal. Per analitzar què va passar i entendre’n les causes i conseqüències, conversem amb Mar Aguió Sagristà, presidenta del Grup de Gestors Energètics de Catalunya.Un dels temes més destacats del dia ha estat la decisió del Congrés dels Diputats, on els 177 vots de PP, Vox i Junts han tombat el decret sobre la pròrroga dels contractes de lloguer i el topall del 2% en la pujada anual. Aquesta qüestió l’hem analitzat amb l’advocat especialitzat en habitatge, Pablo Feu.En l’espai de col·laboració, amb el professor Dani Agudo, commemorem els 50 anys de la mort del director britànic Carol Reed, autor de pel·lícules com The Third Man o Odd Man Out.I per acabar el programa,  una entrevista en profunditat amb Carmen Domingo, autora del llibre La soledad fue el precio, una biografia de Carmen Díez de Rivera, figura clau de la Transició espanyola.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-pla-cura-amb-consellera-monica-martinez-bravo-any-lapagada-electrica-carmen-domingo/17047207/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17047207.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:21</itunes:duration>
     </item>
     <item>
       <title>"Només sí és sí" al Parlament Europeu, l’Hospital de Campanya de Santa Anna i 'Poblet'</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-nomes-si-si-parlament-europeu-hospital-campanya-santa-anna-poblet/17049700/</link>
-      <description>De Nit 29/04/2026</description>
+      <description>El Parlament Europeu ha aprovat una resolució per unificar la definició de violació a la UE. En aquest context, Mireia del Pozo reflexiona sobre la seva importància i el Mes Europeu de la Diversitat. D’altra banda, Anna Maria Solórzana explica la tasca de l’Hospital de Campanya de Santa Anna, un projecte que ofereix suport i dignitat a persones vulnerables.Pel que fa a l’actualitat internacional, analitzem amb el doctor Ernest Pascual la violència política als Estats Units, així com les conseqüències econòmiques de la guerra a l’Orient Mitjà a Europa. A més, repassem l’actualitat del món animal amb Paula Calvo.Finalment, Damià Amorós ens presenta un especial de Historia National Geographic dedicat al monestir de Poblet, un dels grans conjunts gòtics europeus.</description>
       <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-nomes-si-si-parlament-europeu-hospital-campanya-santa-anna-poblet/17049700/</guid>
-      <pubDate>Sun, 03 May 2026 06:52:20 +0000</pubDate>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17049700.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 22:05:00 +0200</pubDate>
+      <itunes:duration>01:52:29</itunes:duration>
     </item>
   </channel>
 </rss>
