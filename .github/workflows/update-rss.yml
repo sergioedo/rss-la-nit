@@ -12,7 +12,7 @@ on:
 env:
   # Filtrar episodios por el inicio de la descripción (opcional)
   # Ejemplo: "Amb el professor"
-  DESCRIPTION_FILTER: ""
+  DESCRIPTION_FILTER: "Amb el professor Dani Agudo"
 
 jobs:
   update-feed:
