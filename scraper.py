@@ -3,6 +3,7 @@
 Scraper para extraer información de episodios del podcast "De Nit" de RTVE.
 """
 
+import html
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -33,72 +34,51 @@ class DeNitScraper:
         })
     
     def _extract_json_data(self, soup: BeautifulSoup) -> Optional[Dict]:
-        """
-        Extrae datos JSON embebidos en la página.
-        
-        Args:
-            soup: BeautifulSoup object de la página
-            
-        Returns:
-            Diccionario con los datos JSON o None
-        """
-        # Buscar script tags con datos JSON
         scripts = soup.find_all('script', type='application/ld+json')
         for script in scripts:
             try:
                 data = json.loads(script.string)
-                if data.get('@type') in ['AudioObject', 'Episode', 'PodcastEpisode']:
+                if data.get('@type') in ['AudioObject', 'Episode', 'PodcastEpisode', 'RadioEpisode']:
                     return data
             except (json.JSONDecodeError, AttributeError):
                 continue
         return None
     
     def _extract_audio_url(self, soup: BeautifulSoup, episode_id: str) -> Optional[str]:
-        """
-        Extrae la URL del archivo de audio.
-        
-        Args:
-            soup: BeautifulSoup object de la página
-            episode_id: ID del episodio
-            
-        Returns:
-            URL del audio o None
-        """
-        # Intentar extraer de JSON embebido
         json_data = self._extract_json_data(soup)
         if json_data and 'contentUrl' in json_data:
-            return json_data['contentUrl']
+            content_url = json_data['contentUrl']
+            if content_url and not content_url.endswith('/'):
+                return content_url
         
-        # Intentar obtener desde la API de RTVE
         try:
-            api_url = f"https://www.rtve.es/api/audios/{episode_id}.json"
+            api_url = f"https://api2.rtve.es/api/audios/{episode_id}.json"
             response = self.session.get(api_url, timeout=10)
             if response.status_code == 200:
                 data = response.json()
-                # Buscar URL de audio en diferentes campos posibles
-                if 'page' in data and 'items' in data['page']:
-                    for item in data['page']['items']:
-                        if 'url' in item:
-                            return item['url']
-                        if 'audioUrl' in item:
-                            return item['audioUrl']
+                if 'page' in data and 'items' in data['page'] and len(data['page']['items']) > 0:
+                    item = data['page']['items'][0]
+                    if 'qualities' in item and len(item['qualities']) > 0:
+                        return item['qualities'][0].get('filePath')
         except Exception as e:
             print(f"Error al obtener audio desde API para episodio {episode_id}: {e}")
         
         return None
     
-    def get_episode_details(self, episode_url: str) -> Optional[Dict]:
-        """
-        Obtiene los detalles de un episodio específico.
-        
-        Args:
-            episode_url: URL del episodio
-            
-        Returns:
-            Diccionario con los datos del episodio o None
-        """
+    def _fetch_api_data(self, episode_id: str) -> Optional[Dict]:
         try:
-            # Esperar para no saturar el servidor
+            api_url = f"https://api2.rtve.es/api/audios/{episode_id}.json"
+            response = self.session.get(api_url, timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                if 'page' in data and 'items' in data['page'] and len(data['page']['items']) > 0:
+                    return data['page']['items'][0]
+        except Exception as e:
+            print(f"Error al obtener datos desde API para episodio {episode_id}: {e}")
+        return None
+
+    def get_episode_details(self, episode_url: str) -> Optional[Dict]:
+        try:
             time.sleep(self.delay)
             
             response = self.session.get(episode_url, timeout=10)
@@ -106,54 +86,73 @@ class DeNitScraper:
             
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # Extraer ID del episodio de la URL
             episode_id = episode_url.rstrip('/').split('/')[-1]
             
-            # Extraer datos JSON embebidos
             json_data = self._extract_json_data(soup)
+            api_data = self._fetch_api_data(episode_id)
             
-            # Título
             title = None
             if json_data and 'name' in json_data:
-                title = json_data['name']
+                title = html.unescape(json_data['name'])
+            elif api_data and 'title' in api_data:
+                title = html.unescape(api_data['title'])
             else:
                 title_tag = soup.find('h1', class_='title') or soup.find('h1')
                 title = title_tag.text.strip() if title_tag else None
             
-            # Descripción
             description = None
-            if json_data and 'description' in json_data:
-                description = json_data['description']
+            if json_data and 'audio' in json_data and isinstance(json_data['audio'], list) and len(json_data['audio']) > 0 and 'description' in json_data['audio'][0]:
+                description = html.unescape(json_data['audio'][0]['description'])
+            elif api_data and 'description' in api_data:
+                description = html.unescape(re.sub(r'<[^>]+>', '', api_data['description']))
+            elif json_data and 'description' in json_data:
+                description = html.unescape(json_data['description'])
             else:
                 desc_tag = soup.find('meta', {'name': 'description'})
                 if desc_tag:
                     description = desc_tag.get('content', '').strip()
             
-            # Fecha de publicación
             pub_date = None
-            if json_data and 'uploadDate' in json_data:
-                pub_date = json_data['uploadDate']
+            if json_data and 'audio' in json_data and isinstance(json_data['audio'], list) and len(json_data['audio']) > 0:
+                pub_date = json_data['audio'][0].get('uploadDate')
+            elif json_data and 'publication' in json_data and isinstance(json_data['publication'], list) and len(json_data['publication']) > 0:
+                pub_date = json_data['publication'][0].get('startDate')
+            elif api_data and 'publicationDate' in api_data:
+                pub_date = api_data['publicationDate']
             else:
                 date_tag = soup.find('time')
                 if date_tag:
                     pub_date = date_tag.get('datetime', '')
             
-            # Duración
             duration = None
-            if json_data and 'duration' in json_data:
-                duration = json_data['duration']
+            if json_data and 'audio' in json_data and isinstance(json_data['audio'], list) and len(json_data['audio']) > 0:
+                duration = json_data['audio'][0].get('duration')
+            elif api_data and 'duration' in api_data:
+                duration_ms = api_data['duration']
+                if duration_ms:
+                    seconds = int(duration_ms) // 1000
+                    hours = seconds // 3600
+                    minutes = (seconds % 3600) // 60
+                    secs = seconds % 60
+                    duration = f"PT{hours}H{minutes}M{secs}S"
             
-            # Imagen/thumbnail
             image_url = None
-            if json_data and 'thumbnailUrl' in json_data:
-                image_url = json_data['thumbnailUrl']
+            if json_data and 'image' in json_data:
+                image_url = json_data['image']
+            elif api_data and 'imageSEO' in api_data:
+                image_url = api_data['imageSEO']
+            elif json_data and 'audio' in json_data and isinstance(json_data['audio'], list) and len(json_data['audio']) > 0:
+                image_url = json_data['audio'][0].get('thumbnailUrl')
             else:
                 img_tag = soup.find('meta', {'property': 'og:image'})
                 if img_tag:
                     image_url = img_tag.get('content', '')
             
-            # URL del audio
-            audio_url = self._extract_audio_url(soup, episode_id)
+            audio_url = None
+            if api_data and 'qualities' in api_data and len(api_data['qualities']) > 0:
+                audio_url = api_data['qualities'][0].get('filePath')
+            if not audio_url:
+                audio_url = self._extract_audio_url(soup, episode_id)
             
             if not title:
                 print(f"Error: No se pudo extraer el título del episodio desde {episode_url}. El episodio será omitido.")
