@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Tue, 05 May 2026 06:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 06:55:26 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,15 +24,5 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>50 anys de la mort de Carol Reed</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-50-anys-mort-carol-reed/17045772/</link>
-      <description>Amb el professor Dani Agudo recordem els 50 anys de la mort de Carol Reed, un dels grans directors del cinema britànic i responsable d'obres com The Third Man o Odd Man Out.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-50-anys-mort-carol-reed/17045772/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17045772.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Apr 2026 23:05:00 +0000</pubDate>
-      <itunes:image href="https://img.rtve.es/a/nit-50-anys-mort-carol-reed_17045772.png"/>
-      <itunes:duration>00:22:29</itunes:duration>
-    </item>
   </channel>
 </rss>
