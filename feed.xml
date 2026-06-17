@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Tue, 16 Jun 2026 07:57:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:49:47 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -33,6 +33,16 @@
       <pubDate>Sun, 06 Sep 2026 23:45:00 +0000</pubDate>
       <itunes:image href="https://img.rtve.es/a/nit-pel-licules-per-visita-del-papa-amb-dani-agudo_17110041.png"/>
       <itunes:duration>00:24:01</itunes:duration>
+    </item>
+    <item>
+      <title>25 anys sense Anthony Quinn</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-25-anys-sense-anthony-quinn/17118793/</link>
+      <description>Amb el professor Dani Agudo recordem la figura de l’actor Anthony Quinn quan es compleixen 25 anys de la seva mort. Repassem la seva trajectòria artística i el llegat que ha deixat al món del cinema.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-25-anys-sense-anthony-quinn/17118793/</guid>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17118793.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 23:59:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-25-anys-sense-anthony-quinn_17118793.png"/>
+      <itunes:duration>00:24:51</itunes:duration>
     </item>
   </channel>
 </rss>
