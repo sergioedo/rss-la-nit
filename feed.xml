@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 18 Jun 2026 07:40:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:52:01 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,16 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>Pel·lícules per la visita del Papa, amb Dani Agudo</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-pel-licules-per-visita-del-papa-amb-dani-agudo/17110041/</link>
-      <description>Amb el professor Dani Agudo, aprofitem l’actualitat marcada per la visita del Papa Lleó XIV per fer una mirada cinematogràfica a l’organització de grans esdeveniments. A través de diverses pel·lícules del cinema espanyol, descobrim personatges que han de coordinar actes multitudinaris, superar tota mena d’imprevistos i convertir les seves idees en realitat. Un recorregut ple d’humor i curiositats cinematogràfiques.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-pel-licules-per-visita-del-papa-amb-dani-agudo/17110041/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17110041.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Sep 2026 23:45:00 +0000</pubDate>
-      <itunes:image href="https://img.rtve.es/a/nit-pel-licules-per-visita-del-papa-amb-dani-agudo_17110041.png"/>
-      <itunes:duration>00:24:01</itunes:duration>
-    </item>
     <item>
       <title>25 anys sense Anthony Quinn</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-25-anys-sense-anthony-quinn/17118793/</link>
