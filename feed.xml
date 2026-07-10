@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Thu, 09 Jul 2026 07:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:10:31 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -33,6 +33,15 @@
       <pubDate>Sat, 07 Feb 2026 23:15:00 +0000</pubDate>
       <itunes:image href="https://img.rtve.es/a/nit-dues-pel-licules-van-marcar-generacio-terminator-2-independence-day_17141647.png"/>
       <itunes:duration>00:25:40</itunes:duration>
+    </item>
+    <item>
+      <title>John Williams i Steven Spielberg, amb Dani Agudo</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17151025/</link>
+      <description>Amb el professor Dani Agudo repassem una de les col·laboracions més icòniques de la història del cinema: la de John Williams i Steven Spielberg. Descobrim com la música del compositor ha contribuït a definir l'univers cinematogràfic del director i ha convertit moltes de les seves pel·lícules en autèntics clàssics.</description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17151025/</guid>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17151025.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 23:20:00 +0200</pubDate>
+      <itunes:duration>00:26:06</itunes:duration>
     </item>
   </channel>
 </rss>
