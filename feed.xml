@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Mon, 13 Jul 2026 07:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:44:42 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -24,16 +24,6 @@
       <itunes:email>info@rtve.es</itunes:email>
     </itunes:owner>
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
-    <item>
-      <title>Dues pel·lícules que van marcar una generació: 'Terminator 2' i 'Independence Day'</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-dues-pel-licules-van-marcar-generacio-terminator-2-independence-day/17141647/</link>
-      <description>Amb el professor Dani Agudo celebrem el 35è aniversari de Terminator 2 i el 30è d'Independence Day, dues pel·lícules icòniques que van revolucionar el cinema d'acció i ciència-ficció i que continuen deixant empremta tres dècades després.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-dues-pel-licules-van-marcar-generacio-terminator-2-independence-day/17141647/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17141647.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 07 Feb 2026 23:15:00 +0000</pubDate>
-      <itunes:image href="https://img.rtve.es/a/nit-dues-pel-licules-van-marcar-generacio-terminator-2-independence-day_17141647.png"/>
-      <itunes:duration>00:25:40</itunes:duration>
-    </item>
     <item>
       <title>John Williams i Steven Spielberg, amb Dani Agudo</title>
       <link>https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17151025/</link>
