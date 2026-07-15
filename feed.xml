@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:45:17 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -26,11 +26,12 @@
     <itunes:summary>De Nit és el programa nocturn de RNE 4. Feed RSS no oficial generat automàticament.</itunes:summary>
     <item>
       <title>John Williams i Steven Spielberg, amb Dani Agudo</title>
-      <link>https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17151025/</link>
-      <description>Amb el professor Dani Agudo repassem una de les col·laboracions més icòniques de la història del cinema: la de John Williams i Steven Spielberg. Descobrim com la música del compositor ha contribuït a definir l'univers cinematogràfic del director i ha convertit moltes de les seves pel·lícules en autèntics clàssics.</description>
-      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17151025/</guid>
-      <enclosure url="https://ztnr.rtve.es/ztnr/17151025.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Jul 2026 23:20:00 +0200</pubDate>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17156621/</link>
+      <description>Amb el professor Dani Agudo repassem una de les col·laboracions més icòniques de la història del cinema: la de John Williams i Steven Spielberg. Descobrim com la música del compositor ha contribuït a definir l'univers cinematogràfic del director i ha convertit moltes de les seves pel·lícules en autèntics clàssics. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-john-williams-steven-spielberg-amb-dani-agudo/17156621/</guid>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17156621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2026 23:25:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-john-williams-steven-spielberg-amb-dani-agudo_17156621.png"/>
       <itunes:duration>00:26:06</itunes:duration>
     </item>
   </channel>
