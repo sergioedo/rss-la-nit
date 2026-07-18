@@ -14,7 +14,7 @@
       <link>https://www.rtve.es/play/audios/de-nit/</link>
     </image>
     <language>ca</language>
-    <lastBuildDate>Fri, 17 Jul 2026 06:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:39:25 +0000</lastBuildDate>
     <itunes:author>RTVE</itunes:author>
     <itunes:category text="Music"/>
     <itunes:image href="https://img2.rtve.es/imagenes/de-nit/1625484441092.jpg"/>
@@ -33,6 +33,16 @@
       <pubDate>Mon, 07 Sep 2026 23:25:00 +0000</pubDate>
       <itunes:image href="https://img.rtve.es/a/nit-john-williams-steven-spielberg-amb-dani-agudo_17156621.png"/>
       <itunes:duration>00:26:06</itunes:duration>
+    </item>
+    <item>
+      <title>L'actor Jeff Bridges, amb Dani Agudo</title>
+      <link>https://www.rtve.es/play/audios/de-nit/nit-lactor-jeff-bridges-amb-dani-agudo/17160964/</link>
+      <description>Amb el professor Dani Agudo repassem la figura i la trajectòria de l'actor Jeff Bridges, un dels grans noms del cinema nord-americà. </description>
+      <guid isPermaLink="true">https://www.rtve.es/play/audios/de-nit/nit-lactor-jeff-bridges-amb-dani-agudo/17160964/</guid>
+      <enclosure url="https://ztnr.rtve.es/ztnr/17160964.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 23:37:00 +0000</pubDate>
+      <itunes:image href="https://img.rtve.es/a/nit-lactor-jeff-bridges-amb-dani-agudo_17160964.png"/>
+      <itunes:duration>00:29:42</itunes:duration>
     </item>
   </channel>
 </rss>
